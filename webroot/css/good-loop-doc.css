@@ -4,9 +4,11 @@
 }
 
 h1,h2,h3,h4 {
-	 font-family: 'bebas neue';	 
+	font-family: 'bebas neue';	 
+	color: black;
 }
-#main h1,h2,h3,h4, #main h1,h2,h3,h4 > a {
+/* weird but it works */
+#main h1,h2,h3,h4, #main h1,h2,h3,h4 a, #main h1 a, #main h2 a, #main h3 a {
 	color: black;
 }
 
