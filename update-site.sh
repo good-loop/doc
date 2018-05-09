@@ -7,7 +7,7 @@ ssh winterwell@robinson.soda.sh 'git --git-dir=/home/winterwell/doc.good-loop.co
 ssh winterwell@robinson.soda.sh 'git --git-dir=/home/winterwell/doc.good-loop.com/.git/ --work-tree=/home/winterwell/doc.good-loop.com reset --hard FETCH_HEAD'
 echo ""
 echo "Robinson is converting markdown to HTML..."
-ssh winterwell@robinson.soda.sh 'cd /home/winterwell/doc.good-loop.com/jerbil && bash run-jerbil.sh'
+ssh winterwell@robinson.soda.sh 'cd /home/winterwell/doc.good-loop.com && bash run-jerbil.sh'
 echo ""
 echo "Robinson is optimising images..."
 ssh winterwell@robinson.soda.sh 'jpegoptim /home/winterwell/doc.good-loop.com/webroot/img/*.jpg'
