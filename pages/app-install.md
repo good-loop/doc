@@ -9,9 +9,15 @@ Our email is: support@good-loop.com
 
 Good-Loop adverts are opt-in: you offer them to users as an action they can take. How you do this will depend on your app. It could be a button, a tile in a stream, or a menu item. It's up to you.
 
-Here are some graphics you can use for making buttons:
+Here are some ideas you can use for making buttons:
 
-TODO
+
+<button>
+	<img src='/img/buttons/donate-by-watching-button.png'>
+</button>
+
+
+* [Animated CTAs](https://drive.google.com/open?id=1_P-mfbkbJE3KAZNFzu2waB8SKwGkjj24)
 
 ### 3. Wire your button up. 
 
