@@ -19,7 +19,7 @@ Here are some ideas you can use for making buttons:
 </button>
 
 
-* [Animated CTAs](https://drive.google.com/open?id=1_P-mfbkbJE3KAZNFzu2waB8SKwGkjj24)
+* [Animated CTAs](https://drive.google.com/open?id=1lY54O4fGGnuY6djEUpnafYZUG1uMLIq4)
 
 ### 3. Wire your button up. 
 
