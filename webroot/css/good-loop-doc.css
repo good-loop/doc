@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'bebas neue';
+    src: url('../fonts/BebasNeue.otf');
+}
+
+h1,h2,h3,h4 {
+	 font-family: 'bebas neue';
+	 text-align: center;
+}
+h1 a,h2 a,h3 a,h4 a, h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover, h1 a:focus,h2 a:focus,h3 a:focus,h4 a:focus {
+    color: inherit;
+}
+a, a:hover, a:focus {
+    color: inherit;
+}
+
+/*.h1-section {
+	border: solid 4px black;
+}
+.h2-section {
+	border: solid 2px blue;
+}
+.h3-section {
+	border: solid 1px red;
+}*/
+
+.h2-section, footer {
+	padding-top: 1vw;
+	padding-bottom: 5vw;	
+	padding-left: 5vw;
+	padding-right: 5vw;
+	clear: both;
+}
+
+@media screen and (min-width: 768px) {
+	.h2-section, footer {
+		padding-left: calc(50vw - 375px);
+		padding-right: calc(50vw - 375px);
+	}
+}
+
+body {
+	 font-family: 'Roboto Condensed';
+	 color: #444;
+	 background-color: #EAECF0;
+	 padding-top: 4.5rem;
+}
+
+#main {
+	font-size: 200%;
+}
+
+#video-background {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    width:100%;
+    position: absolute;
+}
+
+.fill-width {
+	width:100%;
+	height: auto;	
+}
+
+/*			SECTIONS 			*/
+
+footer {
+	background: #333;
+	color:#fff;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
