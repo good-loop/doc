@@ -14,7 +14,7 @@ Good-Loop adverts are opt-in: you offer them to users as an action they can take
 Here are some ideas you can use for making buttons:
 
 
-<button>
+<button class='btn btn-light' >
 	<img src='/img/buttons/donate-by-watching-button.png'>
 </button>
 
