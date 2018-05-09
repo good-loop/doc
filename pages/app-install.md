@@ -1,7 +1,9 @@
 
 # How to Install Good-Loop in Your App
 
-### 1. Email us (support@good-loop.com) to get your Good-Loop App ID.
+### 1. Email us to get your Good-Loop App ID.
+
+Our email is: support@good-loop.com
 
 ### 2. Make a button to launch Good-Loop.   
 

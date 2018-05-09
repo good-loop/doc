@@ -4,7 +4,10 @@
 }
 
 h1,h2,h3,h4 {
-	 font-family: 'bebas neue';
+	 font-family: 'bebas neue';	 
+}
+h1,h2,h3,h4, h1,h2,h3,h4 a {
+	color: black;
 }
 
 body {
