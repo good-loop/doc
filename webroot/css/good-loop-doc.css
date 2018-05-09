@@ -7,16 +7,20 @@ h1,h2,h3,h4 {
 	font-family: 'bebas neue';	 
 	color: black;
 }
-/* weird but it works */
+/* weird but it works and seemed to be needed */
 #main h1,h2,h3,h4, #main h1,h2,h3,h4 a, #main h1 a, #main h2 a, #main h3 a {
 	color: black;
 }
 
 body {
 	 font-family: 'Roboto Condensed';
-	 color: #444;
-	 background-color: #EAECF0;
+	 color: #333;
+	 /* background-color: #EAECF0; */
 	 padding-top: 4.5rem;
+}
+
+#main code {
+	color: #51808a;
 }
 
 /*			SECTIONS 			*/
@@ -26,6 +30,9 @@ footer {
 	color:#fff;
 }
 
+footer a {
+	color:#fff;
+}
 footer a:hover {
     text-decoration: none;
 }
