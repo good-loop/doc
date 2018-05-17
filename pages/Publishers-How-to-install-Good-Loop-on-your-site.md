@@ -1,4 +1,6 @@
 
+title: Publishers: How to install Good-Loop on your site
+
 Installing Good-Loop is quick and safe. You have to put some tags into your pages. You can put these directly into the pages. Or if you use a tag manager (e.g. Google Tag Manager), then you can install Good.Loop via this. 
 
 **If you use DoubleClick for Publishers (DfP), please see [this guide](Use-with-DoubleClick-for-Publishers-(DfP))**. 
