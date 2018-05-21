@@ -20,3 +20,4 @@ Sprechen Sie Good-Loop?
 
 * Unit: An advert widget that goes on web-pages. We have several variants.
 
+* Metrics: See [Good-Loop logging metrics](Canonical-Terminology-for-Logging-Good-Loop-Events.html)
