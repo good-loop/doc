@@ -45,6 +45,8 @@ Syntax note: We use the format \*term\*, as this does not cause issues with url 
 | Tracking Macro | Description | Example
 | --- | --- | --- |
 | \*event_type\* | The event type | `minview` or `click` |
+| \*timestamp\* | The time (in epoch milliseconds) | `1527261777138` (which is 25th May 2018 if you're human) |
+| \*bid\* | Our bid/impression ID, which can be used in audit trails |  |
 
 Here is an example of an adunit with external tracking:
 
