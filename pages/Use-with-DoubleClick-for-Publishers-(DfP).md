@@ -1,9 +1,10 @@
 
 # Using Good-Loop with DoubleClick for Publishers (DfP)
 
-Good-Loop works with Doubleclick for Publishers (DfP). Although we do recommend you use Good-Loop directly instead -- installing the tag into your pages is easy (see [this guide](https://github.com/good-loop/doc/wiki/Publishers:-How-to-install-Good.Loop-on-your-site)) and has advantages: DfP gets ad-blocked, plus a direct install gives more reliable lightboxes, and you can set Good-Loop to backfill with DfP. However we understand if you want to use DfP, and here is how to install Good-Loop using DfP.
+Good-Loop works with Doubleclick for Publishers (DfP). Although we do recommend you use Good-Loop directly instead -- installing the tag into your pages is easy (see [this guide](Publishers-How-to-install-Good-Loop-on-your-site)) and has advantages: DfP gets ad-blocked, plus a direct install gives more reliable lightboxes, and you can set Good-Loop to backfill with DfP. However we understand if you want to use DfP, and here is how to install Good-Loop using DfP.
 
-This page is for people who are already familiar with DfP. If you're new to DfP and want help setting up DfP ad-slots and line-items -- see our [[Beginners-DfP-Tutorial]].
+This page is for people who are already familiar with DfP.
+If you're new to DfP and want help setting up DfP ad-slots and line-items -- see our [Beginners DfP Tutorial](Beginners-DfP-Tutorial).
 
 When you make a new Creative, choose `Third Party`
 
