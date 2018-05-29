@@ -10,6 +10,10 @@ This is a jargon-buster glossary -- short explanations for the terms we use. It'
 
 * Inventory: space where ads can be shown. This can include the whole range of print ads,  banner ads, interstitials, etc.
 
+* VAST: a standard wrapper (from the IAB) for video adverts which can include tracking calls.
+
+* VPAID: supports video + js for interactive video ads, or more tracking.
+
 ## Good-Loop Terms 
 
 Sprechen Sie Good-Loop?
