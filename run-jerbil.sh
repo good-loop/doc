@@ -1,4 +1,4 @@
 #!/bin/bash
 
 #/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/
-java -cp jerbil-all.jar Jerbil .
+cd ~/winterwell/jerbil/ && java -cp jerbil.jar:lib/* Jerbil ~/winterwell/doc.good-loop.com
