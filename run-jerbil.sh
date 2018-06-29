@@ -1,4 +1,4 @@
 #!/bin/bash
 
 #/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/
-java -jar ~/winterwell/jerbil/jerbil-all.jar ~/winterwell/doc
+java -jar ~/winterwell/jerbil/jerbil-all.jar .
