@@ -50,7 +50,7 @@ Syntax note: We use the format \*term\*, as this does not cause issues with url 
 | \*timestamp\* | The time (in epoch milliseconds) | `1527261777138` (which is 25th May 2018 if you're human) |
 | \*bid\* | Our bid/impression ID, which can be used in audit trails |  |
 | \*cachebuster\* | A random nonce, to avoid browser caching |  |
-| \*domain\* | The publishers website domain |  |
+| \*publisher\* | The publisher ID - usually their website domain |  |
 
 Here is an example of an adunit with external tracking:
 
