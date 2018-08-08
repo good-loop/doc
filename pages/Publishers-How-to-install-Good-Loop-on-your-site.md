@@ -24,7 +24,7 @@ If you notice that the video-playing lightbox seems to be trapped in a tiny conf
 <script src='//as.good-loop.com/unit.js?gl.variant=click-through' async></script>
 ```
 
-Once that is done, contact us to setup which charities you want to support, and your financial arrangements. You can change the charities later.
+Once that is done, contact us to setup your financial arrangements. 
 
 That's it!
 
