@@ -3,10 +3,10 @@
 
 ## Is it valid to incentivise data collection?
 
-Yes. 
+Yes :)
 
 The issue arises because consent from the user must be "freely given", and that means you cannot make consent a requirement 
-for services unless it is needed for the service. This sounds like a problem for incentivised data collection 
+for a service unless it is _needed_ for the service. This sounds like a problem for incentivised data collection 
 (since the data isn't needed for the incentive). However the ICO advice on this matter allows for things like 
 loyalty schemes, where data collection is incentivised.
 
@@ -17,3 +17,8 @@ loyalty schemes, where data collection is incentivised.
 > However, you must be careful not to cross the line and unfairly penalise those who refuse consent.
 
 https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/consent/what-is-valid-consent/
+
+
+-------
+
+After the revolution, all legal opinions will be given with emoticons.
