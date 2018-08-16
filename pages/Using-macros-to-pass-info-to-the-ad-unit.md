@@ -16,7 +16,7 @@ Below is a list of macros from DoubleClick for Publishers which we support. The 
 | site | %%SITE%% | The website |
 | gl_url | %%PATTERN:url%% | The full url of the page |
 | width | %%WIDTH%% | Width of the ad slot (in pixels) |
-| height | %%HEIGHT | Height of the ad slot (in pixels) |
+| height | %%HEIGHT%% | Height of the ad slot (in pixels) |
 | adsize |   | width x height of the ad slot (in pixels) |
 | adunit | %%ADUNIT%% | An identifier for the ad slot |
 | cb | %%CACHEBUSTER%% | A random number to stop caching causing repreated ads |
@@ -35,7 +35,7 @@ way to do it, as it is easier to manage.
 | xbid |    | Auction ID or other reference for the specific impression |
 | onEvent |    | A tracking url for all events. This can use our tracking macros. Remember to url-encode the url so it can be passed as a parameter. |
 
-## Our Macros
+## Our Macros (for use in tracker urls and vast tags)
 
 You can provide the Good-Loop adunit with tracking urls (e.g. click_url for click counting).
 These tracking urls can use our Tracking Macros to insert some information.
@@ -44,7 +44,7 @@ You can also use our macros in vast/vpaid urls.
 
 Syntax note: We use the format \*term\*, as this does not cause issues with url encoding, nor does it conflict with DoubleClick's use of %%.
 
-| Tracking Macro | Description | Example
+| Macro | Description | Example
 | --- | --- | --- |
 | \*event_type\* | The event type | `minview` or `click` |
 | \*timestamp\* | The time (in epoch milliseconds) | `1527261777138` (which is 25th May 2018 if you're human) |
