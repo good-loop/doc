@@ -8,7 +8,8 @@ Chrome (mobile)	| Latest		|	YES
 Firefox			| Latest		|	YES
 Firefox (mobile)	| Latest		|	YES
 Safari			| Latest		|	YES
-Safari (iOS)		|9+			|	YES
+Safari (iOS)    |10+    | YES
+Safari (iOS)		|9			|	SOME
 IE 				| 9			| NO
 IE 				| 11 		| 	YES	
 Microsoft Edge	| Latest		|	YES
