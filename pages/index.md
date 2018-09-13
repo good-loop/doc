@@ -8,6 +8,7 @@ Welcome to the doc wiki!
 * [How to install Good-Loop with Doubleclick for Publishers (DfP)](/Use-with-DoubleClick-for-Publishers-(DfP).html)
 	* Beginners-DfP-Tutorial.html
 	* [Using Macros to pass information](/Using-macros-to-pass-info-to-the-ad-unit.html)
+* [How to Get a VAST/VPAID tag out of the Portal and use it](/Good-Loop-and-VAST-VPAID.html)
 * [How to install Good-Loop in an App](/app-install.html)
 * [Instagram: How to put a Good Loop advert into Instagram](/instagram-install.html)
 * [Browser compatibility](/Browser-Compatibility-List.html)
