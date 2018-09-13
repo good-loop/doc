@@ -31,3 +31,20 @@ footer a {
 footer a:hover {
     text-decoration: none;
 }
+
+.width-contain {
+	width: 100%;
+	height: auto;
+}
+
+.onethird-height {
+	max-height: 33vh;
+}
+
+.twothirds-height {
+	max-height: 66vh;
+}
+
+.right-border {
+	border-right: 1px solid #b7b7b7;
+}
