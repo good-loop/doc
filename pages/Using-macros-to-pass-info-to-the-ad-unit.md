@@ -4,11 +4,7 @@ Here is an example of our adunit tag with DfP macros:
 
 ```
 <div class='goodloopad'></div>
-<script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&onclick=%%
-
-
-
-L_ESC%%'></script>
+<script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&onclick=%%CLICK_URL_ESC%%'></script>
 ```
 
 Below is a list of macros from DoubleClick for Publishers which we support. The more context information you can pass to the adunit, the better.
@@ -56,7 +52,7 @@ Syntax note: We use the format \*term\*, as this does not cause issues with url 
 | \*cachebuster\* | A random nonce, to avoid browser caching |  |
 | \*publisher\* | The publisher ID - usually their website domain |  |
 
-Here is an example of an adunit with external tracking:
+Here is an example of an adunit with external tracking for all events (visible, mouseover, click, etc):
 
 <div class='goodloopad'></div>
 <script src='//testas.good-loop.com/unit.js?onEvent=http%3A//myserver.com/click-counter%3Fevent%3D*event_type*'
