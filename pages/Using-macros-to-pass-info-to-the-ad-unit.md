@@ -4,7 +4,11 @@ Here is an example of our adunit tag with DfP macros:
 
 ```
 <div class='goodloopad'></div>
-<script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&click_url=%%CLICK_URL_ESC%%'></script>
+<script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&onclick=%%
+
+
+
+L_ESC%%'></script>
 ```
 
 Below is a list of macros from DoubleClick for Publishers which we support. The more context information you can pass to the adunit, the better.
@@ -30,14 +34,14 @@ way to do it, as it is easier to manage.
 
 | Good-Loop parameter | DfP Macro | Description |
 | --- | --- | --- |
-| click_url | %%CLICK_URL_ESC%% | A tracking url to record if a viewer clicks through to visit the advertiser. This is for the Publisher's stats. Good-Loop also provides other analytics tie-ins for advertisers to collect event based stats |
+| onclick | %%CLICK_URL_ESC%% | A tracking url to record if a viewer clicks through to visit the advertiser. This is for the Publisher's stats. Good-Loop also provides other analytics tie-ins for advertisers to collect event based stats |
 | minview_url |    | A tracking url to record when a viewer watches the minimum amount for the view to count (also known as a completed-video-view or completed-view elsewhere). |
 | xbid |    | Auction ID or other reference for the specific impression |
 | onEvent |    | A tracking url for all events. This can use our tracking macros. Remember to url-encode the url so it can be passed as a parameter. |
 
 ## Our Macros (for use in tracker urls and vast tags)
 
-You can provide the Good-Loop adunit with tracking urls (e.g. click_url for click counting).
+You can provide the Good-Loop adunit with tracking urls (e.g. onclick for click counting).
 These tracking urls can use our Tracking Macros to insert some information.
 
 You can also use our macros in vast/vpaid urls.
