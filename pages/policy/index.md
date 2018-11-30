@@ -1,19 +1,19 @@
 
-# SoDash Policies & Processes
+# Good-Loop Policies & Processes
 
- - [Security policy](/help/terms/security)
- - [Privacy policy](/help/terms/privacy)
- - [Access Control policy](/help/policy/access-control-policy)
- - [Data Protection and GDPR Policy](/help/policy/data-gdpr-policy)
- - [Quality Assurance policy](/help/policy/quality-assurance) 
- - [Server update policy](/help/policy/server-update-policy.html) 
- - [Business Continuity policy](/help/policy/business-continuity)
- - [Environmental policy](/help/policy/environmental-policy)
- - [Health & Safety policy](/help/policy/health-and-safety)
- - [Training policy](/help/policy/training)
- - [Equal Opportunities policy](/help/policy/equal-opportunities)
+ - [Security policy](security.html)
+ - [Privacy policy](privacy-policy.html)
+ - [Access Control policy](access-control-policy.html)
+ - [Data Protection and GDPR Policy](data-gdpr-policy.html)
+ - [Quality Assurance policy](quality-assurance) 
+ - [Server update policy](server-update-policy.html) 
+ - [Business Continuity policy](business-continuity.html)
+ - [Environmental policy](environmental-policy.html)
+ - [Health & Safety policy](health-and-safety.html)
+ - [Training policy](training.html)
+ - [Equal Opportunities policy](equal-opportunities.html)
  
 
  <!-- 
- - [Tech Processes](/help/policy/tech-process)
+ - [Tech Processes](tech-process)
  Software release policy -- needs a rewrite for external audiences -->
