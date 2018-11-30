@@ -9,7 +9,7 @@ Examples: Twitter data, with client tagging & notes.
 
 Access for: Only those staff who need access as part of serving the client.
 
-Control: By SoDash login and the client-specific workspace membership.
+Control: By Good-Loop login and the client-specific workspace membership.
 
 Acceptable use: Client data must be treated as confidential and may only be looked at as part of serving that client's needs.  
 
@@ -33,7 +33,7 @@ Access for: Sales staff and senior management.
 
 Control: By SalesForce login and Dropbox folder permissions.
 
-Acceptable use: Sales data is to be used for promoting SoDash.
+Acceptable use: Sales data is to be used for promoting Good-Loop.
 
 
 
@@ -45,7 +45,7 @@ Access for: Account managers.
 
 Control: By Dropbox folder permissions.
 
-Acceptable use: Account manager data is to be used for serving specific SoDash clients.
+Acceptable use: Account manager data is to be used for serving specific Good-Loop clients.
 
 
 

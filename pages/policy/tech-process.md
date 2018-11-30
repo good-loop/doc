@@ -1,7 +1,7 @@
-# SoDash processes
+# Good-Loop processes
 
-This handbook aims to summarize key processes in SoDash development.
-The intended audience is SoDash tech and account staff.
+This handbook aims to summarize key processes in Good-Loop development.
+The intended audience is Good-Loop tech and account staff.
 
 ## Support
 

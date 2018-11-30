@@ -2,7 +2,7 @@
 
 ## Overview
 
-SoDash / Winterwell aims to provide high quality services and products through continuous
+Good-Loop / Winterwell aims to provide high quality services and products through continuous
 improvement of its standards and performance. The Company is committed to meeting the needs of all
 its clients and stakeholders.
 

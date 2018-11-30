@@ -1,4 +1,4 @@
-# SoDash Password Policy
+# Good-Loop Password Policy
 
 Policy Owner: Senior Sys-Admin
 

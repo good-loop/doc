@@ -3,11 +3,11 @@
 
 The GDPR law (starting: May 2018) grants the public increased rights and imposes new rules on how data must be handled.
 
-SoDash supports the GDPR. This policy document covers how SoDash handles the GDPR.
+Good-Loop supports the GDPR. This policy document covers how Good-Loop handles the GDPR.
 
 ## Hosting
 
-SoDash services are hosted within the EU, and comply with GDPR regulations. 
+Good-Loop services are hosted within the EU, and comply with GDPR regulations. 
 
 ## Process around Data Issues
 
@@ -16,7 +16,7 @@ Clients can contact Support with data and GDPR issues. We will provide support a
 ## Consent
 
 It is important that companies have consent from individuals to store and process their data, and to communicate with them.
-Fortunately, consent is rarely an issue when using SoDash, as consent is provided via the social-media systems.
+Fortunately, consent is rarely an issue when using Good-Loop, as consent is provided via the social-media systems.
 
 Clients must stay within the terms and conditions of the social networks. Additional consent is required beyond those. 
 For example, if someone shares their email address on Twitter for customer support, that does not mean the email can be used
@@ -27,34 +27,34 @@ we recommend creating a tagset to cover who has and hasn't given that, and to al
 
 ## Data Security
 
-SoDash stores all data on secure servers. Please see our Security Policy for more details.
+Good-Loop stores all data on secure servers. Please see our Security Policy for more details.
 
-*If you suspect a data breach, you must notify SoDash support straight away.*
+*If you suspect a data breach, you must notify Good-Loop support straight away.*
 The GDPR places legal obligations on handling data breaches, including time limits for responding.
 
 If we suspect a data breach we will notify you within 24 hours. 
 We would then work with you to identify the scope of the breach and take remedial action.
 
-SoDash has not had a data breach in it's 10 year history.
+Good-Loop has not had a data breach in it's 10 year history.
 
 
 ## Rights of the Data Subject
 
-Individuals ("data subjects") can contact a SoDash client with various requests. 
-The client should lead the response to a data subject request, with the SoDash support team available to help clients handle these.
+Individuals ("data subjects") can contact a Good-Loop client with various requests. 
+The client should lead the response to a data subject request, with the Good-Loop support team available to help clients handle these.
 
 ### Right to be Informed
 
-It is unlikely that this applies. If you are using SoDash to collect information from one person about another, . 
+It is unlikely that this applies. If you are using Good-Loop to collect information from one person about another, . 
 
 ### Right of Access
 
-SoDash supports filtering by individual including by mentions. This makes it straightforward to respond to a request for data.
+Good-Loop supports filtering by individual including by mentions. This makes it straightforward to respond to a request for data.
  
 ### Right to Correct Data
 
 Our data-subject data is sourced from external sites. The data subject can update their profile on Twitter or Facebook, 
-and SoDash will automatically update with the correction.
+and Good-Loop will automatically update with the correction.
 
 ### Right to Erasure (right to be forgotten)
 
@@ -65,18 +65,18 @@ Erased data will instantly vanish from front-end use. It will take one month for
 
 ### Right to Data Portability
 
-Usually this right is satisfied by the social media networks from which SoDash draws data.
-However, it is also easy to extract data from SoDash in .csv form, in order to provide portable data should a data subject require it.
+Usually this right is satisfied by the social media networks from which Good-Loop draws data.
+However, it is also easy to extract data from Good-Loop in .csv form, in order to provide portable data should a data subject require it.
 
 ### Automated Decision-Making
 
-We do not recommend using SoDash for automated decision-making about a person that has legal or similar significant effects for that person. 
+We do not recommend using Good-Loop for automated decision-making about a person that has legal or similar significant effects for that person. 
 We are not aware of any clients who do so. If you should wish to do so, please check GDPR regulations.
 
 
 ## GDPR Article 28 Compliance Checklist
 
-SoDash acts as a Data Processor for its clients. We support the aims of the GDPR and we fully accept our responsibilities as a Data Processor. 
+Good-Loop acts as a Data Processor for its clients. We support the aims of the GDPR and we fully accept our responsibilities as a Data Processor. 
 In order to comply with the requirements of Article 28 of the GDPR:
 
  - As a Data Processor, we will only act on the instructions of the Data Controller (unless required by law to act without such instructions).
