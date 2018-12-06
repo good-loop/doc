@@ -1,6 +1,6 @@
 # Business Continuity Plan
 
-Winterwell aims to respond rapidly and effectively to emergencies in a way that
+Good-Loop aims to respond rapidly and effectively to emergencies in a way that
 minimizes disruption to our client engagements and other operations.
 
 ## People
@@ -21,7 +21,7 @@ in the event of disaster or catastrophic hardware failure.
 
 ## Workplace
 
-Winterwell's work does not rely upon our office. All our researchers
+Good-Loop's work does not rely upon our office. All our researchers
 have the capacity to work both when on location and from home. All
 documents and software code are stored using multiple off-site
 repositories (see *documents and systems* above). We can therefore
@@ -30,6 +30,6 @@ only minor disruption.
 
 ## Financial
 
-Winterwell operates a careful financial policy. A percentage of profit
+Good-Loop operates a careful financial policy. A percentage of profit
 is retained to provide a solid buffer against financial changes.
 

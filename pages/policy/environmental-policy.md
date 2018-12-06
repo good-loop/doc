@@ -2,12 +2,12 @@
 
 ## Introduction
 
-Winterwell recognises that, in pursuing its commercial and research objectives, it shares with all
+Good-Loop recognises that, in pursuing its commercial and research objectives, it shares with all
 organisations a responsibility to protect and nurture the environment. By exercising proper
-control over its activities, Winterwell will promote the use of sustainable resources and discourage
+control over its activities, Good-Loop will promote the use of sustainable resources and discourage
 practices that are wasteful or damaging to the environment.
 
-This policy contains a variety of practical measures to be taken in order to enable Winterwell to
+This policy contains a variety of practical measures to be taken in order to enable Good-Loop to
 make a contribution towards protecting the environment at all levels of our activity.
 A twice-yearly review of the policy will enable monitoring of achievements, and will identify
 opportunities for further improvements.
@@ -16,7 +16,7 @@ opportunities for further improvements.
 
  - To reduce unfavourable impact on the natural environment of Wintewell through our work and consumption.
  - To conserve and support use of sustainable resources.
- - To follow “the waste hierarchy”:
+ - To follow "the waste hierarchy":
    1. Reduce;
    2. Reuse or reclaim;
    3. Recover (Recycle);
@@ -26,11 +26,11 @@ opportunities for further improvements.
 
 ## Carbon neutrality
 
-Winterwell aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriately certified supplier.
+Good-Loop aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriately certified supplier.
 
 ## Use of materials
 
-Winterwell will, where appropriate and possible:
+Good-Loop will, where appropriate and possible:
 
  - Use double-sided printing and photocopying.
  - Reuse printed paper for draft copies, internal notices, rough pads, draft printing, and
@@ -44,7 +44,7 @@ Winterwell will, where appropriate and possible:
 
 ## Electrical and Waste conservation
 
-Winterwell will, where appropriate and possible:
+Good-Loop will, where appropriate and possible:
 
  - Minimise electrical consumption by switching off electrical appliances when not in use for
    long periods or over night, including lights, printers, computers, computer monitors,
@@ -56,7 +56,7 @@ Winterwell will, where appropriate and possible:
 
 ## Purchasing
 
-Winterwell will, where appropriate and possible:
+Good-Loop will, where appropriate and possible:
 
  - Purchase recycled products.
  - Purchase Fair Trade products.
@@ -69,7 +69,7 @@ Winterwell will, where appropriate and possible:
 
 ## Disposal of materials
 
-Winterwell will, where appropriate and possible:
+Good-Loop will, where appropriate and possible:
 
  - Recycle all paper waste, including shredded confidential documents.
  - Provide clearly labelled containers for material to be recycled, with notices of what can and
@@ -81,7 +81,7 @@ Winterwell will, where appropriate and possible:
 
 ## Chemicals
 
-Winterwell will, where appropriate and possible:
+Good-Loop will, where appropriate and possible:
 
  - Use non-ozone depleting chemicals.
  - Use only biodegradable, non-toxic, environmentally sound cleaning products and materials.
@@ -90,7 +90,7 @@ Winterwell will, where appropriate and possible:
 
 ## Employees’ awareness
 
-Winterwell will, where appropriate and possible:
+Good-Loop will, where appropriate and possible:
 
  - Provide environmental information and education for employees, encouraging employees
       to behave in an environmentally responsible manner.

@@ -27,7 +27,7 @@ Delivers adverts!
 
 Just a collection of html pages, for testing ad variants.
 
-### DataLog (in open-code/winterwell.datalog) lg.good-loop.com
+### DataLog (in open-code/Good-Loop.datalog) lg.good-loop.com
 
 ### YouAgain Server (in code) youagain.good-loop.com
 
@@ -41,7 +41,7 @@ Used by My-Loop.
 
 The backend is provided by the other micro-services here.
 
-### Calstat calstat.winterwell.com
+### Calstat calstat.Good-Loop.com
 
 For ad-hoc services: calstat (calendar counter), and tasks (used by portal)
 Maybe we should rename it to labs?
