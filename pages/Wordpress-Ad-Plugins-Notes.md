@@ -17,6 +17,9 @@ The adunit should now be running happily on your page. For further information, 
 
 If you are unable to set up the adunit by following the above instructions, or if you'd like to tell us what you think about the plugin, contact us at publishers@good-loop.com.
 
+### WordPress version ###
+Our plugin has been tested for WordPress versions 4.7 - 5.0.
+
 ## Old Method ##
 
 #### Requirements for Good-Loop Ads ####
