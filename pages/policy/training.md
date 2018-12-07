@@ -2,7 +2,7 @@
 
 > "The only thing worse than training your employees and maybe they leave, is not training them and maybe they stay."
 
-Winterwell recognises that its most important resource is its
+Good-Loop recognises that its most important resource is its
 employees.  It is committed to the training and development of its entire
 workforce so that they will gain the necessary skills to reach their full
 potential. This will assist in enabling the organisation to achieve its aims

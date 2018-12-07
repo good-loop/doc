@@ -8,6 +8,7 @@
  - [Quality Assurance policy](quality-assurance) 
  - [Server update policy](server-update-policy.html) 
  - [Business Continuity policy](business-continuity.html)
+ - [Ethical policy](ethical-policy.html)
  - [Environmental policy](environmental-policy.html)
  - [Health & Safety policy](health-and-safety.html)
  - [Training policy](training.html)

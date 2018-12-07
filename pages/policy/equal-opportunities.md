@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Winterwell Associates Ltd. recognises that it is essential to provide equal
+Good-Loop Associates Ltd. recognises that it is essential to provide equal
 opportunities to all persons without discrimination. This policy sets out the
 company's position on equal opportunity in all aspects of employment,
 including recruitment and promotion, and provides guidance and encouragement to
@@ -11,7 +11,7 @@ of sex, race, nationality, marital status, disability as defined by the Disabili
 Discrimination Act 1995, part-time and fixed term contract status, age, sexual
 orientation or religion.
 
-Winterwell believes that diversity benefits the culture of the company.
+Good-Loop believes that diversity benefits the culture of the company.
 Demographic data will be collected (at each employee's discretion) to provide a
 picture of company diversity. Where it appears that a demographic group is
 being under-represented, circumstances will be investigated to identify any
@@ -19,7 +19,7 @@ policies or criteria which exclude or discourage certain groups and, if so,
 whether these are justifiable.
 
 Diversity is not restricted to one area of operations. 
-This policy applies to all areas of Winterwell's operations, including
+This policy applies to all areas of Good-Loop's operations, including
 management, employees, sub-contractors, and suppliers.
 
 ## 2. Definition of Discrimination
@@ -50,7 +50,7 @@ This includes whether or not such behaviour is explicitly directed at a person.
 
 ## 3. Statement of policy
 
-(a) It is the policy of Winterwell Associates Ltd to ensure that no job
+(a) It is the policy of Good-Loop Associates Ltd to ensure that no job
 applicant, employee or supplier receives less favourable treatment on the grounds of sex,
 race, nationality, marital status, disability, age, part-time or fixed term contract status,
 sexual orientation or religion, or is disadvantaged by conditions or
@@ -58,7 +58,7 @@ requirements that cannot be shown to be justifiable. The organisation is
 committed not only to its legal obligations but also to the positive promotion
 of equality of opportunity in all aspects of employment.
 
-(b) It is the policy of Winterwell Associates Ltd to ensure that the workplace
+(b) It is the policy of Good-Loop Associates Ltd to ensure that the workplace
 is a safe and respectful environment for all people, regardless of sex, race, nationality, marital
 status, disability, age, part-time or fixed term contract status, sexual orientation,
  or religion.
@@ -66,7 +66,7 @@ status, disability, age, part-time or fixed term contract status, sexual orienta
 (c) The organisation recognises that adhering to the Equal Opportunities
 Policy, combined with relevant employment policies and practices, maximises the
 effective use of individuals in both the organisation's and employees' best
-interests. Winterwell Associates Ltd. recognises the great benefits in having a
+interests. Good-Loop Associates Ltd. recognises the great benefits in having a
 diverse workforce with different backgrounds, solely employed on ability.
 
 (d) The application of recruitment, training, and promotion policies to all
@@ -101,12 +101,12 @@ purely to job requirements and asked to all candidates.
 
 ## 5. Employment
 
-(a) Winterwell Associates Ltd. will not discriminate on the basis of sex, race, nationality, 
+(a) Good-Loop Associates Ltd. will not discriminate on the basis of sex, race, nationality, 
 marital status, disability, age, part-time or fixed term contract status,
 sexual orientation or religion in the allocation of duties between employees
 employed at any level with comparable job descriptions.
 
-(b) Winterwell Associates Ltd. will put in place any reasonable measures and/or
+(b) Good-Loop Associates Ltd. will put in place any reasonable measures and/or
 adjustments within the workplace for those employees who become disabled during
 employment or for disabled appointees.
 
@@ -116,7 +116,7 @@ development and promotion with equal opportunities for all.
 
 ## 6. Suppliers and Sub-Contractors
 
-(a) Winterwell Associates Ltd. will not discriminate on the basis of sex, race, nationality, 
+(a) Good-Loop Associates Ltd. will not discriminate on the basis of sex, race, nationality, 
 marital status, disability, age,
 sexual orientation or religion in the selection of suppliers or sub-contractors.
 
@@ -151,7 +151,7 @@ discourage certain groups and, if so, whether these are justifiable.
 
 ## 9. Grievances and victimisation
 
-(a) Winterwell Associates Ltd emphasises that discrimination and offensive behaviour are unacceptable
+(a) Good-Loop Associates Ltd emphasises that discrimination and offensive behaviour are unacceptable
 conduct which may lead to disciplinary action under the organisation's
 Disciplinary Procedure.
 

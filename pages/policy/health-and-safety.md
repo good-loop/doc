@@ -2,7 +2,7 @@
 
 Health and safety at Work etc Act 1974
 
-This is the Health and Safety Policy Statement of Winterwell Associates Ltd.
+This is the Health and Safety Policy Statement of Good-Loop Associates Ltd.
 
 Our statement of general policy is:
 
@@ -43,11 +43,11 @@ Assessments will be reviewed every 12 months or when the work activity changes, 
 
 ## Consultation with employees
 
-Winterwell is a small company. Employees are consulted on a personal basis regarding this policy and any changes to it.
+Good-Loop is a small company. Employees are consulted on a personal basis regarding this policy and any changes to it.
 
 ## Safe handling and use of substances
 
-Winterwell does not handle or use any dangerous substances. Policy in this area will be reviewed should the work activity change.
+Good-Loop does not handle or use any dangerous substances. Policy in this area will be reviewed should the work activity change.
 
 ## Information, instruction and supervision
 
