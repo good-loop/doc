@@ -1,5 +1,10 @@
 # Good-Loop Advert Taxonomy
 
+**From February 2019**
+
+These are the dimensions and standard values for describing an adunit. 
+These terms are used in advert setup and in reporting.
+
 1. **delivery** mechanism i.e. how does the adunit get onto the page?   
 Values: `vpaid`, `ourpage` (as.good-loop.com), `direct`, `iframe` (a non-expanding banner, e.g. an mpu2), `safeframe`
 
@@ -12,9 +17,7 @@ Values: `vpaid`, `ourpage` (as.good-loop.com), `direct`, `iframe` (a non-expandi
 Size is often called "format" in the industry, but that's ambiguous -- so we use `size` instead.
 It can be unset at the buying and request stage, with the adunit working it out dynamically.
 
-Behaviour:
-
-3. **play**: `onload`, `onvisible`, `onclick`, `clickthrough` (i.e. no video play), 
+3. **play** behaviour: `onload`, `onvisible`, `onclick`, `clickthrough` (i.e. no video play), 
 `onexpand` (i.e. safeframe), `none` (i.e. the CPC banner which has no video).
 
 4. **after**: `vanish` (e.g. pre-roll - the advert will cleanup and vanish once its finished), 
