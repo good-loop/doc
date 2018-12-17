@@ -6,7 +6,7 @@ These are the dimensions and standard values for describing an adunit.
 These terms are used in advert setup and in reporting.
 
 1. **delivery** mechanism i.e. how does the adunit get onto the page?   
-Values: `vpaid`, `ourpage` (as.good-loop.com), `direct`, `iframe` (a non-expanding banner, e.g. an mpu2), `safeframe`
+Values: `vpaid`, `ourpage` (as.good-loop.com or CPC wrapper), `app` (e.g. SnapChat), `direct`, `iframe` (a non-expanding banner, e.g. an mpu2), `safeframe`
 
 2. **size**:   
  - (standard banner sizes) `mpu`, `mpu2`, `leaderboard`, `billboard`, `vbnr`, `stickyfooter`
@@ -43,5 +43,7 @@ A standard pre-roll would be:
 A blogger direct tag might be:
 `delivery:direct size:mpu play:onexpand style:default after:persist`
 
-The CPC banner would be:
-`delivery:banner size:mpu play:none cta:adlink`
+The CPC banner has the pre-click banner -- which might be an image in AdSense, or e.g. `delivery:banner size:mpu play:none cta:adlink`
+The CPC banner post-click has `delivery:ourpage size:fullscreen play:none cta:adlink` -- where play:none is the key difference from the as.good-loop.com adplayer.
+
+Snap post-swipe-up is `delivery:app size:fullscreen play:onload style:snap`
