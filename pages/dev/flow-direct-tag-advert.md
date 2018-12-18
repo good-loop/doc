@@ -1,6 +1,9 @@
 
 # Flow for a Typical Successful Direct-Tag Advert
 
+TODO @Roscoe update this
+ + add flow for vast/vpaid, snap, ourpage, safeframe/iframe
+
 All activity is by the AdUnit (aka unit.js), unless otherwise stated.
 
 See notes in TrafficReport.jsx on event types
@@ -9,7 +12,7 @@ See notes in TrafficReport.jsx on event types
 1. WebPage -> AdServer: requests unit.js
 2. `req` (from AdServer) ... `reqfail` if there is an error.
 3. AdServer -> SQL: new Bid
-4. AdServer -> WebPage: unit.js sent
+4. AdServer -> WebPage: **unit.js sent**
 5. `render`
 6. `visible`
 7. if (click-to-open) then...
