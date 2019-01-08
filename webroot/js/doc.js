@@ -1,4 +1,12 @@
 
+// email
+$(function() {
+	$('.email').each(function() {
+		var e = $(this).data('name')+'@'+$(this).data('domain');
+		$(this).html('<a href="mailto:'+e+'">'+e+'</a>');
+	});
+});
+
 // ContactUs formsubmission creates a "thank you" section
 // TODO replace with a My-Loop form
 $(function (){
