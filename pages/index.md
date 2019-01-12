@@ -12,8 +12,11 @@ Welcome to the doc wiki!
 * [How to install Good-Loop in an App](/app-install.html)
 * [Instagram: How to put a Good Loop advert into Instagram](/instagram-install.html)
 * [Browser compatibility](/Browser-Compatibility-List.html)
-* [AdTech Jargon Glossary](/AdTech-Jargon-Glossary.html)
+* Terminology / Jargon
+	* [General AdTech Jargon Glossary](/AdTech-Jargon-Glossary.html)
 	* [Good-Loop logging terms](/Canonical-Terminology-for-Logging-Good-Loop-Events.html)
+	* [AdUnit Taxonomy](/dev/adunit-taxonomy.html)
+	* [Good-Loop Terminology](/Good-Loop-terminology.html)
 * [How to install the Good-Loop Tracking Pixel on your site](/How-to-install-the-Good.Loop-Tracking-Pixel-on-your-site.html)
 * [Common-Questions-&-Pitfalls](/Common-Questions-&-Pitfalls.html)
 * [Privacy Policy](/policy/privacy-policy.html)
