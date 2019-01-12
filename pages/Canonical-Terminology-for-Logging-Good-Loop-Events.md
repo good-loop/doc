@@ -1,4 +1,4 @@
-# Canonical Terminology for Logging Good-Loop Events:
+# Canonical Terminology for Logging Good-Loop Events
 
 These are the events logged by adserving, which you can access in the portal dashboard.
 

@@ -1,9 +1,10 @@
 # Good-Loop Advert Taxonomy
 
-**From February 2019**
+*From February 2019*
 
 These are the dimensions and standard values for describing an adunit. 
 These terms are used in advert setup and in reporting.
+See also the page on Good-Loop Terminology.
 
 1. **delivery** mechanism i.e. how does the adunit get onto the page?   
 Values: `vpaid`, `ourpage` (as.good-loop.com or CPC wrapper), `app` (e.g. SnapChat), `direct`, `iframe` (a non-expanding banner, e.g. an mpu2), `safeframe`
