@@ -59,6 +59,7 @@ footer a:hover {
 #main {
 	font-family: "brandon grotesque", brandon, helvetica, sans-serif;
 	font-size: 22px;
+	padding-bottom: 100px; /*the footer overlaps the bottom of the content otherwise*/
 }
 
 #main > p:nth-child(1) {
