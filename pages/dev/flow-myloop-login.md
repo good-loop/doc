@@ -18,13 +18,16 @@ Note: The browser does not leave the MyLoop page.
 
 ## Login with Twitter
 
-Same as above, except with some extra steps for the oauth dance.
+Similar to email, but with some extra steps for the oauth dance.
 
 1. MyLoop (via youagain.js): send the browser to YouAgain Server saying "I want to login by Twitter"
 2. YouAgain Server -> redirect the browser to Twitter
 3. Twitter <-> user: authorisation
 4. Twitter -> redirect the browser to YouAgain Server
-5. YouAgain Server: store Twitter oauth, create a jwt token, and redirect the browser to MyLoop
+5. YouAgain Server: store Twitter oauth, create a jwt token, and redirect the browser to MyLoop. 
+A ya_c parameter is placed on the url, so that the YouAgain Client code can get it.
+
+Currently: Twitter data is NOT auto-analysed for e.g. gender. It is analysed when a separate call is made to /analyzedata
 
 The browser does leave the MyLoop page, and returns to it when oauth has finished.
 

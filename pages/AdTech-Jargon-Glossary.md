@@ -18,10 +18,12 @@ This is a jargon-buster glossary -- short explanations for the terms we use. It'
 
 Sprechen Sie Good-Loop?
 
-* Landing-page: a standalone page which plays video adverts.
+* Our Page: a standalone page which plays video adverts.
 
 * Portal: our web-app for managing publisher and advertiser setup.
 
-* Unit: An advert widget that goes on web-pages. We have several variants.
+* Unit or AdUnit: An advert widget that goes on web-pages. We have several variants.
 
 * Metrics: See [Good-Loop logging metrics](Canonical-Terminology-for-Logging-Good-Loop-Events.html)
+
+* AdUnit variants: see the [AdUnit Taxonomy](dev/adunit-taxonomy.html)
