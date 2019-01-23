@@ -1,4 +1,4 @@
-#Browser Compatibility List#
+## Browser Compatibility List
 <br>
 
 Browser | Version | Compatibile

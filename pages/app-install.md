@@ -1,5 +1,5 @@
 
-# How to Install Good-Loop in Your App
+## How to Install Good-Loop in Your App
 
 ### 1. Join the programme
 

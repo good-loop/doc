@@ -1,4 +1,4 @@
-Many adservers (SSPs) use macros to pass information to adverts. For example, DoubleClick for Publishers (DfP) requires macros for the advert to know such basics as what site it is on, and the height and width of the space.
+## Many adservers (SSPs) use macros to pass information to adverts. For example, DoubleClick for Publishers (DfP) requires macros for the advert to know such basics as what site it is on, and the height and width of the space.
 
 Here is an example of our adunit tag with DfP macros:
 

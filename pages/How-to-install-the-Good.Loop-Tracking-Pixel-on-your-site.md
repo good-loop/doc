@@ -1,4 +1,4 @@
-There are two versions, *enhanced* and *basic*. The first gives more information, whilst the second is easier to setup.
+## There are two versions, *enhanced* and *basic*. The first gives more information, whilst the second is easier to setup.
 
 ## 1. Enhanced Tracking (page-views and exits, e.g. click-throughs)
 

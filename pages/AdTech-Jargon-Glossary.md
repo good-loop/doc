@@ -1,4 +1,4 @@
-This is a jargon-buster glossary -- short explanations for the terms we use. It's for AdTech terms, and for our own company jargon.
+## This is a jargon-buster glossary -- short explanations for the terms we use. It's for AdTech terms, and for our own company jargon.
 
 **Good glossary site: http://theonlineadvertisingguide.com/online-advertising-glossary/**
 
