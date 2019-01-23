@@ -1,5 +1,5 @@
 
-Welcome to the doc wiki!
+# Welcome to the doc wiki!
 
 > Good-Loop is the world’s first ethical advertising network. Our philosophy is that by empowering people to control the adverts they see – you create more inherent value for advertisers. We harness this added value to fund charities. 
 

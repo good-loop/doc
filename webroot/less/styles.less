@@ -1,0 +1,39 @@
+/* Good-Loop styling (which might mess up e.g. SoGive) 
+NOT included by default (yet) */
+
+// Headers
+
+h1, .h1 {
+	color: @gl-red;
+	text-align: center;	
+	width:100%;
+}
+//	side lines for h1
+.sideline {
+	// background-color: #cdc0c1;
+	background: #333;
+	content: " ";
+	display: inline-block;
+	height: 1px;
+	// margin: 0 10px;
+	// position: absolute;
+	width: 20%;
+	zoom: 1;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+h1:not(.subtitle)::before {
+	.sideline();
+}
+h1:not(.subtitle)::after {
+	.sideline();
+}
+
+h1.subtitle {
+	font-family: Helvetica, sans-serif !important;
+	text-transform: uppercase;
+	font-size: 20px; // from 36
+	margin-top: -5px; // from +20
+	font-weight: 300 !important;
+}
+// end Headers 

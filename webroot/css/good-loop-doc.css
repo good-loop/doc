@@ -48,3 +48,35 @@ footer a:hover {
 .right-border {
 	border-right: 1px solid #b7b7b7;
 }
+
+
+.navbar, footer {
+	background-color: #a5252d;
+	font-family: "brandon grotesque", brandon, helvetica, sans-serif;
+	font-size: 19px;
+}
+
+#main {
+	font-family: "brandon grotesque", brandon, helvetica, sans-serif;
+	font-size: 22px;
+}
+
+#main > p:nth-child(1) {
+	font-family: "bebas neue", bebas, helvetica, sans-serif;
+	text-align: center;
+	font-size: 36px;
+	margin: 2.5vh auto;
+}
+
+a {
+	color: #a5252d;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline dashed currentColor;
+}
+
+footer {
+	padding: 1.5vh !important;
+}

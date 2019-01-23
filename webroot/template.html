@@ -20,10 +20,14 @@
 	 crossorigin="anonymous">
 	<link href="css/good-loop-doc.css" rel="stylesheet">
 	<link href="https://cdn.rawgit.com/michalsnik/aos/2.0.4/dist/aos.css" rel="stylesheet">
+	<link rel="stylesheet/less" type="text/css" href="less/styles.less" />
+	<script>less = { env: 'development'};</script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" ></script>
+	<script>less.watch();</script>
 </head>
 
 <body>
-	<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top">
 		<a class="navbar-brand" href="#">
 			Good-Loop: Documentation: $title
 		</a>
@@ -61,11 +65,10 @@
 		$contents
 	</div>
 
-	<footer>
-		<div class='col-md-12'>
-			<div class="col-md-offset-3 col-md-6">
-				<p class="footer-text">					
-					<a href='http://www.good-loop.com'>Good-Loop</a>
+	<footer class="navbar fixed-bottom">
+		<div class="col-md-3">
+			
+					<a href="http://www.good-loop.com">Good-Loop</a>
 					<a class="s-social-icon s-social-icon-facebook" href="https://www.facebook.com/the.good.loop/" target="_blank">
 						<span class="fa fa-facebook"></span>
 					</a>
@@ -78,10 +81,9 @@
 					<a class="s-social-icon s-social-icon-instagram" href="https://www.instagram.com/good.loop.ads/" target="_blank">
 						<span class="fa fa-instagram"></span>
 					</a>
-				</p>
+				
 			</div>
-		</div>
-		<div>
+		<div class="trademark col-md-3">
 			Good-Loop Ltd is a registered UK company no. SC548356.
 		</div>
 	</footer>
