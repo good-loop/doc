@@ -11,5 +11,5 @@ Safari			| Latest		|	YES
 Safari (iOS)    |10+    | YES
 Safari (iOS)		|9			|	SOME
 IE 				| 9			| NO
-IE 				| 11 		| 	YES	
+IE 				| 11 		| 	NO	
 Microsoft Edge	| Latest		|	YES
