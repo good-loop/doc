@@ -12,29 +12,32 @@ Overall, we should serve a premium experience to at least 95% of requests.
 
 We measure traffic share from `visible` events in our logs (i.e. we're looking at the market we serve).
 
-??
-@Dan A
-Hello Dan - Could you put some notes in for what we do and don't support?
-Thanks, 
-Dan
-
 ### Browsers
 
-* Chrome:
+Officially supported versions:
 
-* Safari:
-
-* FireFox:
-
-* Edge:
-
-* Internet Explorer:
+* Chrome: latest version
+* Chrome (mobile): latest version
+* Firefox: latest version
+* Firefox (mobile): latest version
+* Safari: latest version
+* Safari (mobile): version 10+, some features on version 9??
+* Edge: latest version
+* Internet Explorer (IE):
    * IE11: 0.25% traffic share in Jan 2019: Supported, but we may drop support in the future.
    * IE10, IE9, and older: Not supported.
 
 
 ### Devices
 
+Officially supported devices:
+
+* Android phones: ??version
+* iPhone: ??versions
+* iPad: ??versions
+* Android tablets??
+* Widescreen desktop
+* Laptops (i.e. smaller screen desktop)
 
 ## The Portal
 
