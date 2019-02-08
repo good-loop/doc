@@ -11,7 +11,7 @@
 * [How to Get a VAST/VPAID tag out of the Portal and use it](/Good-Loop-and-VAST-VPAID.html)
 * [How to install Good-Loop in an App](/app-install.html)
 * [Instagram: How to put a Good Loop advert into Instagram](/instagram-install.html)
-* [Browser compatibility](/Browser-Compatibility-List.html)
+* [Browser compatibility](/supported-browsers.html)
 * Terminology / Jargon
 	* [General AdTech Jargon Glossary](/AdTech-Jargon-Glossary.html)
 	* [Good-Loop logging terms](/Canonical-Terminology-for-Logging-Good-Loop-Events.html)
