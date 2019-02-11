@@ -35,7 +35,7 @@ See notes in TrafficReport.jsx on event types
 25. `donation` (once `minview` and `pick` both sent) with charity-ID cid and price.
 26. `endvideo`
 27. `ctaoffer*` (`*` may be `email`, `appinstall`, `connect`, `consent`, `coupon`, `like`, `link`, `share`)
-28. `ctaoffer*-yes` or `ctaoffer*-no` If the User engages with `email`, `connect` or `consent` CTA.
+28. `cta*-yes` or `cta*-no` If the User engages with `email`, `connect` or `consent` CTA.
 29. `click` If the User clicks through to the advertiser landing page.
 30. `clickother` If the User clicks through to find-out-more.
 31. `close` Can be close lightbox, or close page/tab.
