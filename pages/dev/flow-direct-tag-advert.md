@@ -23,22 +23,23 @@ See notes in TrafficReport.jsx on event types
 13. if (click-to-open) then...
 14. `mouseover` (not on touch devices)
 15. `open`
-16. `elapse` (sent every 5 seconds whilst the video is playing)
-17. if (15 seconds watched) then...
-18. `minview`
-19. DataLog -> AdServer: "minview" (via CallbackManager.java -> LgWebhookServlet.java)
-20. AdServer -> SQL: set Bid.due=true
-21. AdServer -> SQL: reduce Budget
-22. AdServer: if (Budget=0) then switch off Advert.
-23. AdServer -> DataLog: `spend`
-24. `pick` with charity-ID cid (NB: on iPhone, pick happens before the video)
-25. `donation` (once `minview` and `pick` both sent) with charity-ID cid and price.
-26. `endvideo`
-27. `ctaoffer*` (`*` may be `email`, `appinstall`, `connect`, `consent`, `coupon`, `like`, `link`, `share`)
-28. `cta*-yes` or `cta*-no` If the User engages with `email`, `connect` or `consent` CTA.
-29. `click` If the User clicks through to the advertiser landing page.
-30. `clickother` If the User clicks through to find-out-more.
-31. `close` Can be close lightbox, or close page/tab.
+16. `startvideo`
+17. `elapse` (sent every 5 seconds whilst the video is playing)
+18. if (15 seconds watched) then...
+19. `minview`
+20. DataLog -> AdServer: "minview" (via CallbackManager.java -> LgWebhookServlet.java)
+21. AdServer -> SQL: set Bid.due=true
+22. AdServer -> SQL: reduce Budget
+23. AdServer: if (Budget=0) then switch off Advert.
+24. AdServer -> DataLog: `spend`
+25. `pick` with charity-ID cid (NB: on iPhone, pick happens before the video)
+26. `donation` (once `minview` and `pick` both sent) with charity-ID cid and price.
+27. `endvideo`
+28. `ctaoffer*` (`*` may be `email`, `appinstall`, `connect`, `consent`, `coupon`, `like`, `link`, `share`)
+29. `cta*-yes` or `cta*-no` If the User engages with `email`, `connect` or `consent` CTA.
+30. `click` If the User clicks through to the advertiser landing page.
+31. `clickother` If the User clicks through to find-out-more.
+32. `close` Can be close lightbox, or close page/tab.
 
 Notes
 
