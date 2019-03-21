@@ -10,10 +10,11 @@
  - [Business Continuity policy](business-continuity.html)
  - [Ethical policy](ethical-policy.html)
  - [Environmental policy](environmental-policy.html)
+ - [Safeguarding policy](safeguarding-policy.html)
  - [Health & Safety policy](health-and-safety.html)
  - [Training policy](training.html)
  - [Equal Opportunities policy](equal-opportunities.html)
- 
+ - [Staff Perks](staff-perks.html) 
 
  <!-- 
  - [Tech Processes](tech-process)

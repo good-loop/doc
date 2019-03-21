@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Good-Loop Associates Ltd. recognises that it is essential to provide equal
+Good-Loop recognises that it is essential to provide equal
 opportunities to all persons without discrimination. This policy sets out the
 company's position on equal opportunity in all aspects of employment,
 including recruitment and promotion, and provides guidance and encouragement to
@@ -66,7 +66,7 @@ status, disability, age, part-time or fixed term contract status, sexual orienta
 (c) The organisation recognises that adhering to the Equal Opportunities
 Policy, combined with relevant employment policies and practices, maximises the
 effective use of individuals in both the organisation's and employees' best
-interests. Good-Loop Associates Ltd. recognises the great benefits in having a
+interests. Good-Loop recognises the great benefits in having a
 diverse workforce with different backgrounds, solely employed on ability.
 
 (d) The application of recruitment, training, and promotion policies to all
@@ -88,7 +88,11 @@ religion.
 applicants unless there is a genuine occupational qualification which limits
 the post to this particular group, in which case this must be clearly stated.
 
-(c) All vacancies will be circulated internally.
+(c) All vacancies will be circulated internally. 
+
+(d) To encourage diversity, whenever feasible, vacancies will be circulated via 
+channels that encourage under-represented groups to apply, 
+in addition to normal channels.
 
 (d) All descriptions and specifications for posts will include only
 requirements that are necessary and justifiable for the effective performance
@@ -101,22 +105,25 @@ purely to job requirements and asked to all candidates.
 
 ## 5. Employment
 
-(a) Good-Loop Associates Ltd. will not discriminate on the basis of sex, race, nationality, 
+(a) Good-Loop will not discriminate on the basis of sex, race, nationality, 
 marital status, disability, age, part-time or fixed term contract status,
 sexual orientation or religion in the allocation of duties between employees
 employed at any level with comparable job descriptions.
 
-(b) Good-Loop Associates Ltd. will put in place any reasonable measures and/or
+(b) Good-Loop will put in place any reasonable measures and/or
 adjustments within the workplace for those employees who become disabled during
 employment or for disabled appointees.
 
 (c) All employees will be considered solely on their merits for career
 development and promotion with equal opportunities for all.
 
+(d) For transparency and to guard against any unfair pay differences, 
+the company has an open pay policy, where employees are entitled to see the 
+wages paid to others.
 
 ## 6. Suppliers and Sub-Contractors
 
-(a) Good-Loop Associates Ltd. will not discriminate on the basis of sex, race, nationality, 
+(a) Good-Loop will not discriminate on the basis of sex, race, nationality, 
 marital status, disability, age,
 sexual orientation or religion in the selection of suppliers or sub-contractors.
 
@@ -134,8 +141,7 @@ training needs with their Line Manager or the HR Department.
 
 ## 8. Monitoring
 
-(a) It is the responsibility of the Head of HR to ensure that all aspects of
-this policy are kept under review and are operated throughout the
+(a) It is the responsibility of the Directors to ensure that this policy is kept under review and is operated throughout the
 organisation.
 
 (b) Where it appears that applicants/employees are not being offered equal

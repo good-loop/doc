@@ -1,8 +1,6 @@
 # Health and safety policy statement
 
-Health and safety at Work etc Act 1974
-
-This is the Health and Safety Policy Statement of Good-Loop Associates Ltd.
+This is the Health and Safety Policy Statement of Good-Loop
 
 Our statement of general policy is:
 
@@ -87,7 +85,15 @@ The management will:
  - Check escape routes every month
  - Check fire extinguishers every month
 
+## Harrassment and Bullying
 
+The workplace should be a safe space for staff and stakeholders. Harrassment or bullying are unacceptable. 
+This covers physical or sexual harrassment, which will be treated particularly seriously, but also includes verbal abuse.
 
+Any employee experiencing harrassment or bullying, or witnessing it within the company, 
+should report it. Please see the Grievance Procedure for details. 
 
+The company will handle cases seriously and with sensitivity 
+to deliver a fair result that respects the rights of all involved.
 
+See also our [Equal Opportunities policy](equal-opportunities.html), which says: Abusive or offensive behaviour and comments are unacceptable, especially when linked to sexual, racial or gender groups. 
