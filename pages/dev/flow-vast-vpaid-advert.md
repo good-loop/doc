@@ -1,7 +1,5 @@
 
 # Flow for a Typical Successful VAST/VPAID Advert
-TODO @Roscoe Audit this for weirdness... committing late on a Friday because I'm doing it in the browser editor and need to turn off the computer.
-TODO @Roscoe add flow for apps, ourpage, safeframe/iframe
 
 All activity is by the AdUnit (aka unit.js), unless otherwise stated.
 
