@@ -1,7 +1,5 @@
 
-# Flow for a Typical Successful Direct-Tag Advert
-
-TODO @Roscoe add flow for vast/vpaid, snap, ourpage, safeframe/iframe
+# Flow for a Typical Successful Direct-Tag or SafeFrame Advert
 
 All activity is by the AdUnit (aka unit.js), unless otherwise stated.
 
@@ -9,6 +7,7 @@ See notes in TrafficReport.jsx on event types
 
 
 1. WebPage -> AdServer: requests unit.js or unit-debug.js (static file)
+1a. In the SafeFrame context, WebPage is an iframe created by Google's gpt.js to sandbox our unit
 2. WebPage: executes unit.js, creating src-less iframe and instantiating a local Redux store
 5. UnitJS -> AdServer: requests ads.js (dummy file to trigger adblock if present)
 6. `adok` or `adfail` depending on success of loading ads.js
@@ -20,6 +19,8 @@ See notes in TrafficReport.jsx on event types
 12. `visible`
 13. if (click-to-open) then...
 14. `mouseover` (not on touch devices)
+14a. (if serving into SafeFrame or other frame container) UnitJS requests expansion from frame API
+14b. UnitJS receives confirmation that frame has expanded
 15. `open`
 16. `startvideo`
 17. `elapse` (sent every 5 seconds whilst the video is playing)
