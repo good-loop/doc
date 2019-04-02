@@ -9,12 +9,10 @@ See notes in TrafficReport.jsx on event types
 
 
 1. WebPage -> AdServer: requests unit.js or unit-debug.js (static file)
-2. WebPage: executes unit.js
-3. UnitJS (host) -> AdServer: Creates iframe with src iframe.html (static file)
-4. IFrame -> AdServer: requests unit.js or unit-debug.js (may be different from file used in (1) if gl.debug parameter is set)
-5. UnitJS (client) -> AdServer: requests ads.js (dummy file to trigger adblock if present)
+2. WebPage: executes unit.js, creating src-less iframe and instantiating a local Redux store
+5. UnitJS -> AdServer: requests ads.js (dummy file to trigger adblock if present)
 6. `adok` or `adfail` depending on success of loading ads.js
-7. UnitJS (client) -> AdServer: requests unit.json
+7. UnitJS -> AdServer: requests unit.json
 8. `req` (from AdServer) ... `reqfail` if there is an error.
 9. AdServer -> SQL: new Bid
 10. AdServer -> UnitJS (client): **unit.json sent**
