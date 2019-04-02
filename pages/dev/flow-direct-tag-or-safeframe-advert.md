@@ -7,7 +7,7 @@ See notes in TrafficReport.jsx on event types
 
 
 1. WebPage -> AdServer: requests unit.js or unit-debug.js (static file)
-1a. In the SafeFrame context, WebPage is an iframe created by Google's gpt.js to sandbox our unit
+    * In the SafeFrame context, WebPage is an iframe created by Google's gpt.js to sandbox our unit
 2. WebPage: executes unit.js, creating src-less iframe and instantiating a local Redux store
 5. UnitJS -> AdServer: requests ads.js (dummy file to trigger adblock if present)
 6. `adok` or `adfail` depending on success of loading ads.js
@@ -18,9 +18,9 @@ See notes in TrafficReport.jsx on event types
 11. `render`
 12. `visible`
 13. if (click-to-open) then...
-14. `mouseover` (not on touch devices)
-14a. (if serving into SafeFrame or other frame container) UnitJS requests expansion from frame API
-14b. UnitJS receives confirmation that frame has expanded
+14. `mouseover` (not on touch devices), then user clicks/taps banner
+    * (if serving into SafeFrame or other frame container) UnitJS requests expansion from frame API
+    * UnitJS receives confirmation that frame has expanded
 15. `open`
 16. `startvideo`
 17. `elapse` (sent every 5 seconds whilst the video is playing)
