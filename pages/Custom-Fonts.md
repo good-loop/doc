@@ -1,7 +1,9 @@
 ## Custom Fonts for Advertisers
 
 An advertiser wants the unit to use their font instead of ours -- is it worth our time?
-Here's what we do, and generous estimates of how long it takes
+Here's what we do, and generous estimates of how long it takes.
+
+*TL;DR: Allow 90 minutes of extra work, probably by the tech team, plus overhead for coordinating, getting client sign-off, and doing it twice because they don't like how their requested font looks*
 
 Procedure:
 1. (Best case: 5 minutes, worst case: 30 minutes) Acquire the font they want to use. Preferably they'll just give it to us as a TTF, OTF, WOFF, EOT or other format. If they haven't...
