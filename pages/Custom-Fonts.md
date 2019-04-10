@@ -7,17 +7,17 @@ Here's what we do, and generous estimates of how long it takes.
 
 Procedure:
 1. (Best case: 5 minutes, worst case: 30 minutes) Acquire the font they want to use. Preferably they'll just give it to us as a TTF, OTF, WOFF, EOT or other format. If they haven't...
-  - Do they have a sample? The FontSquirrel Matcherator (https://www.fontsquirrel.com/matcherator) is quite good at identifying fonts automatically - even from a relatively small, low-resolution sample.
-  - If that didn't work, Identifont's 20-questions system (http://www.identifont.com/) should narrow the possibilities down to the point where you can pick the correct one out of a lineup.
-  - Once you know what font it is - hopefully they've been lazy and used a free font from Google (https://fonts.google.com/). Otherwise, you'll need to acquire it commercially, which is outside the scope of this documentation.
+    - Do they have a sample? The FontSquirrel Matcherator (https://www.fontsquirrel.com/matcherator) is quite good at identifying fonts automatically - even from a relatively small, low-resolution sample.
+    - If that didn't work, Identifont's 20-questions system (http://www.identifont.com/) should narrow the possibilities down to the point where you can pick the correct one out of a lineup.
+    - Once you know what font it is - hopefully they've been lazy and used a free font from Google (https://fonts.google.com/). Otherwise, you'll need to acquire it commercially, which is outside the scope of this documentation.
 2. (10 minutes) To use the font in the ad-unit, you'll need to subset it. We have a tight budget for download size and we don't need most of the glyphs the average font includes, so we strip them out.
-  - Go to the FontSquirrel Web-Font Generator (https://www.fontsquirrel.com/tools/webfont-generator)
-  - Upload your font and select "Expert" from the initial radio-buttons.
-  - Scroll to the "Subsetting" section, and select "Custom Subsetting" to pop out more options.
-  - Select `Lowercase`, `Uppercase`, and `Numbers` from the "Character Types" section.
-  - Enter `£$©®™!?"'()*+/-=_,.…:;#%&@` in the "Single Characters" field
-  - **If the advert is for a non-English-language audience, make sure any accented characters required are also selected**
-  - Click "Download your kit" to get a zip file. You'll want the WOFF file from inside. It's best to rename it to something like `[font-name]-subset.woff` so it's clear it's the stripped-down version.
+    - Go to the FontSquirrel Web-Font Generator (https://www.fontsquirrel.com/tools/webfont-generator)
+    - Upload your font and select "Expert" from the initial radio-buttons.
+    - Scroll to the "Subsetting" section, and select "Custom Subsetting" to pop out more options.
+    - Select `Lowercase`, `Uppercase`, and `Numbers` from the "Character Types" section.
+    - Enter `£$©®™!?"'()*+/-=_,.…:;#%&@` in the "Single Characters" field
+    - **If the advert is for a non-English-language audience, make sure any accented characters required are also selected**
+    - Click "Download your kit" to get a zip file. You'll want the WOFF file from inside. It's best to rename it to something like `[font-name]-subset.woff` so it's clear it's the stripped-down version.
 3. (10 minutes) Upload the WOFF somewhere publicly accessible - ask Dan A. about this if you're unsure. Copy the URL. Make sure it starts with `https`, or it'll be blocked by browser security!
 4. (5 minutes) Go to the advert on https://portal.good-loop.com/, go to the "Advanced" section, and add a font block to the advert's custom CSS:
 ```css
