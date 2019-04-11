@@ -59,7 +59,7 @@ Server hard drives are wiped using one of three methods in the following order o
 2. Random Zeroing Pass
 3. DoD 3-Full Zeroing Passes
 
-Hard Drives in the possession of the Edinburgh Office are subjugated to a DoD 3-Full Zeroing Pass before the disks are repurposed or retired
+Hard Drives in the possession of the Edinburgh Office are subjugated to a DoD 3-Full Zeroing Passes process before the disks are repurposed or retired
 
 ### Process for breaches involving the Data Protection Act
 
