@@ -54,7 +54,12 @@ Staff are trained to take care over access to computers, memory-sticks, etc. wit
 
 Personal data is disposed of securely -- for example, paper documents with personal data are shredded, and hard-drives 
 are securely wiped.
-Server hard drives are wiped using the US government standard NISPOM / DoD 5220.22-M method.
+Server hard drives are wiped using one of three methods in the following order of availability:
+1. Full Zeroing Pass
+2. Random Zeroing Pass
+3. DoD 3-Full Zeroing Passes
+
+Hard Drives in the possession of the Edinburgh Office are subjugated to a DoD 3-Full Zeroing Pass before the disks are repurposed or retired
 
 ### Process for breaches involving the Data Protection Act
 
