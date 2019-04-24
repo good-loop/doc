@@ -29,4 +29,8 @@ Anyone can raise an issue with a company.
 * A company's actions count for far more than it’s intentions and PR statements. Intentions and PR statements should not be counted, except as backed up by actions or legally binding commitments.
 * If working with a company is judged to be unethical, then the company will decline further work and minimise existing work, though the company does not have to renege on existing agreements. 
 
+## Outside Resources
+
+* <https://www.ethicalconsumer.org/>
+
 Keywords: ethics, ethical, policy policies
