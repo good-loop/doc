@@ -15,8 +15,8 @@
  - [Training policy](training.html)
  - [Equal Opportunities policy](equal-opportunities.html)
  - [Staff Perks](staff-perks.html) 
- - [Volunteering] (Volunteering.html)
- - [Maternity & Paternity Leave] (Maternity_Paternity_Leave.html)
+ - [Volunteering](Volunteering.html)
+ - [Maternity & Paternity Leave](Maternity_Paternity_Leave.html)
 
  <!-- 
  - [Tech Processes](tech-process)
