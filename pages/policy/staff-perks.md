@@ -10,6 +10,7 @@ your manager for more information.
  - Bike-to-work scheme.
  - Volunteering policy: You can do some volunteer work on company time.
  - Emergency and Legal Aid Fund of £200 per year to help any staff member in trouble.
+ - 28 days leave by default for full-time workers (pro-rata for Part-Time)
  - Personal budgets: We should work together to make Good-Loop a great place to work.
  So every staff member has a monthly budget (default: £50) to spend
  as they see fit on things that improve the company.
