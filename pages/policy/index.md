@@ -18,6 +18,7 @@
  - [Staff Perks](staff-perks.html) 
  - [Training policy](training.html)
  - [Volunteering](Volunteering.html)
+ - [Policies in the internal wiki](https://wiki.good-loop.com/index.php?title=Special%3ASearch&search=policy)
 
  <!-- 
  - [Tech Processes](tech-process)
