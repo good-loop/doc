@@ -2,6 +2,7 @@
 # Good-Loop Data Policy
 
 See also our [Data Manifesto](https://drive.google.com/open?id=17bh-h0kxG1Lmfzou7g5U9oCvBSrgbGDc)
+and our [User's Privacy Policy](privacy-policy.html)
 
 ## Meaningful User Rights
 

@@ -2,6 +2,7 @@
 # Good-Loop Policies & Processes
 
  - [Access Control policy](access-control-policy.html)
+ - [Data Policy](data-policy.html)
  - [Data Protection and GDPR Policy](data-gdpr-policy.html)
  - [Business Continuity policy](business-continuity.html)
  - [Equal Opportunities policy](equal-opportunities.html)
