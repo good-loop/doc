@@ -23,9 +23,9 @@ Officially supported versions:
 * Safari: latest version
 * Safari (mobile): version 10+, some features on version 9??
 * Edge: latest version
-* Internet Explorer (IE):
-   * IE11: 0.25% traffic share in Jan 2019: Supported, but we may drop support in the future.
-   * IE10, IE9, and older: Not supported.
+
+Officially Unsupported Browsers:
+* Internet Explorer (IE): All versions
 
 
 ### Devices
