@@ -14,7 +14,7 @@ opportunities for further improvements.
 
 ## Key Aims
 
- - To reduce unfavourable impact on the natural environment of Wintewell through our work and consumption.
+ - To reduce unfavourable impact on the natural environment of Good-Loop through our work and consumption.
  - To conserve and support use of sustainable resources.
  - To follow "the waste hierarchy":
    1. Reduce;
@@ -26,7 +26,7 @@ opportunities for further improvements.
 
 ## Carbon neutrality
 
-Good-Loop aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriately certified supplier.
+Good-Loop aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriately certified supplier. We use data-centres that are 100% powered by renewable energy.
 
 ## Use of materials
 
@@ -36,11 +36,8 @@ Good-Loop will, where appropriate and possible:
  - Reuse printed paper for draft copies, internal notices, rough pads, draft printing, and
    informal hard copies of documents.
  - Encourage electronic filing and archiving.
- - Limit the use of cover sheets for faxes.
- - Re-programme fax machines to print reports only if there is a problem.
- - Take care, when producing letters, not to run over on to another page or to include empty
-   line spaces if not necessary.
- - Recycle old envelopes and other packaging materials.
+ - When producing letters, avoid running over on to another page if not necessary.
+ - Recycle packaging materials.
 
 ## Electrical and Waste conservation
 
@@ -48,7 +45,7 @@ Good-Loop will, where appropriate and possible:
 
  - Minimise electrical consumption by switching off electrical appliances when not in use for
    long periods or over night, including lights, printers, computers, computer monitors,
-   heaters and mobile phone chargers.
+   and heaters.
  - Minimise waste by using washable crockery, cutlery, cups, glasses, etc rather than paper
    plates, plastic cups, etc.
  - Use Green energy suppliers, and review annually to gain benefits from market
@@ -60,24 +57,22 @@ Good-Loop will, where appropriate and possible:
 
  - Purchase recycled products.
  - Purchase Fair Trade products.
- - Purchase water from an environmentally responsible company.
  - Order printed stationery (letterhead, envelopes) from a printer with sound environmental
    principles and with a responsible environmental policy.
  - Favour suppliers who use little packaging or remove packaging as part of their supply
    contract and obligations and who operate according to sound environmental principles.
- - Use local suppliers, to minimise “fuel miles”.
+ - Use local suppliers, to minimise "fuel miles".
 
 ## Disposal of materials
 
 Good-Loop will, where appropriate and possible:
 
  - Recycle all paper waste, including shredded confidential documents.
- - Provide clearly labelled containers for material to be recycled, with notices of what can and
-       cannot be recycled.
+ - Provide clearly labelled containers for material to be recycled, with notices of what can and cannot be recycled.
  - Recycle paper, cardboard, glass, aluminium, etc.
  - Return all toners and cartridges to suppliers or recyclers.
- - Advertise redundant furniture and equipment for reuse, or donate to Sofa Project.
- - Take unused non-toxic items to organisations such as ‘Children’s Scrapstore’ for reuse.
+ - Advertise redundant furniture and equipment for reuse, or donate to charity.
+ - Take unused non-toxic items to charity organisations for reuse.
 
 ## Chemicals
 
@@ -88,19 +83,18 @@ Good-Loop will, where appropriate and possible:
  - Use all products sparingly.
  - Provide an environment free of hazardous materials.
 
-## Employees’ awareness
+## Employees' awareness
 
 Good-Loop will, where appropriate and possible:
 
  - Provide environmental information and education for employees, encouraging employees
       to behave in an environmentally responsible manner.
  - Organise staff training in environmental awareness.
- - Invite guest speakers to inform and motivate staff about environmental issues.
+ - Invite guest speakers to inform and motivate staff about social and environmental issues.
  - Use signs and notices as reminders.
  - Include relevant information in new employees’ orientation.
- - Post Environmental Policy on Website.
+ - Post this Environmental Policy on our website.
  - Encourage existing staff to set examples for new employees.
  - Create awareness of the benefits to the environment of commuting by walking, bicycling or
    using public transport.
  - Make information on recycling systems available to all staff.
-

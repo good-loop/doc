@@ -18,15 +18,20 @@ Anyone can raise an issue with a company.
 
 ## Ethical Assessment Process
 
-* Issues should be raised by putting together a proposal on why the engagement is bad, and sending it to the board. Any staff member can do this.
-* The ethical assesment process is then run by a senior staff member, who cannot be a sales-person.
+* Issues should be raised by putting together a proposal on why the engagement may be bad, and sending it to the board. Any staff member can do this.
+* The ethical assessment process is then run by a senior staff member, who cannot be a sales-person.
 * Ethical issues are evaluated using the document format shown [here](https://docs.google.com/document/d/18GtJpdgLfysw8Xv-H3uzzgbz92P1sebi-9W5FgCLXaY/edit)  (but evolved over time).
 * The case-against is driven by staff providing evidence (e.g. links to articles). A call for evidence should be circulated internally so that all staff have the opportunity to contribute.
 * A draft ethical assessment is circulated internally -- first to the staff member who raised the issue, and then to a general channel -- before being presented to the Board for a final decision based on this policy. This is to allow anyone who feels that the case has not properly been put, to present it better.
 * Previous assessments to be kept on record and used as non-binding examples, to help produce consistent policy.
 * A company is not considered unethical if it is average or above for its sector, and the sector is not intrinsically harmful.
+<<<<<<< HEAD
 * A company's actions count for far more than it's intentions and PR statements. Intentions and PR statements should not be counted, except as backed up by actions or legally binding commitments.
 * Advertising campaigns themselves must also be ethical. Fraudulent, misogynistic, or harmful PR are grounds for considering a company unethical.
+=======
+* As our main service is advertising, the marketing materials should be considered. Fraudulent or harmful marketing are grounds for considering a project unethical.
+* A company's actions count for far more than it’s intentions and PR statements. Intentions and PR statements should not be counted, except as backed up by actions or legally binding commitments.
+>>>>>>> ab2eb85334c21b2a54e6556db1415fc22cc96715
 * If working with a company is judged to be unethical, then the company will decline further work and minimise existing work, though the company does not have to renege on existing agreements. 
 
 ## Outside Resources
