@@ -1,7 +1,7 @@
 
 # Data Protection and GDPR Policy
 
-The GDPR law (starting: May 2018) grants the public increased rights and imposes new rules on how data must be handled.
+The GDPR law grants the public increased rights and imposes rules on how data must be handled.
 
 Good-Loop supports the GDPR. This policy document covers how Good-Loop handles the GDPR.
 
@@ -35,7 +35,7 @@ The GDPR places legal obligations on handling data breaches, including time limi
 If we suspect a data breach we will notify you within 24 hours. 
 We would then work with you to identify the scope of the breach and take remedial action.
 
-Good-Loop has not had a data breach in it's 10 year history.
+Good-Loop has not had a data breach in it's history.
 
 
 ## Rights of the Data Subject
@@ -45,7 +45,7 @@ The client should lead the response to a data subject request, with the Good-Loo
 
 ### Right to be Informed
 
-It is unlikely that this applies. If you are using Good-Loop to collect information from one person about another, . 
+It is unlikely that this applies. 
 
 ### Right of Access
 
