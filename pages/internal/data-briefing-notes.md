@@ -29,6 +29,13 @@ Good-Loop will empower users to put their data to work, raising even more money 
 We'll provide easy ways for the general public to manage their data. 
 This user data then provides high quality fuel for the custom AI we're developing.
 
+## Why might the public care?
+
+ - Data can be abused -- e.g. Cambridge Analytica.
+ - Data is valuable, and the public aren't getting a fair share of that value.
+ - The current system is creepy.
+ - Curiosity: What data is out there about me?
+
 ## Our Ethos: Treat the public as partners, not targets
 
 We aim to empower people. That means our tech must be easy-to-use, and not take much a time 
@@ -81,6 +88,7 @@ Our performance data is a mix of anonymous data plus the richer data from My.Goo
 
 We are working on:
 
+ - A fair and safe data services marketplace.
  - Custom AI
  - Deeper integration with the advertising ecosystem -- including data services.
 
