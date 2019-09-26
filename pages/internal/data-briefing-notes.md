@@ -20,6 +20,9 @@ Why not just focus 100% of our PR and marketing on the core ads-for-good story?
  - **PR** Ads-for-Good is our main story, but the press won't repeat it too often. 
  Tech and data provide more opportunities for Good-Loop press stories.
 
+Note: much of the dev team's work is on "everyday" coding -- this is not covered here, because, whilst it is vital, 
+it generally doesn't make for PR stories.
+
 ## The Elevator Summary
 
 Good-Loop will empower users to put their data to work, raising even more money for good causes.
@@ -67,6 +70,8 @@ Our performance data is a mix of anonymous data plus the richer data from My.Goo
 
 ## What Technology?
 
+ - AdUnits. A suite of products to deliver the Good-Loop ads-for-good experience.
+
  - AdServer. A high performance scalable adserver, which supports video, digital display (i.e. banner ads), and social media.
 
  - Profile Database. Designed to manage uncertain and conflicting data, 
@@ -77,8 +82,7 @@ Our performance data is a mix of anonymous data plus the richer data from My.Goo
 We are working on:
 
  - Custom AI
- - A DSP -> SSP bridge for smooth integration into the existing ad infrastructure.
-
+ - Deeper integration with the advertising ecosystem -- including data services.
 
 ## Partly Open Source (because we're partly nice people)
 
