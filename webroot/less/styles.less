@@ -23,7 +23,22 @@ h1, .h1 {
 	color: @gl-red;
 	text-align: center;	
 	width:100%;
+	border-bottom: 1px solid #333;
+	margin-left: 20px;
+	margin-right: 20px;
+
 }
+h1 a, .h1 a {
+	border-bottom: 3px solid #fff;
+	// margin-left: 20px;
+	// margin-right: 20px;
+	position: relative;
+	bottom: -10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: white;
+}
+
 //	side lines for h1
 .sideline {
 	// background-color: #cdc0c1;
@@ -38,12 +53,13 @@ h1, .h1 {
 	margin-left: 20px;
 	margin-right: 20px;
 }
-h1:not(.subtitle)::before {
-	.sideline();
-}
-h1:not(.subtitle)::after {
-	.sideline();
-}
+
+// h1:not(.subtitle)::before {
+// 	.sideline();
+// }
+// h1:not(.subtitle)::after {
+// 	.sideline();
+// }
 
 h1.subtitle {
 	font-family: Helvetica, sans-serif !important;
@@ -54,7 +70,7 @@ h1.subtitle {
 }
 
 .welcome-to-the-doc-wiki h1 {
-	padding: 10px 0; // looks a bit better when the homepage header has a bit of space around it
+	margin: 10px 0; // looks a bit better when the homepage header has a bit of space around it
 }
 
 // GOOGLE CUSTOM SEARCH STYLING BLOCK
