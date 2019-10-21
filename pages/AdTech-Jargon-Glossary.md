@@ -16,7 +16,7 @@
 
 * VPAID: supports video + js for interactive video ads, or more tracking.
 
-* Buying 
+* PCA: Post Campaign Analysis - a report we send clients after the campaign, summarising the results.
 
 ## Good-Loop Terms 
 
