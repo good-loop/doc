@@ -4,13 +4,15 @@
 
 * AdTech: advertising technology.
 
-* Demand-side platform (DSP). Where advertisers setup campaigns.
+* Cost-per-completed-view (CPCV): The price for a completed video view -- though the definition of "completed" can vary!.
 
-* Supply / Sell -side platform (SSP). Where publishers manage their inventory.
+* Demand-side platform (DSP): Where advertisers setup campaigns.
 
-* Inventory: space where ads can be shown. This can include the whole range of print ads,  banner ads, interstitials, etc.
+* Supply / Sell -side platform (SSP): Where publishers manage their inventory.
 
-* Impressions: the individual ad spots. E.g. "We bought some inventory from The New York Times - 1,000 impressions."
+* Inventory: Space where ads can be shown. This can include the whole range of print ads, banner ads, interstitials, etc.
+
+* Impressions: The individual ad spots. E.g. "We bought some inventory from The New York Times - 1,000 impressions."
 
 * VAST: a standard wrapper (from the IAB) for video adverts which can include tracking calls.
 
