@@ -3,7 +3,7 @@
 
 > Want to make a better world? We're hiring a software product designer to lead work on products that raise money for charity and empower internet users.
 
-Salary: £25,000 - £50,000 depending on experience + share options.
+Salary: Upto £50,000 depending on experience. You will also get share options.
 
 Location: Edinburgh
 
@@ -46,6 +46,7 @@ You'll be working with a great team, leading cutting-edge R&D in an agile team -
 * Quick learner
 * Must have examples that you can send us (see “how to apply” below)
 * Project management
+* Experience of research / evidence based process
 * User-centred design
 * Able to work in a small agile team
 * A can-do attitude
@@ -54,16 +55,16 @@ You'll be working with a great team, leading cutting-edge R&D in an agile team -
 
 We don't need you to have experience in all of these! Just let us know which ones you have:
 
-* Graphic design
 * Data visualisation
 * User-profiling
+* Graphic design
 * Programming
 * Html + css
 * Relevant qualifications
 * Knowledge of advertising and marketing
 * Experience working as part of a start-up
-* Business experience
-* Volunteer work, or any other example of working towards a better world
+* Business experience, especially entrepeneurship
+* Volunteer work, or other examples of working towards a better world
 
 ## About You
 
