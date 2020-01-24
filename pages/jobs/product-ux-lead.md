@@ -85,8 +85,8 @@ If you have any questions -- please do contact us!
 
 ## For Recruitment Agencies
 
-We sometimes work with recuitment agencies -- but *only* if they can work with our processes.
+We sometimes work with recruitment agencies -- but *only* if they can work with our processes.
+
+We cannot take the time to meet with recruitment agencies, and please do not phone us.
 
 If you are a recruiter with a good candidate -- email us their CV, and a short portfolio from them as above. Also include a statement of your fees. The next stage is an online technical challenge -- We arrange that directly with the candidate, so you must include their contact details. We promise to keep you in the loop throughout the process.
-
-Please do not ask for a meeting: we cannot take the time to meet with recruitment agencies.
