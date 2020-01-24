@@ -81,9 +81,6 @@ To apply, please email jobs@good-loop.com with:
 
 If you have any questions -- please do contact us!
 
-> *I'm excited by the potential Good-Loop has. If you're a good product/UX person, please consider joining us.*
-> - Daniel Winterstein, CTO
-
 ## For Recruitment Agencies
 
 We sometimes work with recruitment agencies -- but *only* if they can work with our processes.
