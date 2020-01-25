@@ -1,6 +1,6 @@
 # Staff Perks
 
-Good-Loop's aim is to be an awesome place to work, where people can fulfil their potential. 
+Good-Loop's aim is to be a great place to work, where people can fulfil their potential. 
 This is an informal list of the benefits for Good-Loop staff -- see the specific policy documents or ask 
 your manager for more information.
 
@@ -22,7 +22,7 @@ your manager for more information.
  - Loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards. 3 weeks extra paid leave after 5 years of service.
  - Meaningful work! Your job has a real positive impact on the world.
 
-If you have ideas for making Good-Loop an even better place to work -- please say so.
+If you have ideas for making Good-Loop a better place to work -- please say so.
 
 ## Edinburgh Office
 
