@@ -3,7 +3,7 @@
 
 > Want to make a better world? We're hiring a software product designer to lead work on products that raise money for charity and empower internet users.
 
-Salary: Upto £50,000 depending on experience. You will also get share options.
+Salary: £30,000 - £45,000. You will also get share options.
 
 Location: Edinburgh
 
@@ -27,10 +27,10 @@ You will be responsible for moving forward two products:
 
 ## Key tasks are:
 
-* Talking to users
-* Tracking metrics
-* Shaping the roadmap
-* Shaping the look and feel of the products
+* User research (including talking to users)
+* Define success criteria, set and manage key metrics
+* Work with customers and stakeholders to shape the roadmap
+* Shaping the look, feel, and voice of the products
 * Planning experiments
 * Driving development so we learn fast and hit milestones.
 
@@ -56,10 +56,11 @@ You'll be working with a great team, leading cutting-edge R&D in an agile team -
 We don't need you to have experience in all of these! Just let us know which ones you have:
 
 * Data visualisation
+* A/B experiments
+* User journey mapping
 * User-profiling
-* Graphic design
+* Visual design
 * Programming
-* Html + css
 * Relevant qualifications
 * Knowledge of advertising and marketing
 * Experience working as part of a start-up
