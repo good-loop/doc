@@ -26,7 +26,11 @@ opportunities for further improvements.
 
 ## Carbon neutrality
 
-Good-Loop aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriate supplier. We use data-centres that are 100% powered by renewable energy.
+Good-Loop aims to be carbon neutral. 
+
+* Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriate supplier. 
+	See [our Cool-Earth offset profile](https://www.coolearth.org/profiles/GoodLoop/)
+* We use data-centres that are 100% powered by renewable energy.
 
 ## Use of materials
 
