@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Good-Loop recognises that, in pursuing its commercial and research objectives, it shares with all
+Good-Loop recognises that we share with all
 organisations a responsibility to protect and nurture the environment. By exercising proper
 control over its activities, Good-Loop will promote the use of sustainable resources and discourage
 practices that are wasteful or damaging to the environment.
@@ -26,7 +26,7 @@ opportunities for further improvements.
 
 ## Carbon neutrality
 
-Good-Loop aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriately certified supplier. We use data-centres that are 100% powered by renewable energy.
+Good-Loop aims to be carbon neutral. Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriate supplier. We use data-centres that are 100% powered by renewable energy.
 
 ## Use of materials
 
@@ -55,13 +55,12 @@ Good-Loop will, where appropriate and possible:
 
 Good-Loop will, where appropriate and possible:
 
- - Purchase recycled products.
+ - Purchase recycled products e.g. 2nd-hand computers.
  - Purchase Fair Trade products.
  - Order printed stationery (letterhead, envelopes) from a printer with sound environmental
    principles and with a responsible environmental policy.
- - Favour suppliers who use little packaging or remove packaging as part of their supply
-   contract and obligations and who operate according to sound environmental principles.
- - Use local suppliers, to minimise "fuel miles".
+ - Favour suppliers who use little packaging and who operate according to sound environmental principles.
+ - Use local suppliers to minimise "fuel miles".
 
 ## Disposal of materials
 
@@ -98,3 +97,6 @@ Good-Loop will, where appropriate and possible:
  - Create awareness of the benefits to the environment of commuting by walking, bicycling or
    using public transport.
  - Make information on recycling systems available to all staff.
+ - Support staff wishing to make a peaceful protest, for example attending a climate strike event.
+	- This includes providing legal support if required, and counting time in police detention as work time.
+
