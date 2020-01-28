@@ -1,5 +1,5 @@
 
-# Job Spec: Software Product / UX Designer for a Better World (Full-Time, Part-Time, or Freelance/Agency)
+# Job Spec: Product Lead / UX Designer (Full-Time, Part-Time, or Freelance)
 
 > Want to make a better world? We're hiring a software product designer to lead work on products that raise money for charity and empower internet users.
 
@@ -7,9 +7,10 @@ Salary: £30,000 - £45,000. You will also get share options.
 
 Location: Edinburgh
 
-Benefits: Good work-life balance. Meaningful work. Good colleagues. Challenges. Dynamic company.
+Benefits: Good work-life balance. Meaningful work. Good colleagues. Challenges where your contribution will matter.
 
-Flexible working and part-time / job-share options are available. We are also open to hearing proposals from freelancers and agencies.
+Flexible working and part-time / job-share options are available. 
+We are also open to hearing proposals from freelancers. 
 
 This is an exciting chance to apply your craft to cutting-edge work in a worthwhile way, working with a top team.
 
@@ -27,24 +28,25 @@ You will be responsible for moving forward two products:
 
 ## Key tasks are:
 
-* User research (including talking to users)
-* Define success criteria, set and manage key metrics
-* Work with customers and stakeholders to shape the roadmap
-* Shaping the look, feel, and voice of the products
-* Planning experiments
-* Driving development so we learn fast and hit milestones.
+* User research (including talking to users).
+* Define success criteria, set and manage key metrics.
+* Work with customers and stakeholders to shape the roadmap.
+* Shaping the look, feel, and voice of the products.
+* Planning and conducting product experiments.
+* Working closely with the developers so we learn fast and hit milestones.
 
 You'll be working with a great team, leading cutting-edge R&D in an agile team -- expect to do and learn a lot.
 
 ## Essential Skills
 
 **We're open minded on how you show these!** Ways to show a skill might include: examples, portfolio, references -- or as you see fit.
+Impress us - show us examples of your work, explaining the processes you followed.
 
 * Good listening and communication skills
 * A gut understanding of what makes great software products...
 * ...Coupled with the open-mind and scientific rigour to test and validate ideas.
-* Quick learner
-* Must have examples that you can send us (see “how to apply” below)
+* Able to learn quickly in a fast-paced environment.
+* Must have examples that you can send us (see "how to apply" below).
 * Project management
 * Experience of research / evidence based process
 * User-centred design
@@ -53,7 +55,11 @@ You'll be working with a great team, leading cutting-edge R&D in an agile team -
 
 ## Desirable Skills
 
-We don't need you to have experience in all of these! Just let us know which ones you have:
+Apart from your core skillset, we'd love you to show us what else you can do. 
+We want to produce great products - how can you help us achieve that?
+
+Example skills might be the ones below. 
+We don't expect you to have experience in all of these! Just let us know which ones you have.
 
 * Data visualisation
 * A/B experiments
@@ -69,7 +75,9 @@ We don't need you to have experience in all of these! Just let us know which one
 
 ## About You
 
-You should be aged whatever with a passionate can-do attitude to your work. The job involves a high level of responsibility working within a small talented team. The right candidate will have the chance to shape the job, and will be at the heart of an exciting company.
+You should be aged whatever from any background. 
+You should care about your work, because we do. You will be trusted with a high level of responsibility, in a small talented team.
+The right candidate will have the chance to shape the job, and will be at the heart of an exciting company.
 
 ## How To Apply
 
