@@ -12,14 +12,15 @@ your manager for more information.
  - Emergency and Legal Aid Fund of £200 per year to help any staff member in trouble.
  - 28 days leave by default for full-time workers (pro-rata for Part-Time)
  - Personal budgets: We should work together to make Good-Loop a great place to work.
- So every staff member has a monthly budget (default: £50) to spend
- as they see fit on things that improve the company.
+ So every staff member has a monthly budget (default: £50) to spend as they see fit on things that improve the company.
  - Childcare vouchers.
  - We support flexible working. Our policy is to hire good people, 
  then the company should adjust to fit the person, not the other way round. 
  Talk to your manager about your needs.
  - Training - tailored on a 1-to-1 basis.
- - Loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards. 3 weeks extra paid leave after 5 years of service.
+ - Loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards. 
+ A one-off super holiday of 3 weeks extra paid leave after 5 years of service.
+ - Free tea, coffee and milk at work, obviously.
  - Meaningful work! Your job has a real positive impact on the world.
 
 If you have ideas for making Good-Loop a better place to work -- please say so.

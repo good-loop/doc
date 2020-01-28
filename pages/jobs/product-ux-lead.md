@@ -7,7 +7,7 @@ Salary: £30,000 - £45,000. You will also get share options.
 
 Location: Edinburgh
 
-Benefits: Good work-life balance. Meaningful work. Good colleagues. Challenges where your contribution will matter.
+[Benefits](https://doc.good-loop.com/policy/staff-perks.html): Good work-life balance. Meaningful work. Good colleagues. Challenges where your contribution will matter. Pension. Flexible working. Training budget. Paid volunteer time. Legal and emergency fund for staff in need. Loyalty bonus of extra holiday. Cycle-to-work scheme. Profit share. 
 
 Flexible working and part-time / job-share options are available. 
 We are also open to hearing proposals from freelancers. 
