@@ -21,7 +21,7 @@ your manager for more information.
  then the company should adjust to fit the person, not the other way round. 
  Talk to your manager about your needs.
  - Training - tailored on a 1-to-1 basis.
- - Job reviews include looking at your needs (training desires, satsifaction, wider personal goals).
+ - Job reviews include looking at *your* needs (job satisfaction, workplace needs, and wider personal goals).
  - Free tea, coffee, and milk at work, obviously.
  - Meaningful work! Your job has a real positive impact on the world.
 
