@@ -5,12 +5,12 @@
 
 Salary: £30,000 - £45,000. You will also get share options.
 
-Location: Edinburgh
-
-[Benefits](https://doc.good-loop.com/policy/staff-perks.html): Good work-life balance. Meaningful work. Good colleagues. Challenges where your contribution will matter. Pension. Flexible working. Training budget. Paid volunteer time. Legal and emergency fund for staff in need. Loyalty bonus of extra holiday. Cycle-to-work scheme. Profit share. 
-
 Flexible working and part-time / job-share options are available. 
 We are also open to hearing proposals from freelancers. 
+
+Location: Edinburgh
+
+[Benefits](https://doc.good-loop.com/policy/staff-perks.html): Good work-life balance. Meaningful work. Good colleagues. Challenges where your contribution will matter. Pension. Flexible working. Training budget. Paid volunteer time. Legal and emergency fund for staff in need. Extra holiday. Cycle-to-work scheme. Profit share. 
 
 This is an exciting chance to apply your craft to cutting-edge work in a worthwhile way, working with a top team.
 
@@ -45,10 +45,10 @@ Impress us - show us examples of your work, explaining the processes you followe
 * Good listening and communication skills.
 * A gut understanding of what makes great software products...
 * ...Coupled with the open-mind and scientific rigour to test and validate ideas.
-* Able to learn quickly in a fast-paced environment.
-* Some project management skills.
 * Experience of using research, evidence, or metrics as part of the design process.
 * Experience in user-centred design.
+* Able to learn quickly in a fast-paced environment.
+* Some project management skills.
 * A can-do attitude.
 
 ## Desirable Skills
@@ -74,7 +74,7 @@ We *don't* expect candidates to have experience in all of these! Just let us kno
 ## About You
 
 You should be aged whatever from any background. 
-You should care about your work, because we do. You will be trusted with a high level of responsibility, in a small talented team.
+You should care about your work, because we do. You will be trusted with a high level of responsibility in a small talented team.
 The right candidate will have the chance to shape the job, and will be at the heart of an exciting company.
 
 ## How To Apply
