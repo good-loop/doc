@@ -1,6 +1,7 @@
-# Staff Perks
 
-Good-Loop's aim is to be a great place to work, where people can fulfil their potential. 
+# Staff Benefits
+
+Good-Loop is a place where people can fulfil their potential. 
 This is an informal list of the benefits for Good-Loop staff -- see the specific policy documents or ask 
 your manager for more information.
 
@@ -11,6 +12,8 @@ your manager for more information.
  - Volunteering policy: You can do some volunteer work on company time.
  - Emergency and Legal Aid Fund of £200 per year to help any staff member in trouble.
  - 28 days leave by default for full-time workers (pro-rata for Part-Time)
+ - ...Plus a loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards. 
+ And a one-off super holiday of 3 weeks extra paid leave after 5 years of service.
  - Personal budgets: We should work together to make Good-Loop a great place to work.
  So every staff member has a monthly budget (default: £50) to spend as they see fit on things that improve the company.
  - Childcare vouchers.
@@ -18,9 +21,8 @@ your manager for more information.
  then the company should adjust to fit the person, not the other way round. 
  Talk to your manager about your needs.
  - Training - tailored on a 1-to-1 basis.
- - Loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards. 
- A one-off super holiday of 3 weeks extra paid leave after 5 years of service.
- - Free tea, coffee and milk at work, obviously.
+ - Job reviews include looking at your needs (training desires, satsifaction, wider personal goals).
+ - Free tea, coffee, and milk at work, obviously.
  - Meaningful work! Your job has a real positive impact on the world.
 
 If you have ideas for making Good-Loop a better place to work -- please say so.
