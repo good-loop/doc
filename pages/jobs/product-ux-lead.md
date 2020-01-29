@@ -28,8 +28,8 @@ You will be responsible for moving forward two products:
 
 ## Key tasks are:
 
-* User research (including talking to users).
-* Define success criteria, set and manage key metrics.
+* User research.
+* Work with stakeholders to define success criteria and key metrics. Monitoring of outcomes.
 * Work with customers and stakeholders to shape the roadmap.
 * Shaping the look, feel, and voice of the products.
 * Planning and conducting product experiments.
@@ -46,10 +46,9 @@ Impress us - show us examples of your work, explaining the processes you followe
 * A gut understanding of what makes great software products...
 * ...Coupled with the open-mind and scientific rigour to test and validate ideas.
 * Able to learn quickly in a fast-paced environment.
-* Must have examples that you can send us (see "how to apply" below).
 * Project management
 * Experience of research / evidence based process
-* User-centred design
+* Experience in user-centred design
 * Able to work in a small agile team
 * A can-do attitude
 
@@ -58,8 +57,8 @@ Impress us - show us examples of your work, explaining the processes you followe
 Apart from your core skillset, we'd love you to show us what else you can do. 
 We want to produce great products - how can you help us achieve that?
 
-Example skills might be the ones below. 
-We don't expect you to have experience in all of these! Just let us know which ones you have.
+Example skills *might* be the ones below. 
+We *don't* expect you to have experience in all of these! Just let us know which ones you have.
 
 * Data visualisation
 * A/B experiments
@@ -84,9 +83,10 @@ The right candidate will have the chance to shape the job, and will be at the he
 To apply, please email jobs@good-loop.com with:
 
 1. Your CV
-2. A short portfolio of your best work (e.g. a github link, or a portfolio website). If possible, we prefer to see both (a) an example of a hobby project -- i.e. a project you did for its own sake (which need not be polished or completed), and (b) of a professional project.
-3. Optional: a cover letter / email, if there's something relevant to this job that's not in your CV.
-4. We assume most people want a full-time post. If you are looking for part-time, or project work -- then please give details.
+2. A short portfolio (or other demonstration) of your best work, e.g. a github link, or a portfolio website.   
+If possible, we prefer to see both (a) an example of a hobby project -- i.e. a project you did for its own sake (which need not be polished or completed; it might just be a sketch), and (b) an example professional project. Please include brief notes on the *design processes* you used.
+3. Optional: a cover letter / email, if there's something relevant to this job that's not in your CV or portfolio.
+4. If you are looking for part-time or project work -- then please give details.
 
 If you have any questions -- please do contact us!
 
