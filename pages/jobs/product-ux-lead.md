@@ -82,7 +82,7 @@ The right candidate will have the chance to shape the job, and will be at the he
 To apply, please email jobs@good-loop.com with:
 
 1. Your CV
-2. A short portfolio (or other demonstration) of your best work, e.g. a github link, or a portfolio website.   
+2. A short portfolio or other demonstration of your best work, e.g. a github link, or a portfolio website.   
 If possible, we prefer to see both (a) an example of a hobby project -- i.e. a project you did for its own sake (which need not be polished or completed; it might just be a sketch), and (b) an example professional project. Please include brief notes on the *design processes* you used.
 3. Optional: a cover letter / email, if there's something relevant to this job that's not in your CV or portfolio.
 4. If you are looking for part-time or project work -- then please give details.
