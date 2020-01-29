@@ -29,7 +29,7 @@ You will be responsible for moving forward two products:
 ## Key tasks are:
 
 * User research.
-* Work with stakeholders to define success criteria and key metrics. Monitoring of outcomes.
+* Work with stakeholders to define product success criteria and key metrics. Monitoring of outcomes.
 * Work with customers and stakeholders to shape the roadmap.
 * Shaping the look, feel, and voice of the products.
 * Planning and conducting product experiments.
@@ -42,23 +42,22 @@ You'll be working with a great team, leading cutting-edge R&D in an agile team -
 **We're open minded on how you show these!** Ways to show a skill might include: examples, portfolio, references -- or as you see fit.
 Impress us - show us examples of your work, explaining the processes you followed.
 
-* Good listening and communication skills
+* Good listening and communication skills.
 * A gut understanding of what makes great software products...
 * ...Coupled with the open-mind and scientific rigour to test and validate ideas.
 * Able to learn quickly in a fast-paced environment.
-* Project management
-* Experience of research / evidence based process
-* Experience in user-centred design
-* Able to work in a small agile team
-* A can-do attitude
+* Some project management skills.
+* Experience of using research, evidence, or metrics as part of the design process.
+* Experience in user-centred design.
+* A can-do attitude.
 
 ## Desirable Skills
 
-Apart from your core skillset, we'd love you to show us what else you can do. 
+Apart from the core skillset, we'd love to see what else you can do. 
 We want to produce great products - how can you help us achieve that?
 
 Example skills *might* be the ones below. 
-We *don't* expect you to have experience in all of these! Just let us know which ones you have.
+We *don't* expect candidates to have experience in all of these! Just let us know which ones you have.
 
 * Data visualisation
 * A/B experiments
