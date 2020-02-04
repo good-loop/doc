@@ -73,6 +73,7 @@ We *don't* expect candidates to have experience in all of these! Just let us kno
 
 ## About You
 
+You'll play a leadership role, working in a team of 7. 
 You should be aged whatever from any background. 
 You should care about your work, because we do. You will be trusted with a high level of responsibility in a small talented team.
 The right candidate will have the chance to shape the job, and will be at the heart of an exciting company.
