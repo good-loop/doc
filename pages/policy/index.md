@@ -11,6 +11,7 @@
  - [Health & Safety policy](health-and-safety.html)
  - [Legal & Emergency Fund](legal-emergency-fund)
  - [Maternity & Paternity Leave](Maternity_Paternity_Leave.html)
+ - [Pay Policy](https://wiki.good-loop.com/index.php?title=Pay_Policy)
  - [Privacy policy](privacy-policy.html) 
  - [Quality Assurance policy](quality-assurance) 
  - [Safeguarding policy](safeguarding-policy.html)
