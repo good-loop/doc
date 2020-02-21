@@ -6,6 +6,7 @@ This is an informal list of the benefits for Good-Loop staff -- see the specific
 your manager for more information.
 
  - Staff-elected board member. Each year at the AGM, the staff elect a representative to the board.
+ - Pension is 5% employee and 3% employer.
  - Equity options: All staff get a fair slice of company equity, with an annual distribution of 1.5% of shares at the AGM.
  - Revenue share: All staff get a share of campaign profits (see commission policy for details).
  - Bike-to-work scheme.
@@ -33,7 +34,5 @@ If you have ideas for making Good-Loop a better place to work -- please say so.
  - Friday 5pm beer o'clock.
 
 ## London Office
-
- - Semi-regular team drinks
 
 See also the wiki article: <https://wiki.good-loop.com/index.php?title=Good-Loop_Staff_Equity_%26_Employment_Policies>
