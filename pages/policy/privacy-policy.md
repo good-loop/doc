@@ -29,8 +29,8 @@ In using Good-Loop, you agree:
  
 <div>
 Let us track your donations and ad-watching with cookies? This raises more money for charity.
-<button onclick="setDNT(false);">Yes</button>
-<button onclick="setDNT(true);">No</button>
+<button id="yesBtn" onclick="setDNT(false);">Yes</button>
+<button id="noBtn" onclick="setDNT(true);">No</button>
 <p id="DNToff" style="display:none">OK - we won't track you.</p>
 <p id="DNTon" style="display:none">Thank you - this improves our service.</p>
 <script>
@@ -39,9 +39,11 @@ function setDNT(on) {
    if (on) {
       document.getElementById('DNToff').style.display='block';
       document.getElementById('DNTon').style.display='none';
+      document.getElementById('noBtn').style.background='#28a745';
    } else {
       document.getElementById('DNToff').style.display='none';
       document.getElementById('DNTon').style.display='block';
+      document.getElementById('yesBtn').style.background='#28a745';
    }
 };
 let c = document.cookie+'';
