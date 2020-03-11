@@ -29,24 +29,23 @@ In using Good-Loop, you agree:
  
 <div>
 Let us track your donations and ad-watching with cookies? This raises more money for charity.
-<button id="yesBtn" style="background:lightgrey" onclick="setDNT(false);">Yes</button>
-<button id="noBtn" style="background:lightgrey" onclick="setDNT(true);">No</button>
+<button id="yesBtn" style="background:#DDDDDD" onclick="setDNT(false);">Yes</button>
+<button id="noBtn" style="background:#DDDDDD" onclick="setDNT(true);">No</button>
 <p id="DNToff" style="display:none">OK - we won't track you.</p>
 <p id="DNTon" style="display:none">Thank you - this improves our service.</p>
 <script>
 function setDNT(on) {
-   document.cookie='DNT='+(on?1:0)+'; path=/; Domain=good-loop.com'
+   document.cookie='DNT='+(on?1:0)+'; path=/; Domain=good-loop.com';
    if (on) {
       document.getElementById('DNToff').style.display='block';
       document.getElementById('DNTon').style.display='none';
       document.getElementById('noBtn').style.background='#28a745';
-      document.getElementById('yesBtn').style.background='lightgrey';
+      document.getElementById('yesBtn').style.background='#DDDDDD';
    } else {
       document.getElementById('DNToff').style.display='none';
       document.getElementById('DNTon').style.display='block';
       document.getElementById('yesBtn').style.background='#28a745';
-      document.getElementById('noBtn').style.background='lightgrey';
-
+      document.getElementById('noBtn').style.background='#DDDDDD';
    }
 };
 let c = document.cookie+'';
