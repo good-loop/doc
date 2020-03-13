@@ -75,4 +75,8 @@ Lawful basis for using data:
  - We use IP address for the legitimate purposes of anti-fraud security, and determining the country we're sending content to.
  - Much of our data is genuinely anonymous - it could not be used to identify the person.
 
+See our [GDPR Policy](data-gdpr-policy) for more details.
+
 To see and manage the data we might hold about you - please see the [My.Good-Loop app](https://my.good-loop.com).
+
+Good-Loop is applying to participate in the IAB Europe Transparency & Consent Framework (TCF) and complies with its Specifications and Policies.

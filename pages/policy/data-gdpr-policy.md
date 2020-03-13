@@ -90,6 +90,15 @@ In order to comply with the requirements of Article 28 of the GDPR:
  - We agree to reasonable audits and inspections, and to provide the Data Controller with whatever information it needs to ensure that we are both meeting Article 28 obligations.
  - We will tell the controller immediately if asked to do something infringing the GDPR or other data protection law of the EU or a member state.
 
+## Transparency Consent Framework (TCF)
+
+The International Advertising Bureau (IAB) operates a framework for properly managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/).
+Good-Loop complies with the TCF, and we are applying to be on the Global Vendor List (GVL).... 
+
+### TCF Purposes and Features
+
+??
+
 ## See also
 
 Please also see the following relevant policies:
