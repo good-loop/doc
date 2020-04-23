@@ -24,8 +24,19 @@
 <body>
 
 HELLO WORLD
+<script>
+function setU(el) {	
+	if ( ! el) el = document.getElementById('inputu');
+	console.log(el);
+	let u = el.value;
+	let _iframe = document.getElementsByTagName('iframe')[0];
+	_iframe.setAttribute('src', u);
+}
 
-<iframe style='width:90vw; height:90vh;' src='https://www.economist.com/china/2020/04/19/hong-kong-police-swoop-on-the-territorys-most-prominent-democrats'>
+</script>
+<input id='inputu' name='u' type='url' onchange="setU(this);" size="40" ><button onclick="setU()">Go</button>
+
+<iframe style='width:90vw; height:90vh;' src=''>
 </iframe>
 
 </body>
