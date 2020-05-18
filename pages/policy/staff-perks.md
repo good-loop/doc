@@ -35,4 +35,9 @@ If you have ideas for making Good-Loop a better place to work -- please say so.
 
 ## London Office
 
-See also the wiki article: <https://wiki.good-loop.com/index.php?title=Good-Loop_Staff_Equity_%26_Employment_Policies>
+ - Team outings.
+ - Friday desk beers.
+
+## References
+
+See also the internal wiki article: <https://wiki.good-loop.com/index.php?title=Good-Loop_Staff_Equity_%26_Employment_Policies>
