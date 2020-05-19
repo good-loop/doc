@@ -1,16 +1,16 @@
 ## Custom Fonts for Advertisers
 
-An advertiser wants the unit to use their font instead of ours -- is it worth our time?
+An advertiser wants the unit to use their font instead of ours...
 Here's what we do, and generous estimates of how long it takes.
 
-**TL;DR: Allow 90 minutes of extra work, probably by the tech team, plus overhead for coordinating, getting client sign-off, and doing it twice because they don't like how their requested font looks**
+**TL;DR: Allow 90 minutes of extra work, probably by the tech team, plus overhead for coordinating, getting client sign-off, and doing it twice because the first iteration is never quite what people want.**
 
 Procedure:
 1. (Best case: 5 minutes, worst case: 30 minutes) Acquire the font they want to use. Preferably they'll just give it to us as a TTF, OTF, WOFF, EOT or other format. If they haven't...
     - Do they have a sample? The FontSquirrel Matcherator (https://www.fontsquirrel.com/matcherator) is quite good at identifying fonts automatically - even from a relatively small, low-resolution sample.
     - If that didn't work, Identifont's 20-questions system (http://www.identifont.com/) should narrow the possibilities down to the point where you can pick the correct one out of a lineup.
-    - Once you know what font it is - hopefully they've been lazy and used a free font from Google (https://fonts.google.com/). Otherwise, you'll need to acquire it commercially, which is outside the scope of this documentation.
-2. (10 minutes) To use the font in the ad-unit, you'll need to subset it. We have a tight budget for download size and we don't need most of the glyphs the average font includes, so we strip them out.
+    - Once you know what font it is - hopefully they've used a free font from Google (https://fonts.google.com/). Otherwise, you'll need to acquire it commercially, which is outside the scope of this documentation.
+2. (10 minutes) To use the font in the ad-unit, you'll need to subset it. Ads have a tight bandwidth budget for download size (to avoid being slow to load), and we don't need most of the glyphs the average font includes, so we strip them out.
     - Go to the FontSquirrel Web-Font Generator (https://www.fontsquirrel.com/tools/webfont-generator)
     - Upload your font and select "Expert" from the initial radio-buttons.
     - Scroll to the "Subsetting" section, and select "Custom Subsetting" to pop out more options.
