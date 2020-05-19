@@ -1,5 +1,5 @@
 
-# Job Spec: Product Lead / UX Designer (Full-Time, Part-Time, or Freelance)
+# (CLOSED) Job Spec: Product Lead / UX Designer (Full-Time, Part-Time, or Freelance)
 
 > Want to make a better world? We're hiring a software product designer to lead work on products that raise money for charity and empower internet users.
 
