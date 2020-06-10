@@ -16,26 +16,23 @@ Clients can contact Support with data and GDPR issues. We will provide support a
 ## Consent
 
 It is important that companies have consent from individuals to store and process their data, and to communicate with them.
-Fortunately, consent is rarely an issue when using Good-Loop, as consent is provided via the social-media systems.
 
-Clients must stay within the terms and conditions of the social networks. Additional consent is required beyond those. 
-For example, if someone shares their email address on Twitter for customer support, that does not mean the email can be used
-for marketing.
+Most campaigns will not need extra consents.
 
-If your marketing requires additional consent (which is not usual), 
-we recommend creating a tagset to cover who has and hasn't given that, and to allow for consent to be withdrawn.
+Where Good-Loop collects personal data from users, for example emails for a mailing-list, we do so on an opt-in basis.
 
 ## Data Security
 
 Good-Loop stores all data on secure servers. Please see our Security Policy for more details.
 
 *If you suspect a data breach, you must notify Good-Loop support straight away.*
-The GDPR places legal obligations on handling data breaches, including time limits for responding.
 
-If we suspect a data breach we will notify you within 24 hours. 
-We would then work with you to identify the scope of the breach and take remedial action.
+The GDPR places legal obligations on handling data breaches, including time limits for responding. We aim to respond strictly faster than this in the event of any data breach.
 
-Good-Loop has not had a data breach in it's history.
+If we suspect a data breach we will notify affected clients within 24 hours. 
+We would then work with the affected client to identify the scope of the breach and take remedial action.
+
+Good-Loop has not had a data breach in its history.
 
 
 ## Rights of the Data Subject
