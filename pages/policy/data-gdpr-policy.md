@@ -93,15 +93,13 @@ In order to comply with the requirements of Article 28 of the GDPR:
 ## Transparency Consent Framework (TCF)
 
 The International Advertising Bureau (IAB) operates a framework for properly managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/).
-Good-Loop complies with the TCF, and we are applying to be on the Global Vendor List (GVL).... 
 
-### TCF Purposes and Features
-
-??
+Good-Loop supports the TCF and is on the Global Vendor List (GVL) as vendor #749.
 
 ## See also
 
 Please also see the following relevant policies:
 
- - Access Control Policy
- - Security Policy 
+ - [Access Control Policy](access-control-policy)
+ - [Security Policy](security)
+ - [IAB TCF Global Vendor List](https://iabeurope.eu/vendor-list-tcf-v2-0/)
