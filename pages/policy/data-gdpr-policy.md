@@ -11,7 +11,11 @@ Good-Loop services are hosted within the EU, and comply with GDPR regulations.
 
 ## Process around Data Issues
 
-Clients can contact Support with data and GDPR issues. We will provide support and help.
+Clients can contact Support with data and GDPR issues. We will provide support and help. 
+This is also the process for subject-access requests.
+
+You can contact our data protection officer (DPO) at: 
+<span class='email' data-name='technical.help' data-domain='good-loop.com'>technical.help at good-loop.com</span>
 
 ## Consent
 

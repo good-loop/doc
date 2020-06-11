@@ -1,6 +1,8 @@
 
 // email
 $(function() {
+	// e.g. <span class='email' data-name='dan' data-domain='example.com'>dan at example.com</span>
+	// using js to generate this dynamically gives a bit of anti-spam protection, since most scrapers dont bother with js
 	$('.email').each(function() {
 		var e = $(this).data('name')+'@'+$(this).data('domain');
 		$(this).html('<a href="mailto:'+e+'">'+e+'</a>');
