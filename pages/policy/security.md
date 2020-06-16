@@ -123,12 +123,12 @@ Software is only installed after clearance by a senior technical officer. Non au
 
 ### Access to Development Computers
 
-Physical access to office computers is controlled by personal swipe card, a receptionist, and secure logins. 
+Physical access to office computers is controlled by security-managed keys, and secure logins. 
 
 ### Access to Client Data
 
 Access to the Good-Loop system is via personal logins. Each user must have their own login, allowing for fine-grained security
-control and audit trails. Every single web page request is logged for a minimum of two weeks. A permanent audit trail is kept for user actions, such as posting a message. 
+control and audit trails. Every single web page request is logged for a minimum of two weeks. A 2 week audit trail is kept for all user actions. 
 
 As with any system, clients are responsible for keeping their login details secure. 
 If a login should become compromised, we will revoke that login which immediately stops all access.
@@ -137,6 +137,7 @@ Following best practice guidelines, we store
 user passwords in encrypted form. A further layer of security is
 provided at the application level by user roles and audit trails.
 
+See also the [[Access Control Policy]].
 
 #### Data Export
 
@@ -145,7 +146,7 @@ Users can export data, in which case they take responsibility for access to it. 
 
 ### Storage of Client Data
 
-Personally identifying details such as name and email addresses are stored in the Good-Loop database, however no payment and credit/debit card information will be stored at all in the Good-Loop database. 
+Personally identifying details such as name and email addresses can be stored in Good-Loop databases, e.g. if someone signs up to a mailing-list. No payment and credit/debit card information will be stored at all in the Good-Loop databases. 
 
 Customer passwords are not directly stored. Instead, a one-way hash is stored (using a secure hash function). This allows for the password to be checked, but it cannot be recovered.
 
