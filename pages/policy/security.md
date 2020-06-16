@@ -1,3 +1,4 @@
+
 # Security Policy
 
 Good-Loop takes security very seriously, and we follow best-practice methods to protect our systems.
