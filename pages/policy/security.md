@@ -137,7 +137,7 @@ Following best practice guidelines, we store
 user passwords in encrypted form. A further layer of security is
 provided at the application level by user roles and audit trails.
 
-See also the [[Access Control Policy]].
+See also the [Access Control Policy](access-control-policy).
 
 #### Data Export
 
