@@ -22,13 +22,13 @@ In using Good-Loop, you agree:
 * If you post content to a public part of the site then you grant us an open licence to use that content. An example would be posting a public comment on a blog we host. This does not affect private content, which remains private!
 * When you're not signed in to Good-Loop, we store the information that we collect with a meaningless identifier linked to the browser, application, or device that you're using. This helps us do things such as avoid showing you repeat adverts. You can manage this data via the [My.Good-Loop](https://my.good-loop.com) web app. The data collected by our ad server is:
     * The type of device and browser (the user-agent).
-    * The website visited, so we can work out which websites are a good fit for our content.
+    * The website visited, so we can work out which websites are a good fit for our content. This is stored anonymously, and only covers websites where you watch one of our adverts.
     * The country you're in and your preferred language.
-    * The IP address, for country and to protect against fraud.
-    * How you respond to our adverts and which charities you pick.
+    * The IP address, for country and to protect against fraud. This is only retained for one month.
+    * How you respond to our adverts and which charities you pick. This is stored anonymously.
  
 <div>
-Let us track your donations and ad-watching with cookies? This raises more money for charity.
+Let us track your donations and ad-watching with cookies? This raises more money for charity by picking more relevant adverts.
 <button id="yesBtn" style="background:#DDDDDD" onclick="setDNT(false);">Yes</button>
 <button id="noBtn" style="background:#DDDDDD" onclick="setDNT(true);">No</button>
 <p id="DNToff" style="display:none">OK - we won't track you.</p>
@@ -73,6 +73,8 @@ Good-Loop Ltd is company SC548356, registered in the UK. Our registered address 
 If you want to contact us about your data, please email 
 <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.
 
+If you are unhappy with how we handle your data, you can complain to the [ICO](https://ico.org.uk/).
+
 Lawful basis for using data:
 
  - Where we are a Data Controller for personal data, this is done with consent from the user. See the My-Loop app for more details.
@@ -80,6 +82,8 @@ Lawful basis for using data:
  - Much of our data is genuinely anonymous - it could not be used to identify the person.
 
 See our [GDPR Policy](data-gdpr-policy) for more details.
+
+Data is retained whilst it has use for the purpose it was collected. We review data retention periodically. Once data has served its purpose, or if you withdraw consent or request data be deleted, we will remove your data in a timely manner. Traces of data may remain for upto 3 months, as we use backup systems as part of providing a robust and auditable service.
 
 To see and manage the data we might hold about you - please see the [My.Good-Loop app](https://my.good-loop.com).
 
