@@ -117,6 +117,7 @@ Good-Loop supports the TCF and is on the Global Vendor List (GVL) as vendor #749
 
 Please also see the following relevant policies:
 
+ - [Privacy Policy](privacy-policy)
  - [Access Control Policy](access-control-policy)
  - [Security Policy](security)
  - [IAB TCF Global Vendor List](https://iabeurope.eu/vendor-list-tcf-v2-0/)
