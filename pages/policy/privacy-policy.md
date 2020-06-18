@@ -33,9 +33,11 @@ Let us track your donations and ad-watching with cookies? This raises more money
 <button id="noBtn" style="background:#DDDDDD" onclick="setDNT(true);">No</button>
 <p id="DNToff" style="display:none">OK - we won't track you.</p>
 <p id="DNTon" style="display:none">Thank you - this improves our service.</p>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js" async ></script>
 <script>
 function setDNT(on) {
-   document.cookie='DNT='+(on?1:0)+'; path=/; Domain=good-loop.com';
+	Cookies.set('DNT', on?1:0, { expires: 365, path:'/', domain:'.good-loop.com' });
+//    document.cookie='DNT='+(on?1:0)+'; path=/; Domain=good-loop.com';
    if (on) {
       document.getElementById('DNToff').style.display='block';
       document.getElementById('DNTon').style.display='none';
@@ -48,6 +50,7 @@ function setDNT(on) {
       document.getElementById('noBtn').style.background='#DDDDDD';
    }
 };
+// NB: Cookies.js is set to async load, so it might not be loaded yet. So just read document.cookie
 let c = document.cookie+'';
 if (c.indexOf('DNT=') !== -1) {
    let dnt = c.indexOf('DNT=1') !== -1;
