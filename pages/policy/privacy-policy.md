@@ -13,14 +13,16 @@ We promise:
 * Good-Loop will never send a message in your name or on your behalf.
 * You can delete your data from our systems (unless we are required to keep it by law or for audit purposes).
 
-In using Good-Loop, you agree:
+If you sign-up as a Good-Loop user, then you agree that (for devices where you are logged-in to your Good-Loop account):
 
 * You authorise Good-Loop to store information relating to your account.
 * If you sign up to a service, then we can contact you as part that service, e.g. to tell you about new features or if there is an issue with your account.
 * Anonymous data is OK. We can use data from your account in anonymised analysis, and the anonymised data is our property. For example, Good-Loop learns what adverts work on what websites. We may also publish anonymous statistics, such as "Good-Loop has generated £X million in donations last month", or produce a report for the charities helping them understand the pattern of donations.
-* We can use cookies to provide better services. Cookies can link together your visits, and collect IP address (from which we get an approximate city-level location). You can opt-out of cookies by setting Do-Not-Track in your browser, or via the My.Good-Loop web app, which also provides controls to remove your data. Or here and now, using the buttons below.
+* We can use cookies to provide better services as part of the app you have signed up for. Cookies can link together your visits, and collect IP address (from which we get an approximate city-level location). You can opt-out of cookies by setting Do-Not-Track in your browser, or via the My.Good-Loop web app, which also provides controls to remove your data. Or here and now, using the buttons below.
 * If you post content to a public part of the site then you grant us an open licence to use that content. An example would be posting a public comment on a blog we host. This does not affect private content, which remains private!
-* When you're not signed in to Good-Loop, we store the information that we collect with a meaningless identifier linked to the browser, application, or device that you're using. This helps us do things such as avoid showing you repeat adverts. You can manage this data via the [My.Good-Loop](https://my.good-loop.com) web app. The data collected by our ad server is:
+
+When you're not signed in to Good-Loop, we still collect some information, which we store with a meaningless identifier linked to the browser, application, or device that you're using. This helps us do things such as prevent ad-fraud and avoid showing you repeat adverts. You can manage this data via the [My.Good-Loop](https://my.good-loop.com) web app. The data collected by our ad server is:
+
     * The type of device and browser (the user-agent).
     * The website visited, so we can work out which websites are a good fit for our content. This is stored anonymously, and only covers websites where you watch one of our adverts.
     * The country you're in and your preferred language.
