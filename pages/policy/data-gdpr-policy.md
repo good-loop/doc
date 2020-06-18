@@ -91,6 +91,22 @@ In order to comply with the requirements of Article 28 of the GDPR:
  - We agree to reasonable audits and inspections, and to provide the Data Controller with whatever information it needs to ensure that we are both meeting Article 28 obligations.
  - We will tell the controller immediately if asked to do something infringing the GDPR or other data protection law of the EU or a member state.
 
+## ePrivacy 
+
+### Cookies 
+
+Cookies are important for the functioning of modern internet, but if misused they can threaten privacy rights.
+Our website and adverts use cookies. You can opt-out from cookies at any time: there is a simple button for this on the Privacy Policy page.
+
+We aim to provide clear and comprehensive information about cookie use in our privacy policy and linked documents. 
+If you have any questions, please do contact us.
+
+### Messages (email, SMS, push notifications)
+
+We do not send unsolicited email or similar electronic messages. All such communications are done on the basis of the user opting in.
+The user can unsubscribe at any time. 
+
+
 ## Transparency Consent Framework (TCF)
 
 The International Advertising Bureau (IAB) operates a framework for properly managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/).
