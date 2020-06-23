@@ -23,11 +23,11 @@ If you sign-up as a Good-Loop user, then you agree that (for devices where you a
 
 When you're not signed in to Good-Loop, we still collect some information, which we store with a meaningless identifier linked to the browser, application, or device that you're using. This helps us do things such as prevent ad-fraud and avoid showing you repeat adverts. You can manage this data via the [My.Good-Loop](https://my.good-loop.com) web app. The data collected by our ad server is:
 
-    * The type of device and browser (the user-agent).
-    * The website visited, so we can work out which websites are a good fit for our content. This is stored anonymously, and only covers websites where you watch one of our adverts.
-    * The country you're in and your preferred language.
-    * The IP address, for country and to protect against fraud. This is only retained for one month.
-    * How you respond to our adverts and which charities you pick. This is stored anonymously.
+* The type of device and browser (the user-agent).
+* The website visited, so we can work out which websites are a good fit for our content. This is stored anonymously, and only covers websites where you watch one of our adverts.
+* The country you're in and your preferred language.
+* The IP address, for country and to protect against fraud. This is only retained for one month.
+* How you respond to our adverts and which charities you pick. This is stored anonymously.
  
 <div>
 Let us track your donations and ad-watching with cookies? This raises more money for charity by picking more relevant adverts.
