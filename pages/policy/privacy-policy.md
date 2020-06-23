@@ -28,7 +28,7 @@ When you're not signed in to Good-Loop, we still collect some information, which
 * The country you're in and your preferred language.
 * The IP address, for country and to protect against fraud. This is only retained for one month.
 * How you respond to our adverts and which charities you pick. This is stored anonymously.
- 
+
 <div>
 Let us track your donations and ad-watching with cookies? This raises more money for charity by picking more relevant adverts.
 <button id="yesBtn" style="background:#DDDDDD" onclick="setDNT(false);">Yes</button>
