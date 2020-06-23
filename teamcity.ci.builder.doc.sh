@@ -19,16 +19,14 @@ PROJECT_USES_WEBPACK='no' #yes or no
 PROJECT_USES_JERBIL='yes' #yes or no
 PROJECT_USES_AUTOMATED_TESTING='no' #yes or no
 PROJECT_USES_WWAPPBASE_SYMLINK='no'
-
+# Where is the live server? (normally this is a test server, but as a vanilla website, doc goes straight to live)
+TARGET_SERVERS=(doc.good-loop.com)
 ## TODO : put in an argument switch to allow a specific branch to be pulled from git
 ## TODO : resolve symlinks with wwappbase.js
-
-
 
 #####  SPECIFIC SETTINGS
 ## This section should only be selectively edited - based on non-standardized needs
 #####
-TARGET_SERVERS=(baker.good-loop.com)
 PROJECT_ROOT_ON_SERVER="/home/winterwell/$PROJECT_NAME"
 AUTOMATED_TESTS_COMMAND="bash $PROJECT_ROOT_ON_SERVER/run-tests.sh test"
 WWAPPBASE_REPO_PATH_ON_SERVER_DISK="/home/winterwell/wwappbase.js"
