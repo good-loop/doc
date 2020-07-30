@@ -23,7 +23,7 @@ PROJECT_USES_JERBIL='yes' #yes or no
 PROJECT_USES_WWAPPBASE_SYMLINK='yes'
 
 # Where is the test server?
-TARGET_SERVERS=(baker.good-loop.com)
+TARGET_SERVERS=(robinson.soda.sh)
 
 
 #####  SPECIFIC SETTINGS
