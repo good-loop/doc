@@ -1,7 +1,7 @@
 
 # US Charity Donations and Tax - Good-Loop Informal Notes
 
-**Disclaimer: Good-Loop _cannot_ provide tax advice. These are our informal and unqualified opinions. Clients should consult a qualified tax advisor. **
+**Disclaimer: Good-Loop _cannot_ provide tax advice. These are our informal and unqualified opinions. Clients should consult a qualified tax advisor.**
 
 Date: 25th August 2020   
 
