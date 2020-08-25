@@ -1,8 +1,9 @@
-Hello. Someone - @nickrainey? - asked about US charity tax in the international-info spreadsheet. 
 
 # US Charity Donations and Tax - Good-Loop Informal Notes
 
 **Disclaimer: Good-Loop _cannot_ provide tax advice. These are our informal and unqualified opinions. Clients should consult a qualified tax advisor. **
+
+Date: 25th August 2020   
 
 Yes: The client can claim the donation part for tax relief, provided they receive an acknowledgement from the charity -- which we can do for them.
 
