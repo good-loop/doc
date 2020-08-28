@@ -10,7 +10,7 @@ See also the page on Good-Loop Terminology.
 Values: `vpaid`, `ourpage` (as.good-loop.com or CPC wrapper), `app` (e.g. SnapChat), `direct`, `iframe` (a non-expanding banner, e.g. an mpu2), `safeframe`
 
 2. **size**:   
- - (standard banner sizes) `mpu`, `mpu2`, `leaderboard`, `billboard`, `vbnr`, `stickyfooter`
+ - (standard banner sizes) `mpu` (300x250), "double MPU" `mpu2` (300x600), `leaderboard` (728x90), `billboard` (970x250), `vbnr`, `stickyfooter`
  - (standard vpaid sizes) `portrait`, `square`, `landscape`
  - `fullscreen` (e.g. ourpage, or snapchat after a swipe-up)
  - `responsive` (size unknown, take the full frame - differs from fullscreen in that it will only be part of the screen)
