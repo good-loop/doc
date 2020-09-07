@@ -2,6 +2,7 @@
 # Good-Loop Policies & Processes
 
  - [Access Control policy](access-control-policy.html)
+ - [Buying policy](buying-policy.html)
  - [Data Policy](data-policy.html)
  - [Data Protection and GDPR Policy](data-gdpr-policy.html)
  - [Bereavement Policy](bereavement.html)
