@@ -64,16 +64,20 @@ Hard Drives in the possession of the Edinburgh Office are subjugated to a DoD 3-
 
 ### Process for breaches involving the Data Protection Act
 
-Improper access to personal data is a displinary and potentially criminal offence.
+Improper access to personal data is a disciplinary and potentially criminal offence.
 Any suspected breaches, for example, unauthorised access to information by employees, must be reported to the Information Officer or to a Director.
 The breach will be investigated, and the results of the investigation documented in a report.
 
-If a breach was found to have occured, then the company will take appropriate measures to:
+If a breach was found to have occurred, then the company will take appropriate measures to:
 
  - Notify affected individuals.
  - Notify the authorities.
  - Limit any damage.
  - Prevent further breaches.
+
+#### Logging Data Breaches and Near Misses
+
+If a data breach or a near miss is reported, then this must be logged in the [Data Security Breach Register](https://docs.google.com/spreadsheets/d/13HHz7489jiWO9a0eCZ1ldWjiNCqTfO4VKwbt2yPwzjc).
 
 ### Individual Subject Access Rights
 
