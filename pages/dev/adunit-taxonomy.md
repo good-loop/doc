@@ -2,9 +2,9 @@
 
 *Updated October 2020*
 
-These are the dimensions and standard values for describing an adunit. 
+These are the dimensions and standard values for describing an adunit in-part or as a whole. 
 These terms are used in advert setup and in reporting.
-See also the page on Good-Loop Terminology.
+See also the page on [Good-Loop Terminology](https://doc.good-loop.com/Good-Loop-terminology.html).
 
 1. **delivery** mechanism i.e. how does the adunit get onto the page?   
 - Values:
@@ -84,4 +84,4 @@ A blogger direct tag might be:
 The CPC banner has the pre-click banner -- which might be an image in AdSense, or e.g. `delivery:banner size:mpu play:none cta:adlink`
 The CPC banner post-click has `delivery:ourpage size:fullscreen play:none cta:adlink` -- where play:none is the key difference from the as.good-loop.com adplayer.
 
-Snap post-swipe-up is `delivery:app size:fullscreen play:onload style:snap`
+SnapChat post-swipe-up is `delivery:app size:fullscreen play:onload style:snap`
