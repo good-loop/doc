@@ -19,6 +19,8 @@ Good-Loop specific products.
   -- but with a special Good-Loop wrapper, that adds a donate-to-charity widget to the top of the page.
   It's a banner ad - but one that does good and leaves viewers feeling good. Sold on a CPC basis.
 
-* `Social Landing Page` : A reference to 'that thing that you see after swiping up on an Instagram advert'.
+* `Splash Video` : A reference to the looped 9x16 video that is seen on a Snapchat advert
+
+* `Social Post-Swipe Page` : A reference to 'that thing that you see after swiping up on an Instagram advert'.
     - [Example](https://testsocial.good-loop.com/generic/index.html?gl.vert=test_wide_multiple)
     - (As of Oct 2020) - Any and all assets must be hand-rolled by a developer or at least coded by someone using HTML and CSS.  All adverts are treated individually -- So, all work is considered one-off work.
