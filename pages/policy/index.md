@@ -3,8 +3,8 @@
 
  - [Access Control policy](access-control-policy.html)
  - [Buying policy](buying-policy.html)
- - [Data Policy](data-policy.html)
- - [Data Protection and GDPR Policy](data-gdpr-policy.html)
+ - [Cookie Policy](cookie-policy.html)
+ - [Data Protection and GDPR - Internal Policy](data-gdpr-policy)
  - [Bereavement Policy](bereavement.html)
  - [Business Continuity policy](business-continuity.html)
  - [Equal Opportunities policy](equal-opportunities.html)

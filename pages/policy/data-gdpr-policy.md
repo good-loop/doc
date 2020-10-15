@@ -1,9 +1,11 @@
 
-# Data Protection and GDPR Policy
+# Data Protection and GDPR - Internal Policy
 
 The GDPR law grants the public increased rights and imposes rules on how data must be handled.
 
 Good-Loop supports the GDPR. This policy document covers how Good-Loop handles the GDPR.
+
+This document is for internal training. It can also be shared with external bodies on request.
 
 ## Hosting
 
@@ -14,18 +16,18 @@ Good-Loop services are hosted within the EU, and comply with GDPR regulations.
 Clients can contact Support with data and GDPR issues. We will provide support and help. 
 This is also the process for subject-access requests.
 
-You can contact our data protection officer (DPO) at: 
-<span class='email' data-name='technical.help' data-domain='good-loop.com'>technical.help at good-loop.com</span>
+The contact for our data protection officer (DPO) is: 
+<span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>
 
 ## Consent
 
 It is important that companies have consent from individuals to store and process their data, and to communicate with them.
 
-Most campaigns will not need extra consents.
+Most adverts will not need extra consents.
 
 Where Good-Loop collects personal data from users, for example emails for a mailing-list, we do so on an opt-in basis.
 
-## Data Security
+## Data Security and Breaches
 
 Good-Loop stores all data on secure servers. Please see our Security Policy for more details.
 
@@ -38,6 +40,7 @@ We would then work with the affected client to identify the scope of the breach 
 
 Good-Loop has not had a data breach in its history.
 
+We maintain a register of data breaches and near misses [here](https://docs.google.com/spreadsheets/d/13HHz7489jiWO9a0eCZ1ldWjiNCqTfO4VKwbt2yPwzjc/).
 
 ## Rights of the Data Subject
 
@@ -46,28 +49,26 @@ The client should lead the response to a data subject request, with the Good-Loo
 
 ### Right to be Informed
 
-It is unlikely that this applies. 
+This does not apply to our activities. 
 
 ### Right of Access
 
-Good-Loop supports filtering by individual including by mentions. This makes it straightforward to respond to a request for data.
+Good-Loop's databases support filtering by individual. When responding to a subject-access request, you must first verify the identity of the data-subject (to avoid releasing potentially private data incorrectly).
  
 ### Right to Correct Data
 
-Our data-subject data is sourced from external sites. The data subject can update their profile on Twitter or Facebook, 
-and Good-Loop will automatically update with the correction.
+Individuals should contact us by email, and we will make corrections as requested. However we will first verify the identify of the person making the request.
 
 ### Right to Erasure (right to be forgotten)
 
 Please contact the support team, who can erase the data from the system. 
-As this is *not* reversible, the support team should first verify the range of data to be deleted.
+As this is *not* reversible, the support team must first verify the identity of the data-subject and the range of data to be deleted.
 
 Erased data will instantly vanish from front-end use. It will take one month for all data to be removed from the system.
 
 ### Right to Data Portability
 
-Usually this right is satisfied by the social media networks from which Good-Loop draws data.
-However, it is also easy to extract data from Good-Loop in .csv form, in order to provide portable data should a data subject require it.
+Contact support by email, and we will arrange a data export.
 
 ### Automated Decision-Making
 
@@ -106,18 +107,12 @@ If you have any questions, please do contact us.
 We do not send unsolicited email or similar electronic messages. All such communications are done on the basis of the user opting in.
 The user can unsubscribe at any time. 
 
-
-## Transparency Consent Framework (TCF)
-
-The International Advertising Bureau (IAB) operates a framework for properly managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/).
-
-Good-Loop supports the TCF and is on the Global Vendor List (GVL) as vendor #749.
-
 ## See also
 
 Please also see the following relevant policies:
 
- - [Privacy Policy](privacy-policy)
  - [Access Control Policy](access-control-policy)
+ - [Cookie Policy](cookie-policy)
+ - [Privacy Policy](privacy-policy)
  - [Security Policy](security)
- - [IAB TCF Global Vendor List](https://iabeurope.eu/vendor-list-tcf-v2-0/)
+ 

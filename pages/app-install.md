@@ -5,7 +5,7 @@
 
 Email us to get your Good-Loop App ID, and to agree to the programme terms (tl:dr; don't be an ass).
 
-Our email is: support@good-loop.com
+Our email is: <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>
 
 ### 2. Make a button to launch Good-Loop.   
 
