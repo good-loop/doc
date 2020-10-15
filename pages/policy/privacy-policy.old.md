@@ -83,7 +83,7 @@ Lawful basis for using data:
  - We use IP address for the legitimate purposes of anti-fraud security, and determining the country we're sending content to.
  - Much of our data is genuinely anonymous - it could not be used to identify the person.
 
-See our [GDPR Policy](data-gdpr-policy) for more details.
+See our [GDPR Policy] (data-gdpr-policy) for more details.
 
 Data is retained whilst it has use for the purpose it was collected. We review data retention periodically. Once data has served its purpose, or if you withdraw consent or request data be deleted, we will remove your data in a timely manner. Traces of data may remain for upto 3 months, as we use backup systems as part of providing a robust and auditable service.
 

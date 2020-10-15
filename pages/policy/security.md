@@ -23,7 +23,7 @@ unfamiliar tasks.
 
 ## Reporting Security Issues
 
-To report a security issue: *email support@good-Loop.com*
+To report a security issue: *email <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>*
 
 Any of the following should be reported:
 

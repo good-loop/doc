@@ -3,15 +3,15 @@
 
 ## Introduction
 
-Good-Loop Ltd ("Good-Loop", "we", "our", "us") is a private limited company registered in the UK under registration number SC548356. Our registered office is 27 McDonald Road, Edinburgh, EH7 4LX.
+Good-Loop Ltd ("Good-Loop", "we", "our", "us") is a private limited company registered in the UK under registration number SC548356. 
 
 Doing _'what is right'_ is at the heart of everything Good-Loop stands for, and how we treat individuals privacy is no exception. We are committed to respecting your privacy, and this privacy policy sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us. Please read the following carefully to understand how we will use your personal data.
 
-The policy applies to visitors of the Good-Loop website and viewers (end users of our digital advertisements), plus people who sign up to My.Good-Loop or other apps we provide.
+The policy applies to visitors of the Good-Loop website and viewers (end users of our digital adverts), plus people who sign up to My.Good-Loop or other apps we provide.
 
 ## 1. Personal Information
 
-*   When you interact with us, particularly when you use our website, App, the My.Good-Loop App, or view our advertisements, you may provide us with personal information. Some of this personal information may be required so that we can provide our service to you, or respond to your queries. We may also ask you for additional personal information which is optional for you to provide, which will allow us to improve the service that we provide to you.
+*   When you interact with us, particularly when you use our website, or the My.Good-Loop App, or view our adverts, ("our services") you may provide us with personal information. Some of this personal information may be required so that we can provide our service to you, or respond to your queries. We may also ask you for additional personal information which is optional for you to provide, which will allow us to improve the service that we provide to you.
 
 *   We will always aim to make it clear which personal information is necessary for you to provide and which personal information is optional. However, if you are unsure as to whether you are required to provide any particular piece of personal information please ask.
 
@@ -22,14 +22,14 @@ The policy applies to visitors of the Good-Loop website and viewers (end users o
 	*   the content of any messages that you send via the App or website; and
 	*   your cv if applying for a position with us.
 
-*   When viewing our advertisements we may collect the following information:
+*   When viewing our adverts we may collect the following information:
 	*   the type of device you are using and the way in which it is configured;
 	*   your internet protocol (IP) address;
 	*   your approximate location (via IP address, which usually gives information on which country and city you are in);
-	*   your activity when viewing our advertisements or using our website, including events you sign up for, purchases you make and promotions you are interested in; and
+	*   your activity when viewing our adverts or using our website, including events you sign up for, purchases you make and promotions you are interested in; and
 	*   statistical data to identify trends.
 
-## 2.  **USES MADE OF THE INFORMATION**
+## 2.  Uses Made Of The Information
 
 *   We are committed to protecting your privacy, and will only use your personal information in accordance with applicable data protection legislation, including the General Data Protection Regulation (GDPR) and the Data Protection Act 2018.
 
@@ -38,293 +38,262 @@ The policy applies to visitors of the Good-Loop website and viewers (end users o
 	2. Never support exploiting vulnerable groups.
 	3. Never use dark patterns to trick users into giving more consent than they wish.
 
-When you use our website or App, or view our advertisements, you may provide us with the following personal data, which we process accordance with this Privacy Policy and for the following purposes:
+When you use our website or App, or view our adverts, you may provide us with the following personal data, which we process accordance with this Privacy Policy and for the following purposes:
 
-TODO let's break this table out by adverts vs website/app
+### 2.a. Adverts
 
-<table width="652" cellpadding="7" cellspacing="0"><colgroup><col width="186"> <col width="187"> <col width="234"></colgroup>
-
+<table class='table'>
 <tbody>
-
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **What personal data do we process?**
-
-</td>
-
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Why do we process this personal data?**
-
-</td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **What is our lawful basis for processing?**
-
-</td>
-
+<tr>
+<th style='width:33%'>
+What personal data do we process?
+</th>
+<th style='width:33%'>
+Why do we process this personal data?
+</th>
+<th style='width:33%'>
+What is our lawful basis for processing?
+</th>
 </tr>
+<tr>
+<td>
 
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Identity Data**: this includes your title, first name and surname.
+**Approximate Location Data:** this is collected via the web connection you use (IP address). This is only accurate to the level of country and city/region.
 
 </td>
+<td>
 
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+*   To comply with country specific laws and to select adverts by country.
 
-*   To set up your account and enable you to use the Website and App.
+*   To identify trends in service usage and address any location-specific issues.
 
 </td>
+<td>
 
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+*   To satisfy our legitimate interest _(to comply with country-level rules, and to analyse user data)._
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Usage Data:** We may process data regarding viewing adverts, including average time spent in the advert, 
+any problems reported, clicks, your IP address, device type, and number and frequency of views.
+
+</td>
+<td>
+
+* To identify any fraudulent use of the adverts.
+
+* To measure advert views and interactions in order to correctly bill advertisers and credit publishers and charities.
+
+* To identify any problems, defects or issues with the adverts.
+
+* To optimise the performance of the adverts and improve future versions.
+
+</td>
+<td>
+
+*   To satisfy our legitimate interest _(to enable use of the services, prevent fraud, improve the usability of the services, and make modifications and updates)._
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Segment Markers:** Cookies which mark segments for targeted advertising.
+
+</td>
+<td>
+
+*   To find viewers that match an advert, or select adverts that better match the viewer.
+
+*   To monitor trends.
+
+</td>
+<td>
+
+*   With your consent to the use of Cookies.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Advertising Data:** we may receive aggregated personal data from third parties with whom we place adverts. This data will include statistics about who has interacted with our services, but we will not be able to personally identify you.
+
+We may also track your interaction with our services through the use of cookies and log files.
+
+</td>
+<td>
+
+*   To allow us to track views, clicks, downloads and user behaviour trends.
+
+</td>
+<td>
+
+*   To satisfy our legitimate interests _(identify trends in user behaviour to improve and develop our services)._
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 2.b. Website and App
+
+The following data uses do not apply to adverts, but may apply when you use our website or App.
+
+<table class='table'>
+<tbody>
+<tr>
+<th style='width:33%'>
+What personal data do we process?
+</th>
+<th style='width:33%'>
+Why do we process this personal data?
+</th>
+<th style='width:33%'>
+What is our lawful basis for processing?
+</th>
+</tr>
+<tr>
+<td>
+Data as described in 2.a. above.
+</td>
+<td>
+As described in 2.a. above.
+</td>
+<td>
+As described in 2.a. above.
+</td>
+</tr>
+<tr>
+<td>
+
+**Identity Data**: this includes your title, first name and surname.
+
+</td>
+<td>
+To set up your account and enable you to use the Website and App.
+</td>
+<td>
 
 *   To fulfil our contract with you.
 
 *   To satisfy our legitimate interests _(to run and operate Good-Loop and our business, to maintain our records, to prevent fraud, to keep you safe, to answer any queries or propose solutions to any problems you are having with the Website or App)._
 
 </td>
-
 </tr>
+<tr>
+<td>
 
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Contact Data:** this includes your email address and any other contact details you may choose to provide to us.
+**Contact Data:** this includes your email address and any other contact details you may choose to provide to us.
 
 </td>
+<td>
 
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To set up a My.Good-Loop account and enable you to use the Website/App.
+*   To set up an App account and enable you to use the Website/App.
 
 *   To contact you if there are any problems with the Website/App.
 
-*   To inform you of any changes we make to the Website/App, its terms or this Privacy Policy.
+*   To inform you of any changes we make to the Website/App, its terms, or this Privacy Policy.
 
 *   To let you know of any new sessions or general updates about Good-Loop.
 
 *   If relevant, to contact you about and allow your participation in beta testing of any new versions of the Website, App or new functionality.
 
-*   providing you with the types of news and updates that you have asked to receive by the types of communication that you have asked us to use.
+*   Providing you with the types of news and updates that you have asked to receive by the types of communication that you have asked us to use.
 
-*   where you have chosen to receive marketing communications from our partners through electronic communications such as push notifications or emails, sending you those marketing communications.
+*   Where you have chosen to receive marketing communications from our partners through electronic communications such as push notifications or emails, sending you those marketing communications.
 
 </td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+<td>
 
 *   To fulfil our contract with you.
 
 *   To satisfy our legitimate interests _(to keep our records up to date)._
 
-*   Your consent _(if we use your contact details for marketing purposes we will only do so with your express consent. You can withdraw your consent at any time by emailing_ support@good-loop.com _or clicking on the "unsubscribe" link in the email)._
+*   Your consent _(if we use your contact details for marketing purposes we will only do so with your express consent. You can withdraw your consent at any time by emailing_ <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span> _or clicking on the "unsubscribe" link in the email)._
 
-*   where it is necessary for compliance with legal obligations, including for record keeping and regulatory compliance purposes.
+*   Where it is necessary for compliance with legal obligations, including for record keeping and regulatory compliance purposes.
 
 </td>
-
 </tr>
+<tr>
+<td>
 
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Survey Data:** this includes any additional information you may choose to give us as part of a survey we conduct.
+**Survey Data:** this includes any additional information you may choose to give us as part of a survey we conduct.
 
 </td>
-
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+<td>
 
 *   To analyse user data and identify user trends.
 
 *   To identify new user needs and develop appropriate new content.
 
 </td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+<td>
 
 *   Your consent – it is completely up to you whether you share this data with us, and you can choose to remove it at any time and we will stop processing it.
 
 </td>
-
 </tr>
+<tr>
+<td>
 
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-??
-
-*   **Location Data:** this includes your precise and approximate geo-location which is collected via the web connection you use (IP address). This is only accurate to the level of country and city/region.from the device you use to access the website or App.
-
-    • Location Data: this includes your approximate geo-location which is collected via the web connection you use (IP address). This is only accurate to the level of country and city/region.
-    • To comply with country specific laws and to select adverts by country.
-    • To analyse user location data and see who is accessing the Website or App from where.
-    • To identify trends in Website or App usage and address any location-specific issues.
-    • To satisfy our legitimate interest (to comply with country-level rules, and to analyse user data).
-
+**Marketing Data:** We may send you adverts that we feel are of interest to you.
 
 </td>
 
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To comply with country specific laws and to select adverts by country.
-
-*   To analyse user location data and see who is accessing the Website or App from where.
-
-*   To identify trends in Website or App usage and address any location-specific issues.
-
-</td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To satisfy our legitimate interest _(to comply with country-level rules, and to analyse user data – you can turn off location tracking at any time in the "Settings" section of your device)._
-
-</td>
-
-</tr>
-
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Usage Data:** We may process data regarding your use of the App, including App download and deletion, average time spent in the App, any problems reported, what is accessed on the App, your IP address, device type, and number and frequency of logins.
-
-</td>
-
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To identify any problems, defects or issues with the App.
-
-*   To optimise the performance of the website and App to ensure you have the best user experience.
-
-*   To improve future versions of the website/App.
-
-</td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To satisfy our legitimate interest _(to enable you to use the App most effectively, improve the usability of the App and make any necessary modifications and updates to the App)._
-
-</td>
-
-</tr>
-
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Advertising Data:** If you view our advertisements we may **we** process certain limited personal data.
-
-</td>
-
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To monitor segment markers.
-
-*   IP address and information on advertisement engagement.
-
-</td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   With your consent to the use of your personal details, including IP address, and your consent to Cookies.
-
-*   To satisfy our legitimate interest to monitor the effectiveness of our advertisements.
-
-</td>
-
-</tr>
-
-<tr valign="top">
-
-<td width="186" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Marketing Data:** We may send you advertisements that we feel are of interest to you.
-
-</td>
-
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+<td>
 
 *   To ensure that you receive marketing which is most relevant to you and to enable us to best promote our partner's products.
 
 </td>
 
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
+<td>
 
-*   With you consent to the use of your personal details, including IP address, and your consent to Cookies.
+*   With your consent to the use of your personal details, and your consent to Cookies.
 
-*   Where you have given us your consent to use your personal information in a particular manner, you have the right to withdraw this consent at any time, which you may do by contacting us as described in paragraph 10\. Please note however that the withdrawal of your consent will not affect any use of your personal information made before you withdrew your consent.
+*   Where you have given us your consent to use your personal information in a particular manner, you have the right to withdraw this consent at any time, which you may do by contacting us as described in paragraph 10. Please note however that the withdrawal of your consent will not affect any use of your personal information made before you withdrew your consent.
 
 </td>
-
 </tr>
-
-<tr valign="top">
-
-<td width="186" height="79" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   **Advertising Data:** we may receive aggregated personal data from third parties with whom we place adverts. This data will include statistics about who has interacted with our adverts, but we will not be able to personally identify you.
-
-We may also track your use ofour website or App, and our advertisements through the use of cookies and log files.
-
-</td>
-
-<td width="187" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To allow us to track downloads and user behaviour trends.
-
-*   To help us to provide a positive user experience and improve and increase usage of the App and the Website.
-
-</td>
-
-<td width="234" style="border: 1px solid #000000; padding: 0cm 0.19cm">
-
-*   To satisfy our legitimate interests _(identify trends in user behaviour to improve and develop the App content)._
-
-</td>
-
-</tr>
-
 </tbody>
-
 </table>
 
-1.  **CIRCUMSTANCES IN WHICH WE MAY SHARE YOUR PERSONAL INFORMATION**
 
-*   First and foremost, we will <u>never</u> sell your personal data.
+## 3. Circumstances In Which We May Share Your Personal Information
+
+*   First and foremost, we will <u>never</u> sell your personal data unless you explicitly authorise that.
 
 *   Your personal information may however be made available to our partners, with your consent, when:
-
     *   you sign up for our newsletter;
-
     *   you otherwise connect with a partner, including sending messages through Good-Loop; or
-
     *   We may also share your personal information with third parties if we are under a duty to share your personal information in order to comply with any legal obligation, or in order to enforce or apply such other terms as apply to our relationship, or to protect the rights, property, for the purposes of any legal dispute, or safety of our customers, ourselves or others (including exchanging information with other companies and organisations for the purposes of fraud protection).
 
 *   We may share anonymised and aggregated information about our customers/users to third parties, such as our clients, to allow them to reach the kind of audience they want to target. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users viewing a specific advertising campaign.
 
 *   We may publish this anonymised or aggregate data in statistical form for Good-Loop promotional purposes, or to assist charities in understanding the pattern of donations.
 
-1.  **TRANSFERRING YOUR PERSONAL INFORMATION INTERNATIONALLY**
+
+## 4.  Transferring Your Personal Information Internationally
 
 *   In certain cases the sharing of your personal information to a third party as described above may involve your personal information being transferred outside of the United Kingdom. For example, our servers are located in Germany, a country in the European Economic Area, that is subject to the General Data protection Regulation (GDPR) and is therefore considered to have data protection rules that are equivalent to those in the United Kingdom.
 
 *   Where personal data is transferred to a country which is not considered to have the same standards of protection for personal data as those in the United Kingdom, we will take all steps required by law to ensure sufficient protections are in place to safeguard your personal information, including where appropriate putting in place contractual terms approved by the relevant regulatory authorities.
 
-Potential problem here - BlueKai (Oracle) are based in the USA. You need to ensure that they don't store any of your user data in the USA. They should have said something about this recently following the Schrems ii case, which deemed USA's surveillance powers unlawful, and thus not providing sufficient privacy protection. Servers need to be outside USA.
+<!--
+Note if we were to upload data to eg BlueKai (Oracle) who are based in the USA. We'd need to ensure that they don't store any of your user data in the USA. 
+The Schrems ii case deemed USA's surveillance powers unlawful, and thus not providing sufficient privacy protection. Servers need to be outside USA.
 
-Mailchimp – US company. How are they storing data post Schrems II case?
-
+Mailchimp – US company - but they seem to be OK post Schrems II.
 [https://mailchimp.com/eu-us-data-transfer-statement/](https://mailchimp.com/eu-us-data-transfer-statement/)
 
-1.  **RETENTION, UPDATING AND REMOVAL OF YOUR PERSONAL INFORMATION**
+ -->
+
+## 5.  Retention, Updating And Removal Of Your Personal Information
 
 *   <u>Data Retention</u>
 
@@ -344,15 +313,15 @@ Your decision to stop receiving information from us or to delete your account ma
 
 In certain circumstances you may be entitled to request the erasure of personal information that we hold about you. To make a request of this nature, please contact us, providing full details of the personal information you want to be erased and the reason(s) for your request. We will consider all requests upon receipt and confirm to you whether We are able to agree to your request.
 
-1.  **COOKIES AND LOG FILES**
+## 6.  Cookies And Log Files
 
-*   When you browse our website, use our App, or view our advertisements, we may use "cookies" to keep track of your visit and give you a better browsing experience.
+*   When you browse our website, use our App, or view our adverts, we may use "cookies" to keep track of your visit and give you a better browsing experience.
 
-*   IAs with most websites, these cookies allow us to log various information about visitors, including IP addresses, browser type, internet service provider (ISP) information, referring / exit pages and date / time stamp. We may use this information to analyse advertising trends, administer our website, track your movement around the website, App and advertisements, and gather broad demographic information.
+*   IAs with most websites, these cookies allow us to log various information about visitors, including IP addresses, browser type, internet service provider (ISP) information, referring / exit pages and date / time stamp. We may use this information to analyse advertising trends, administer our website, track your movement around the website, App and adverts, and gather broad demographic information.
 
-*   Please see our Cookie Policy (hyperlink) for more information on the cookies we use.
+*   Please see our [Cookie Policy](cookie-policy) for more information on the cookies we use.
 
-1.  **SECURITY**
+## 7.  Security
 
 *   The protection of your personal information is very important to us and we have in place various security measures to ensure that your personal information is kept secure.
 
@@ -360,7 +329,7 @@ In certain circumstances you may be entitled to request the erasure of personal 
 
 *   You should therefore take all reasonable steps to keep your personal information secure, including choosing a secure password for Good-Loop account and your email account and not disclosing your passwords to anybody else. You should use a unique password for every account.
 
-1.  **ENQUIRIES, ISSUES AND COMPLAINTS**
+## 8.  Enquiries, Issues And Complaints
 
 *   You are entitled by law to ask for a copy of your personal information at any time. Please contact us using the details in paragraph 10.
 
@@ -370,19 +339,28 @@ In certain circumstances you may be entitled to request the erasure of personal 
 
 *   If we are unable to resolve your complaint, you may make a complaint to the Information Commissioner's Office. Please see [https://ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/) for more information.
 
-1.  **CHANGES TO THIS PRIVACY POLICY**
+## 9. Changes To This Privacy Policy
 
 *   We reserve the right to alter this privacy policy at any time. Such alterations will be posted on our website. You can also obtain an up-to-date copy of our privacy policy by contacting us as described in paragraph 10\. Should you object to any alteration, please contact us.
 
-1.  **CONTACTING US**
+## 10. Our Details
 
-*   If you need to contact us about this notice or any matters relating to the personal information we hold on you, you can email our Data Protection Lead at daniel@good-loop.com or at support@good-loop.com.
+* If you need to contact us about this notice or any matters relating to the personal information we hold on you, 
+you can email our Data Protection Officer (DPO) via 
+<span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.
 
-11. **LINKS TO OTHER WEBSITES**
+* We are registered with the UK Information Commissioner's Office (ICO). Our registration number is: **ZA275147**
+
+* The International Advertising Bureau (IAB) operates a framework for managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Good-Loop supports the TCF and is on the Global Vendor List (GVL) as **vendor #749**.
+
+
+* Good-Loop Ltd is company **SC548356**, registered in the UK. Our registered address is 27 McDonald Road, Edinburgh, EH7 4LX.
+
+## 11. Links To Other Websites
 
 *   Our website or App may contain links to external third party websites and apps. If you follow a link to a third party website or app, please note that this privacy policy does not apply to that website or app. We are not responsible or liable for the privacy policies or practices of any third party websites or apps, so check their policies before you submit any personal data to those websites.
 
-## 12. FURTHER INFORMATION
+## 12. Further Information
 
 *   We hope that the contents of this privacy policy address any queries that you may have about the personal information we may hold about you and what we may do with it. However, if you do have any further queries, comments or requests, please contact us as described in paragraph 10 above.
 

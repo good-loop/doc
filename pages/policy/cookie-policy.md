@@ -25,121 +25,207 @@ Pixels are small invisible image files that are embedded in certain website page
 
 Local storage files are created by our App to store information locally on your device. Local storage can be used to store more information and can be stored in a different location on your device to cookies.  Local storage is normally used to speed up site functionality and remember your preferences.
 
+## Cookie Opt in
+
+Let us track your donations and ad-watching with cookies? 
+This raises more money for charity by picking more relevant adverts.
+
+<div>
+<button id="yesBtn" style="background:#DDDDDD" onclick="setDNT(false);">Yes</button>
+<button id="noBtn" style="background:#DDDDDD" onclick="setDNT(true);">No</button>
+<p id="DNToff" style="display:none">OK - we won't track you.</p>
+<p id="DNTon" style="display:none">Thank you - this improves our service.</p>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js" ></script>
+<script>
+function setDNT(on) {
+	Cookies.set('DNT', on?1:0, { expires: 365, path:'/', domain:'.good-loop.com' });
+//    document.cookie='DNT='+(on?1:0)+'; path=/; Domain=good-loop.com';
+   if (on) {
+      document.getElementById('DNToff').style.display='block';
+      document.getElementById('DNTon').style.display='none';
+      document.getElementById('noBtn').style.background='#28a745';
+      document.getElementById('yesBtn').style.background='#DDDDDD';
+   } else {
+      document.getElementById('DNToff').style.display='none';
+      document.getElementById('DNTon').style.display='block';
+      document.getElementById('yesBtn').style.background='#28a745';
+      document.getElementById('noBtn').style.background='#DDDDDD';
+   }
+};
+let c = Cookies.get('DNT'); //document.cookie+'';
+if (c=='1') setDNT(1);
+else if (c=='0') setDNT(0);
+// if (c.indexOf('DNT=') !== -1) {
+//    let dnt = c.indexOf('DNT=1') !== -1;
+//    setDNT(dnt);
+// }
+</script>
+</div>
+
+
 ## Cookie Details
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
-<table>
-	<colgroup><col width="94"> <col width="32"> <col width="44"> <col width="45"> <col width="324"> <col width="44"></colgroup>
-	<tbody>
-	<tr>
-<th>
+### A. Cookies in Our Adverts
 
+<table class='table'>
+<tbody>
+<tr>
+<th>
 Cookie Name
-
 </th>
 <th>
-
-Type
-
-</th>
-<th>
-
 1st Party or 3rd Party cookie
-
 </th>
 <th>
-
 Cookie Type
-
 </th>
 <th>
-
 Purpose
-
 </th>
 <th>
-
 Duration
-
 </th>
 </tr>
 <tr>
 <td>
+DNT
+</td>
+<td>
+1st Party
+</td>
+<td>Processes</td>
+<td>
+This records if you opt into or out-of Cookie consent. 
+It is a simple on/off marker, and is not only completely anonymous but cannot carry any other information.
+</td>
+<td>
+1 year
+</td>
+</tr>
+<tr>
+<td>
+trkid
+</td>
+<td>
+1st Party
+</td>
+<td>Marketing</td>
+<td>
+This is only used with consent. It is for tracking advert interaction and donations.
+</td>
+<td>
+1 year
+</td>
+</tr>
+<tr>
+<td>
+Segment markers
+</td>
+<td>
+3rd Party
+</td>
+<td>Marketing</td>
+<td>
+These are only used with consent. They are for marking advertising segments and retargeting.
+</td>
+<td>
+90 days
+</td>
+</tr>
+</tbody>
+</table>
 
+
+### B. Cookies in Our Website or App
+
+<table class='table'>
+<tbody>
+<tr>
+<th>
+Cookie Name
+</th>
+<th>
+1st Party or 3rd Party cookie
+</th>
+<th>
+Cookie Type
+</th>
+<th>
+Purpose
+</th>
+<th>
+Duration
+</th>
+</tr>
+<tr>
+<td colspan='5'>The Cookies described in A above may also be used in the Website or App in the same way as described above.</td>
+</tr>
+<tr>
+<td>
 analytics.js
-
 </td>
 <td>
-
-Cookie
-
-</td>
-<td>
-
 3rd Party
-
 </td>
 <td>
-
 Analytical
-
 </td>
 <td>
-
 This is a Google Analytics cookie. It registers a unique ID that is used to generate statistical data on the use of our Site.
 
-More information about Google Analytics can be found here:<u>[ ](https://www.google.com/url?q=http://www.google.com/intl/en/analytics/privacyoverview.html&sa=D&ust=1586175737665000)[http://www.google.com/intl/en/analytics/privacyoverview.html](https://www.google.com/url?q=http://www.google.com/intl/en/analytics/privacyoverview.html&sa=D&ust=1586175737665000)</u>
+More information about Google Analytics can be found [here](https://policies.google.com/privacy?hl=en-US#footnote-link-info)</u>
 </td>
 <td>
 
-Two years? Session?
+6 months
 
 </td>
 </tr>
 <tr>
 <td>
-
 metrics.api.drift.com
-
 </td>
 <td>
-
-Cookie
-
-</td>
-<td>
-
 3rd Party
-
+</td>
+<td>
+Processes
 </td>
 <td>
 
-Analytical
+This is a Drift cookie designed for enabling user interactions with our site’s Chat widget (provided by Drift). The Chat widget requests the user’s name and email address for contact purposes. User consent for this is managed in the Chat widget itself.
+
+More information about Drift can be found [here](https://www.drift.com/privacy-policy/)
 
 </td>
 <td>
-
-This is a Drift cookie designed for tracking user interactions with our site’s Chat widget (provided by Drift). The Chat widget requests the user’s name and email address for contact purposes. User consent for this is managed in the Chat widget itself.
-
-More information about Drift can be found here:<u>[](https://www.google.com/url?q=http://www.google.com/intl/en/analytics/privacyoverview.html&sa=D&ust=1586175737665000)</u> https://www.drift.com/privacy-policy/
-
-</td>
-<td>
-
-Two years? Session?
-
+Session
 </td>
 </tr>
 <tr>
 <td>
-
-t1.llanalytics.com
-
+calendly.com
 </td>
 <td>
+3rd Party
+</td>
+<td>
+Processes
+</td>
+<td>
+Calendly uses cookies to manage the book-a-call form on our website.
+</td>
+<td>
+6 months
+</td>
+</tr>
+</tbody>
+</table>
 
-Cookie
+<!--
+Not used: (from an older version of the site maybe?) t1.llanalytics.com
 
 </td>
 <td>
@@ -159,75 +245,26 @@ This is a third-party cookie intended for managing new leads resulting from the 
 More information about Lead Liaison can be found here:<u>[](https://www.google.com/url?q=http://www.google.com/intl/en/analytics/privacyoverview.html&sa=D&ust=1586175737665000)</u> http://www.leadliaison.com/about/privacy-policy/
 
 </td>
-<td>
+-->
 
-Two years? Session?
 
-</td>
-</tr>
-<tr>
-<td>
-
-https://lg.good-loop.com/pxl
-
-</td>
-<td>
-
-Cookie
-
-</td>
-<td>
-
-1st Party
-
-</td>
-<td>
-
-Analytical
-
-</td>
-<td>
-
-???
-
-</td>
-<td>
-
-Two years? Session?
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-</tbody>
-</table>
-
-## CONSENT TO USE COOKIES
+## Consent To Use Cookies
 
 Essential Cookies – Please note that we do not need your consent to store and access essential cookies on your device, although you can still block or delete them (see below).
 
 Non-essential cookies – We may only store and access non-essential cookies on your device with your permission. You are not obliged to give consent to our use of non-essential cookies. Further, if you give your consent and then change your mind you can block or delete them (see below).
 
-## THIRD PARTY COOKIES
+## Third Party Cookies
 
-Please note that the following third parties may also use cookies, over which we have no control. These named third parties may include, for example, advertising networks and providers of external services like web traffic analysis services. These third-party cookies are likely to be analytical cookies or performance cookies or targeting cookies:
+Please note that the following third parties may also use cookies, over which we have no control. These third-party cookies are likely to be analytical cookies or performance cookies or targeting cookies. Third-party advertising cookies cannot be used without your consent.
 
-*   Drift
+ - Providers of external services like web traffic analysis services:
+	- Calendly
+ 	- Drift
+	- Google Analytics
+ - Advertising networks
 
-*   Lead Liaison
-
-*   Google Analytics
-
-To deactivate the use of third-party advertising cookies, you may visit the consumer page to manage the use of these types of cookies. [include link to consent management solution – do we have one of these?].
-
-## REFUSING, BLOCKING AND DELETING COOKIES
+## Refusing, Blocking And Deleting Cookies
 
 You can block the use of cookies altogether by activating the relevant settings in your browser. For more information on how to manage the most popular browsers, please see below:
 
@@ -243,6 +280,7 @@ You can block the use of cookies altogether by activating the relevant settings 
 
 Please be aware that in order to use some parts of our site you will need to allow certain essential or functional cookies. If you subsequently block or delete those cookies, some aspects of our site may not work properly and you may not be able to access all or part of our site.
 
-For more information on cookie management and blocking or deleting cookies for a wide variety of browsers, visit <u>[All About Cookies](https://www.google.com/url?q=http://www.allaboutcookies.org&sa=D&ust=1586175737700000)</u>.
+For more information on cookie management and blocking or deleting cookies for a wide variety of browsers, visit <u>[All About Cookies](https://www.allaboutcookies.org)</u>.
 
-Should you have any questions about the cookies we use or regarding anything else in the policy then please contact our Chief Technology Officer by email at <u>[<span style="background: #ffffff">daniel@good-loop.com</span>](mailto:daniel@good-loop.com)</u>.
+Should you have any questions about the cookies we use or regarding anything else in the policy then please contact our Data Protection Officer 
+by email at <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.

@@ -16,7 +16,7 @@ When you are on support, your job is to handle incoming requests, deal with stal
 - If you can handle this issue, but don't have time now, assign it to yourself.
 - If you can't handle this issue, assign it to someone who can.
 
-3) Check support@good-loop.com. 
+3) Check <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>. 
 
 ## Backporting
 

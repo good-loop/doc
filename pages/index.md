@@ -22,4 +22,4 @@
 * [Privacy Policy](/policy/privacy-policy.html)
 
 To edit a document -- please use GitHub: <https://github.com/good-loop/doc>, or email us.
-If you cannot find what you need, just email `support@good-loop.com`
+If you cannot find what you need, just email <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>
