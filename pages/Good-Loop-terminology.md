@@ -101,10 +101,17 @@ A standard pre-roll would be:
 A blogger direct tag might be:
 `delivery:direct size:mpu play:onexpand style:default after:persist`
 
-The CPC banner has the pre-click banner -- which might be an image in AdSense, or e.g. `delivery:banner size:mpu play:none cta:adlink`
-The CPC banner post-click has `delivery:ourpage size:fullscreen play:none cta:adlink` -- where play:none is the key difference from the as.good-loop.com adplayer.
+The CPC banner has the pre-click banner -- which might be an image in AdSense, or e.g.
 
-SnapChat post-swipe-up is `delivery:app size:fullscreen play:onload style:snap`
+`delivery:banner size:mpu play:none cta:adlink`
+
+The CPC banner post-click has 
+
+`delivery:ourpage size:fullscreen play:none cta:adlink` -- where play:none is the key difference from the as.good-loop.com adplayer.
+
+SnapChat post-swipe-up is
+
+`delivery:app size:fullscreen play:onload style:snap`
 
 ## Canonical Terminology for Logging Good-Loop Events
 
