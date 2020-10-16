@@ -30,6 +30,5 @@ Sprechen Sie Good-Loop?
 
 * Unit or AdUnit: An advert widget that goes on web-pages. We have several variants.
 
-* Metrics: See [Good-Loop logging metrics](Canonical-Terminology-for-Logging-Good-Loop-Events.html)
+* Good-Loop Jargon: See [Good-Loop Terminology](Good-Loop-terminology.html)
 
-* AdUnit variants: see the [AdUnit Taxonomy](dev/adunit-taxonomy.html)
