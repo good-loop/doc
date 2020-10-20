@@ -21,14 +21,26 @@ We use the following cookies:
 
 Pixels are small invisible image files that are embedded in certain website pages or our advertisements.  They can be used to collect information about your visit to that website page or to record the fact you opened an email.  Your interest in the website, App or advertisement can then be logged and used for analytics or future advertising purposes.  
 
-## Local storage
+## Local Storage
 
 Local storage files are created by our App to store information locally on your device. Local storage can be used to store more information and can be stored in a different location on your device to cookies.  Local storage is normally used to speed up site functionality and remember your preferences.
 
-## Cookie Opt in
+
+
+## Cookie Details
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+### A. Cookies in Our Adverts
+
+#### Opt-in for Cookies in Good-Loop Adverts
+
+<!-- Note: We were asked (well: told) to put something like this into our privacy policy by Google Advertising Network, when they onboarded us as an ad-serving company.
+If you don't confirm, we won't set cookies - but we'll keep asking you in adverts when we get the chance. If you say no, we'll stop asking.
+-->
 
 Let us track your donations and ad-watching with cookies? 
-This raises more money for charity by picking more relevant adverts.
+This raises more money for charity by picking more relevant adverts. You can opt-out at any time by clicking "no" on this page.
 
 <div>
 <button id="yesBtn" style="background:#DDDDDD" onclick="setDNT(false);">Yes</button>
@@ -62,12 +74,7 @@ else if (c=='0') setDNT(0);
 </script>
 </div>
 
-
-## Cookie Details
-
-You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
-
-### A. Cookies in Our Adverts
+#### Details of Cookies used in Good-Loop Adverts
 
 <table class='table'>
 <tbody>

@@ -9,6 +9,7 @@ Doing _'what is right'_ is at the heart of everything Good-Loop stands for, and 
 
 The policy applies to visitors of the Good-Loop website and viewers (end users of our digital adverts), plus people who sign up to My.Good-Loop or other apps we provide.
 
+
 ## 1. Personal Information
 
 *   When you interact with us, particularly when you use our website, or the My.Good-Loop App, or view our adverts, ("our services") you may provide us with personal information. Some of this personal information may be required so that we can provide our service to you, or respond to your queries. We may also ask you for additional personal information which is optional for you to provide, which will allow us to improve the service that we provide to you.
@@ -70,7 +71,7 @@ What is our lawful basis for processing?
 </td>
 <td>
 
-*   To satisfy our legitimate interest _(to comply with country-level rules, and to analyse user data)._
+To comply with a legal obligation or our legitimate interest to analyse user data.
 
 </td>
 </tr>
@@ -235,7 +236,9 @@ To set up your account and enable you to use the Website and App.
 </td>
 <td>
 
-*   Your consent – it is completely up to you whether you share this data with us, and you can choose to remove it at any time and we will stop processing it.
+Your consent - it is completely up to you whether you share this data with us, 
+and you can choose to remove it at any time and we will stop processing it.
+You can withdraw your consent by emailing us (see _Our Details_ below).
 
 </td>
 </tr>
@@ -280,7 +283,8 @@ To set up your account and enable you to use the Website and App.
 
 ## 4.  Transferring Your Personal Information Internationally
 
-*   In certain cases the sharing of your personal information to a third party as described above may involve your personal information being transferred outside of the United Kingdom. For example, our servers are located in Germany, a country in the European Economic Area, that is subject to the General Data protection Regulation (GDPR) and is therefore considered to have data protection rules that are equivalent to those in the United Kingdom.
+*   In certain cases the sharing of your personal information to a third party as described above may involve your personal information being transferred outside of the United Kingdom. 
+For example, our servers are located in Germany, a country in the EEA and therefore subject to the GDPR, therefore offering the same safeguards in respect of your personal data.
 
 *   Where personal data is transferred to a country which is not considered to have the same standards of protection for personal data as those in the United Kingdom, we will take all steps required by law to ensure sufficient protections are in place to safeguard your personal information, including where appropriate putting in place contractual terms approved by the relevant regulatory authorities.
 
@@ -307,7 +311,7 @@ When you register for an account it is important to ensure that the personal inf
 
 If you want to stop receiving any information from us, such as news and updates, please let us know by updating your preferences through our website or contacting us using the details in paragraph 10\. It may take up to one month to unsubscribe you from marketing.
 
-Your decision to stop receiving information from us or to delete your account may result in the deletion of some of the personal information that we hold about you, but we may still retain personal information we require for other purposes, including where it is required for record keeping purposes.
+Your decision to stop receiving information from us or to delete your account may result in the deletion of some of the personal information that we hold about you, but we may still retain personal information required for other purposes, including where we are legally required to do so.
 
 *   <u>Erasure</u>
 
@@ -333,9 +337,9 @@ In certain circumstances you may be entitled to request the erasure of personal 
 
 *   You are entitled by law to ask for a copy of your personal information at any time. Please contact us using the details in paragraph 10.
 
-*   In the unlikely event that you have any concerns about how we use your personal information, please contact us as described in paragraph 10\. This includes situations where you want to request the rectification or erasure of your personal information, restrictions to be placed around how we use your personal information, or to object to a particular use.
+*   In the unlikely event that you have any concerns about how we use your personal information, please contact us as described in paragraph 10. This includes situations where you want to request the rectification or erasure of your personal information, restrictions to be placed around how we use your personal information, or to object to a particular use.
 
-*   If you make a complaint about our handling of your personal information, it will be dealt with in accordance with our complaints handling procedure (do you have one?). In the first instance your complaint will be reviewed by our Chief Technology Officer who will respond to you within one month.
+* We will respond to any enquiries or complaints within one month of receipt, and usually a lot sooner.
 
 *   If we are unable to resolve your complaint, you may make a complaint to the Information Commissioner's Office. Please see [https://ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/) for more information.
 
