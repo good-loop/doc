@@ -14,8 +14,12 @@ Good-Loop specific products.
 * `Splash Video` : A reference to the looped 9x16 video that is seen on a Snapchat advert
 
 * `Social Post-Swipe Page` : A reference to 'that thing that you see after swiping up on an Instagram advert'.
-    - [Example](https://testsocial.good-loop.com/generic/index.html?gl.vert=test_wide_multiple)
-    - (As of Oct 2020) - Any and all assets must be hand-rolled by a developer or at least coded by someone using HTML and CSS.  All adverts are treated individually -- So, all work is considered one-off work.
+    - Normally we'll set a page we host ourselves - which just loads a screen-filling adunit - as the campaign's landing page in the Instagram/Facebook/etc ad portal.
+    - [Here's an example](https://testsocial.good-loop.com/generic/index.html?gl.vert=test_wide_multiple) of such a page. This will be optimised for portrait viewing and should be opened on mobile, or in mobile-simulation mode on a desktop browser.
+    - The Good-Loop adunit can currently fill most needs on its own, without needing to be embedded in a custom page.
+    - - The video can be removed by adding param `gl.novideo=true` to the landing page URL.
+    - - If the ordering of elements is wrong, it can be changed using the dynamic layout engine - ask Dan A. or RM for assistance setting this up.
+    - - Everything else - colours, fonts, sizing etc - can be accomplished with CSS.
 
 
 ## Good-Loop Advert Taxonomy
