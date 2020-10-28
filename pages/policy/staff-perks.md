@@ -9,11 +9,12 @@ your manager for more information.
  - Pension is 5% employee and 3% employer.
  - Equity options: All staff get a fair slice of company equity, with an annual distribution of 1.5% of shares at the AGM.
  - Revenue share: All staff get a share of campaign profits (see commission policy for details).
+ - Wellness budget: Upto £100 per month for costs that help your wellbeing (fitness, mental health, or physical health). [details](https://docs.google.com/document/d/1j365OVTFpGR-IVDYtRBuWTK2rjZmYnEjqsGSU9NlUfU)
  - Bike-to-work scheme.
  - Volunteering policy: You can do some volunteer work on company time.
- - Emergency and Legal Aid Fund of £200 per year to help any staff member in trouble.
+ - Emergency and Legal Aid Fund of £200 per year to help any staff member in need.
  - 28 days leave by default for full-time workers (pro-rata for Part-Time)
- - ...Plus a loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards. 
+ - ...Plus a loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards.    
  And a one-off super holiday of 3 weeks extra paid leave after 5 years of service.
  - Personal budgets: We should work together to make Good-Loop a great place to work.
  So every staff member has a monthly budget (default: £50) to spend as they see fit on things that improve the company.
@@ -24,7 +25,7 @@ your manager for more information.
  - Training - tailored on a 1-to-1 basis.
  - Job reviews include looking at *your* needs (job satisfaction, workplace needs, and wider personal goals).
  - Free tea, coffee, and milk at work, obviously.
- - Meaningful work! Your job has a real positive impact on the world.
+ - *Meaningful work! Your job has a real positive impact on the world.*
 
 If you have ideas for making Good-Loop a better place to work -- please say so.
 
