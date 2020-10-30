@@ -13,9 +13,9 @@ your manager for more information.
  - Bike-to-work scheme.
  - Volunteering policy: You can do some volunteer work on company time.
  - Emergency and Legal Aid Fund of £200 per year to help any staff member in need.
- - 28 days leave by default for full-time workers (pro-rata for Part-Time)
- - ...Plus a loyalty bonus: 1 week extra paid leave after 3 years of service, and every year afterwards.    
- And a one-off super holiday of 3 weeks extra paid leave after 5 years of service.
+ - 30 days leave by default for full-time workers (pro-rata for Part-Time, and those 30 days do include bank holidays).
+ 	- ...Plus a loyalty bonus: 3 days extra paid leave after 3 years of service -- and you get those 3 days every year afterwards.    
+ 	- ...And a one-off super holiday of 3 weeks extra paid leave after 5 years of service.
  - Personal budgets: We should work together to make Good-Loop a great place to work.
  So every staff member has a monthly budget (default: £50) to spend as they see fit on things that improve the company.
  - Childcare vouchers.
