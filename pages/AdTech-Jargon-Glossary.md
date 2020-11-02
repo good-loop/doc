@@ -20,15 +20,5 @@
 
 * PCA: Post Campaign Analysis - a report we send clients after the campaign, summarising the results.
 
-## Good-Loop Terms 
-
-Sprechen Sie Good-Loop?
-
-* Our Page: a standalone page which plays video adverts.
-
-* Portal: our web-app for managing publisher and advertiser setup.
-
-* Unit or AdUnit: An advert widget that goes on web-pages. We have several variants.
-
 * Good-Loop Jargon: See [Good-Loop Terminology](Good-Loop-terminology.html)
 
