@@ -28,8 +28,6 @@ We make this (adding the charity logo overlay) - but the core of it is a short v
 
 ## Good-Loop Advert Taxonomy
 
-*Updated October 2020*
-
 These are the dimensions and standard values for describing an adunit in-part or as a whole. 
 These terms are used in advert setup and in reporting.
 See also the page on [Good-Loop Terminology](https://doc.good-loop.com/Good-Loop-terminology.html).
@@ -163,3 +161,10 @@ These are the events logged by adserving, which you can access in the portal das
  - `adblock` | There is an adblocker present (or rather: an ad-like request failed; this can also be caused by a bad internet connection).
 
 NB: the event names are designed to be good for grep and ES. Lower case, no spacing or punctuation.
+
+## Good-Loop Process Terminology
+
+These are pretty clear when expanded - but we also use the acronyms.
+
+- `Response-to-Brief (RTB)` The proposal we send a client after they send us a brief. Note: elsewhere in adtech RTB means realtime bidding.
+- `Post Campaign Analysis (PCA)` The report we send a client after the campaign.
