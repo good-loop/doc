@@ -1,13 +1,16 @@
-# Advert Products
 
-_See also the [AdTech Jargon Glossary](AdTech Jargon Glossary)_
+# Our Terminology
+
+## Good-Loop Advert Products
+
+_See also the [AdTech Jargon Glossary](AdTech-Jargon-Glossary.html)_
 
 We mostly deliver standard advert formats, like pre-roll vpaid. However we also have a couple of
 Good-Loop specific products.
 
  * Video Player Page (the `player`). A destination page that shows a video ad. https://demo.good-loop.com
 
- * Campaign Page
+ * `Impact Hub`: a micro-site that shows the impact from an advert(s), and the number of people who saw it. This was previously known as _Campaign Page_ but renamed as it can go beyond single campaigns.
 
  * Do-Good Wrapper (the `wrapper`). A banner advert, which links through to the brand's landing page
   -- but with a special Good-Loop wrapper, that adds a donate-to-charity widget to the top of the page.
@@ -21,9 +24,17 @@ We make this (adding the charity logo overlay) - but the core of it is a short v
     - Normally we'll set a page we host ourselves - which just loads a screen-filling adunit - as the campaign's landing page in the Instagram/Facebook/etc ad portal.
     - [Here's an example](https://testsocial.good-loop.com/generic/index.html?gl.vert=test_wide_multiple) of such a page. This will be optimised for portrait viewing and should be opened on mobile, or in mobile-simulation mode on a desktop browser.
     - The Good-Loop adunit can currently fill most needs on its own, without needing to be embedded in a custom page.
-    - - The video can be removed by adding param `gl.novideo=true` to the landing page URL.
-    - - If the ordering of elements is wrong, it can be changed using the dynamic layout engine - ask Dan A. or RM for assistance setting this up.
-    - - Everything else - colours, fonts, sizing etc - can be accomplished with CSS.
+    - The video can be removed by adding param `gl.novideo=true` to the landing page URL.
+    - If the ordering of elements is wrong, it can be changed using the dynamic layout engine - ask Dan A. or RM for assistance setting this up.
+    - Everything else - colours, fonts, sizing etc - can be accomplished with CSS.
+
+
+## Good-Loop Process Terminology
+
+These are pretty clear when expanded - but we also use the acronyms.
+
+- `Response-to-Brief (RTB)` The proposal we send a client after they send us a brief. Note: elsewhere in adtech RTB means realtime bidding.
+- `Post Campaign Analysis (PCA)` The report we send a client after the campaign.
 
 
 ## Good-Loop Advert Taxonomy
@@ -161,10 +172,3 @@ These are the events logged by adserving, which you can access in the portal das
  - `adblock` | There is an adblocker present (or rather: an ad-like request failed; this can also be caused by a bad internet connection).
 
 NB: the event names are designed to be good for grep and ES. Lower case, no spacing or punctuation.
-
-## Good-Loop Process Terminology
-
-These are pretty clear when expanded - but we also use the acronyms.
-
-- `Response-to-Brief (RTB)` The proposal we send a client after they send us a brief. Note: elsewhere in adtech RTB means realtime bidding.
-- `Post Campaign Analysis (PCA)` The report we send a client after the campaign.
