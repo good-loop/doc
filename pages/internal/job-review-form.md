@@ -1,8 +1,12 @@
 # Job Performance Review
 
+*Job reviews are a two-way discussion and a chance for both people to learn: The manager gives feedback, and the reviewee also gives feedback.*
+
 Worker:		
-Management:	
-Date:		
+
+Management:	 
+
+Date:		 
 
 ## Quality of work
 Worker:
