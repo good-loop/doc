@@ -14,7 +14,7 @@ If a fair trade option is available, then buy that in preference to non-Fair-Tra
 
 Minimise our environmental impact by buying second-hand where possible and appropriate.
 
-## Buy Last: Amazon and China
+## Buy Last: Amazon, Myanmar, and China
 
 ### Amazon - Poor treatment of warehouse staff
 
@@ -24,7 +24,7 @@ Why? Amazon treat their warehouse workers considerably worse than others, which 
 
 This does not apply to Amazon's digital services (e.g. streaming video, Kindle), or where Amazon are a digital marketplace but not a delivery partner (e.g. 2nd hand books that they won't deliver on prime are probably OK). Still, try e.g. E-bay, Google shoppping, or Blackwells for preference.
 
-### China - Human rights abuses
+### China and Myanmar - Human rights abuses
 
 For all goods, check the country of manufacture, and buy from other sources in preference to China or Myanmar.
 
@@ -32,7 +32,7 @@ Country-wide sanctions are generally to be avoided. However in the most serious 
 
 Under no circumstances should any negative consideration be applied to individuals for links with such countries. E.g. not working with a Chinese person in the UK because they are Chinese, or expecting such a person to denounce China, would be considered racist.
 
-On the buy-last list are: Myanmar (genocide against the Rohinga people), and China (mass-scale internment of the Uighur people; e.g. ref: https://www.bbc.co.uk/news/world-asia-china-50511063, https://www.youtube.com/watch?v=17oCQakzIl8&ab_channel=LastWeekTonight.
+On the buy-last list are: Myanmar (genocide against the Rohinga people), and China (mass-scale internment of the Uighur people; e.g. ref: https://www.bbc.co.uk/news/world-asia-china-50511063, https://www.youtube.com/watch?v=17oCQakzIl8&ab_channel=LastWeekTonight, https://www.bbc.co.uk/news/world-asia-china-55794071.
 
 This does not include Hong Kong (where the international trade may be providing some deterrent against repression). 
 
