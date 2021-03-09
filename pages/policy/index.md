@@ -2,6 +2,7 @@
 # Good-Loop Policies & Processes
 
  - [Access Control policy](access-control-policy.html)
+ - [Brand Safety policy](brand-safety-policy.html)
  - [Buying policy](buying-policy.html)
  - [Cookie Policy](cookie-policy.html)
  - [Data Protection and GDPR - Internal Policy](data-gdpr-policy)
