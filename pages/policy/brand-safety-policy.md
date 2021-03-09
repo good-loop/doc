@@ -35,7 +35,7 @@ We employ a verification process to ensure the inventory we purchase is properly
 
 ### Viewability
 
-Good-Loop works to target the most viewable impressions for campaigns we run. Programmatic buying allows us to predict the viewability of ads on PC and mobile devices before the bid is placed. We use the IAB Viewability definition for a viewable video ad impression: The unit has fully rendered, with 50% of pixels in-view for at least 2 consecutive seconds.[1] We set a predicted viewability threshold to assist our own viewability optimisation, allowing the system to optimise away from poorly-performing environments. We are also able to implement viewability tools from other vendors on campaigns at the client’s request.
+Good-Loop works to target the most viewable impressions for campaigns we run. Programmatic buying allows us to predict the viewability of ads on PC and mobile devices before the bid is placed. We use the IAB Viewability definition for a viewable video ad impression: The unit has fully rendered, with 50% of pixels in-view for at least 2 consecutive seconds.<sup>[1]</sup> We set a predicted viewability threshold to assist our own viewability optimisation, allowing the system to optimise away from poorly-performing environments. We are also able to implement viewability tools from other vendors on campaigns at the client’s request.
 
 
 ### Takedown Policy
