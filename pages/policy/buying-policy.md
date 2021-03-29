@@ -20,7 +20,7 @@ Minimise our environmental impact by buying second-hand where possible and appro
 
 For delivered goods, check and buy from other sources in preference to Amazon.
 
-Why? Amazon treat their warehouse workers considerably worse than others, which has a significant bad health impact. e.g. ref http://digg.com/2018/amazon-workers-pee, or https://www.theguardian.com/business/2018/may/31/amazon-accused-of-treating-uk-warehouse-staff-like-robots
+Why? Amazon treat their warehouse workers considerably worse than others, which has a significant bad health impact. e.g. ref http://digg.com/2018/amazon-workers-pee, or https://www.theguardian.com/business/2018/may/31/amazon-accused-of-treating-uk-warehouse-staff-like-robots, or https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo
 
 This does not apply to Amazon's digital services (e.g. streaming video, Kindle), or where Amazon are a digital marketplace but not a delivery partner (e.g. 2nd hand books that they won't deliver on prime are probably OK). Still, try e.g. E-bay, Google shoppping, or Blackwells for preference.
 
