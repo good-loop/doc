@@ -55,7 +55,9 @@ Would voting have altered our decisions at all?
  - Huawei: unknown. Potential for negative fall-out (without considering the evidence, we'd probably have leaned to "yes", with the evidence to "no" -- which would have made a yes vote problematic).   
  - Amazon: unkown. The debate could easily have escalated into an argument.   
 
+Conclusion: The courtroom model works.
 -->
+
 ## See also
 
 * Our [Environmental Policy](environmental-policy)
