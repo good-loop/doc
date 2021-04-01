@@ -29,6 +29,33 @@ Anyone can raise an issue with a company.
 * A company's actions count for far more than it’s intentions and PR statements. Intentions and PR statements should not be counted, except as backed up by actions or legally binding commitments.
 * If working with a company is judged to be unethical, then the company will decline further work and minimise existing work, though the company does not have to renege on existing agreements. 
 
+<!-- 
+We follow a courtroom model, with a senior person (usually Dan W in consultation with everyone) acting as the judge.
+
+Should ethical decisions be done by blind vote instead?
+
+Pros:    
+
+ - Simple clear approach.
+ - Non hierarchical.
+ - Fair and inclusive.
+
+Cons:
+
+ - We can't have a short SLA + everyone votes + evidence based decision making.   
+ - Election-style campaigning could be quite negative and create arguments.   
+ - Basic boardroom ethics say conflict-of-interest = no vote (less of an issue as we grow).   
+ - Voting is a more emotional decision making paradigm than the courtroom approach we follow.
+ - Democracy doesn't always give good decisions (see Trump, Brexit, Boris Johnson)
+
+Would voting have altered our decisions at all?
+
+ - Coca-cola: probably the same   
+ - Gatwick: probably the same   
+ - Huawei: unknown. Potential for negative fall-out (without considering the evidence, we'd probably have leaned to "yes", with the evidence to "no" -- which would have made a yes vote problematic).   
+ - Amazon: unkown. The debate could easily have escalated into an argument.   
+
+-->
 ## See also
 
 * Our [Environmental Policy](environmental-policy)
