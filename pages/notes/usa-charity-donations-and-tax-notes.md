@@ -102,7 +102,7 @@ We are clear with viewers that the charities are not endorsing the advert.
 ### What is the tax deduction worth?
 
 The value of a tax deduction depends on the rate of tax paid by the company. <sup>\[[5]\]</sup>
-A common result would be that the tax deducation amounts to a 21% refund on the donation. 
+A common result would be that the tax deduction amounts to a 21% refund on the donation. 
 However this varies considerably, and you should ask your accountant.
 
 -----
