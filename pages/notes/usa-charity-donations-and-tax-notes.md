@@ -1,7 +1,7 @@
 
 # US Charity Donations and Tax - Good-Loop Informal Notes
 
-**Disclaimer: Good-Loop _cannot_ provide tax advice. These are our informal and unqualified opinions. Clients should consult a qualified tax advisor.**
+**Disclaimer: Good-Loop _cannot_ provide tax advice. These are our informal and unqualified opinions - which may not relate to a given client. Clients should consult their accountant or a qualified tax advisor.**
 
 Date: 25th August 2020   
 
@@ -50,7 +50,7 @@ For Good-Loop ads, the payment to the charity is OK, because no benefits
 are attached to that. 
 The benefits are attached to the media-and-fees part of the campaign costs.
 
-See IRS rules on sponsorship & advertising: (IRC Sec. 513(c) – Advertising, IRC Sec; 513(i) – Qualified Sponsorship Payments)[4]
+See IRS rules on sponsorship & advertising: (IRC Sec. 513(c) – Advertising, IRC Sec; 513(i) – Qualified Sponsorship Payments)<sup>\[[4]\]</sup>
 
 
 Let's highlight some key bits:
@@ -76,7 +76,7 @@ Fortunately this does not apply: a Good-Loop client is not entitled to use the c
 
 ### IRS Issue Indicators or Audit Tips re Sponsorship
 
-This is the checklist the IRS gives at [4] for indicating if a payment qualifies.
+This is the checklist the IRS gives at <sup>\[[4]\]</sup> for indicating if a payment qualifies.
 
 > Review contracts for sponsorship payments to determine if:
 > 
@@ -101,7 +101,7 @@ We are clear with viewers that the charities are not endorsing the advert.
 
 ### What is the tax deduction worth?
 
-The value of a tax deduction depends on the rate of tax paid by the company. [5]
+The value of a tax deduction depends on the rate of tax paid by the company. <sup>\[[5]\]</sup>
 A common result would be that the tax deducation amounts to a 21% discount. 
 However this varies considerably, and you should ask your accountant.
 
