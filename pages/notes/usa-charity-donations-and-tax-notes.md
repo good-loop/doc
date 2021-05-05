@@ -99,14 +99,22 @@ This use or acknowledgement is by the charity (or in their name). The charity it
 Of course, the client's advert itself may contain these! But that is separate.
 We are clear with viewers that the charities are not endorsing the advert. 
 
+### What is the tax deduction worth?
+
+The value of a tax deduction depends on the rate of tax paid by the company. [5]
+A common result would be that the tax deducation amounts to a 21% discount. 
+However this varies considerably, and you should ask your accountant.
+
 -----
 
 [1]: <https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contributions-written-acknowledgments>
 [2]: <https://www.irs.gov/pub/irs-pdf/p526.pdf>
 [3]: <https://www.usa.gov/donate-to-charity>
 [4]: <https://www.irs.gov/charities-non-profits/advertising-or-qualified-sponsorship-payments>
+[5]: <https://bench.co/blog/tax-tips/tax-credit-vs-deduction/#how-much-is-a-tax-deduction-worth>
 
 1. IRS written acknowledgments [1]
 2. IRS publication 526 [2]
 3. uda.gov - Donate to Charity [3]
 4. IRS Advertising or Qualified Sponsorship Payments? [4]
+5. Bench.co - How much is a tax deduction worth? [5]
