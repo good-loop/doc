@@ -50,7 +50,7 @@ This includes whether or not such behaviour is explicitly directed at a person.
 
 ## 3. Statement of policy
 
-(a) It is the policy of Good-Loop Associates Ltd to ensure that no job
+(a) It is the policy of Good-Loop Ltd to ensure that no job
 applicant, employee or supplier receives less favourable treatment on the grounds of sex,
 race, nationality, marital status, disability, age, part-time or fixed term contract status,
 sexual orientation or religion, or is disadvantaged by conditions or
@@ -58,7 +58,7 @@ requirements that cannot be shown to be justifiable. The organisation is
 committed not only to its legal obligations but also to the positive promotion
 of equality of opportunity in all aspects of employment.
 
-(b) It is the policy of Good-Loop Associates Ltd to ensure that the workplace
+(b) It is the policy of Good-Loop Ltd to ensure that the workplace
 is a safe and respectful environment for all people, regardless of sex, race, nationality, marital
 status, disability, age, part-time or fixed term contract status, sexual orientation,
  or religion.
@@ -157,7 +157,7 @@ discourage certain groups and, if so, whether these are justifiable.
 
 ## 9. Grievances and victimisation
 
-(a) Good-Loop Associates Ltd emphasises that discrimination and offensive behaviour are unacceptable
+(a) Good-Loop Ltd emphasises that discrimination and offensive behaviour are unacceptable
 conduct which may lead to disciplinary action under the organisation's
 Disciplinary Procedure.
 
