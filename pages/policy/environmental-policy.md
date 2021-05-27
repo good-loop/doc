@@ -28,7 +28,9 @@ opportunities for further improvements.
 
 Good-Loop aims to be carbon neutral. 
 
-* Each year we will calculate our carbon footprint and offset this by purchasing carbon credits from an appropriate supplier. 
+* We have completed the BIMA Carbon Negative course to accurately calculate our base footprint accross scope 1, 2 and 3.
+	See [BIMA Carbon Negative](https://bima.co.uk/carbon-negative/) 
+* We continuously work towards offsetting and *reducing* this carbon footprint. 
 	See [our Cool-Earth offset profile](https://www.coolearth.org/profiles/GoodLoop/)
 * We use data-centres that are 100% powered by renewable energy.
 
