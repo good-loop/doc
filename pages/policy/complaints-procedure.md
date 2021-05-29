@@ -1,5 +1,5 @@
 
-# (draft) Complaints handling procedure
+# (draft) Client or Public Complaints Handling Procedure
 
 If a client or viewer wishes to make a complaint they should find it easy to do so. 
 We look upon complaints as an opportunity to learn, adapt, improve and provide a better service. This
@@ -36,7 +36,7 @@ complaints manager to deal with the problem. • All contact with the complainan
 employees. • If the complaint is being made on behalf of the customer by an advocate it must first be
 verified that the person has permission to speak for the customer, especially if confidential
 information is involved. It is very easy to assume that the advocate has the right or power to
-act for the customer when they may not. If in doubt it should be assumed that the customer’s
+act for the customer when they may not. If in doubt it should be assumed that the customer's
 explicit permission is needed prior to discussing the complaint with the advocate. • After talking the problem through, each manager or the member of staff dealing with the
 complaint should suggest a course of action to resolve the complaint. If this course of action is
 acceptable then the member of staff should clarify the agreement with the complainant and
@@ -52,9 +52,9 @@ manager who should record it in the complaints book and send an acknowledgment l
 within two working days. The complaints manager will be the named person who deals with
 the complaint through the process.
 • If necessary, further details should be obtained from the complainant. If the complaint is not
-made by the customer but on the customer’s behalf, then consent of the customer, preferably
+made by the customer but on the customer's behalf, then consent of the customer, preferably
 in writing, must be obtained from the customer. 
-• A copy of the complaint’s procedure will be given to the customer.
+• A copy of the complaint's procedure will be given to the customer.
  • If the complaint raises potentially serious matters, advice should be sought from a legal
 advisor. If legal action is taken at this stage any investigation by Thomas Roofing under the
 complaints procedure should cease immediately.
@@ -71,6 +71,6 @@ admission of liability).
 has been taken seriously and has been thoroughly investigated. • After the meeting, or if the complainant does not want a meeting, a written account of the
 investigation should be sent to the complainant. This should include details of how to
 approach Which? Trusted Trader if the complainant is not satisfied with the outcome. • The outcomes of the investigation and the meeting should be recorded on appropriate
-documentation and any shortcomings in Thomas Roofing’s procedures should be identified
+documentation and any shortcomings in Thomas Roofing's procedures should be identified
 and acted upon.
  • This complaints procedure should be audited by the management annually.

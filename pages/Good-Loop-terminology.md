@@ -96,8 +96,8 @@ We record these as keyword strings. The unit can turn them into numbers.
 
 How does it look & feel? Can also cover e.g. “banner shows a video thumbnail”, “use logo A/B”   
 We expect to define explore and discard lots of these.   
-We also have the custom css. We’d define a style type if 
-(a) css isn’t enough and it has to hook into custom code, or (b) we want to report on A/B variants.
+We also have the custom css. We'd define a style type if 
+(a) css isn't enough and it has to hook into custom code, or (b) we want to report on A/B variants.
 
 7. **cta**:
 - `none`
@@ -108,7 +108,7 @@ We also have the custom css. We’d define a style type if
 - `appinstall`
 - `custom`
    
-We can’t enumerate all of these, but it’s useful to list common ones for reporting. Let’s also have a custom html field, separate from this, which can define actual html (so a cta can have e.g. custom wording).
+We can't enumerate all of these, but it's useful to list common ones for reporting. Let's also have a custom html field, separate from this, which can define actual html (so a cta can have e.g. custom wording).
 
 Using this...
 

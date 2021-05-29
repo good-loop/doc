@@ -97,7 +97,7 @@ Good-Loop will, where appropriate and possible:
  - Organise staff training in environmental awareness.
  - Invite guest speakers to inform and motivate staff about social and environmental issues.
  - Use signs and notices as reminders.
- - Include relevant information in new employees’ orientation.
+ - Include relevant information in new employees' orientation.
  - Post this Environmental Policy on our website.
  - Encourage existing staff to set examples for new employees.
  - Create awareness of the benefits to the environment of commuting by walking, bicycling or

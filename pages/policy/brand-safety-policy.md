@@ -30,12 +30,12 @@ We employ a verification process to ensure the inventory we purchase is properly
 * We use reputable independent services such as Grapeshot, Doubleverify, comScore or Integral Ad Science for a range of pre-bid filtering. This includes implementation of their brand safety and suspicious activity targeting segments which allow us to block bids from fraudulent inventory and domains classified under sensitive categories including adult, hate speech, violence and more. In addition, Grapeshot allows us to create custom contextual keyword segments from a negative keyword list, allowing us to block bids on domains containing specific content and topics that may be deemed unsafe to a brand.
 * We run a mixture of site/app block lists and allow lists for all activations to ensure that we avoid serving in brand unsafe environments. This includes the system allow list that is maintained and regularly updated by the DSP to filter out any inappropriate environments. We also only target web inventory where Open Exchange bids are authorized in the publisher's ads.txt file.
 * We are generally flexible and able to implement tracking solutions from any third-party brand safety vendor if this is supplied to us prior to the launch of an activity. This would include post-bid solutions such as impression blocking technology.
-* For campaigns running on YouTube and social media platforms such as Facebook, Instagram and Snapchat, we use the platform’s built-in tools to exclude certain sensitive categories.
+* For campaigns running on YouTube and social media platforms such as Facebook, Instagram and Snapchat, we use the platform's built-in tools to exclude certain sensitive categories.
 
 
 ### Viewability
 
-Good-Loop works to target the most viewable impressions for campaigns we run. Programmatic buying allows us to predict the viewability of ads on PC and mobile devices before the bid is placed. We use the IAB Viewability definition for a viewable video ad impression: The unit has fully rendered, with 50% of pixels in-view for at least 2 consecutive seconds.<sup>[1]</sup> We set a predicted viewability threshold to assist our own viewability optimisation, allowing the system to optimise away from poorly-performing environments. We are also able to implement viewability tools from other vendors on campaigns at the client’s request.
+Good-Loop works to target the most viewable impressions for campaigns we run. Programmatic buying allows us to predict the viewability of ads on PC and mobile devices before the bid is placed. We use the IAB Viewability definition for a viewable video ad impression: The unit has fully rendered, with 50% of pixels in-view for at least 2 consecutive seconds.<sup>[1]</sup> We set a predicted viewability threshold to assist our own viewability optimisation, allowing the system to optimise away from poorly-performing environments. We are also able to implement viewability tools from other vendors on campaigns at the client's request.
 
 
 ### Takedown Policy
@@ -47,6 +47,6 @@ The quickest way to reach the Good-Loop campaigns team for corrective action is 
 
 ### Queries
 
-If you have any questions about our brand safety policy or Good-Loop’s application of the JICWEBS DTSG Brand Safety principles, please contact our Head of Operations at <span class='email' data-name='ryan' data-domain='good-loop.com'>ryan at good-loop.com</span>.
+If you have any questions about our brand safety policy or Good-Loop's application of the JICWEBS DTSG Brand Safety principles, please contact our Head of Operations at <span class='email' data-name='ryan' data-domain='good-loop.com'>ryan at good-loop.com</span>.
 
 [1]: https://www.iabuk.com/news-article/quick-qa-viewability

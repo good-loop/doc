@@ -26,7 +26,7 @@ Anyone can raise an issue with a company.
 * Previous assessments to be kept on record and used as non-binding examples, to help produce consistent policy.
 * A company is not considered unethical if it is average or above for its sector, and the sector is not intrinsically harmful.
 * As our main service is advertising, the marketing materials should be considered. Fraudulent or harmful marketing are grounds for considering a project unethical.
-* A company's actions count for far more than it’s intentions and PR statements. Intentions and PR statements should not be counted, except as backed up by actions or legally binding commitments.
+* A company's actions count for far more than it's intentions and PR statements. Intentions and PR statements should not be counted, except as backed up by actions or legally binding commitments.
 * If working with a company is judged to be unethical, then the company will decline further work and minimise existing work, though the company does not have to renege on existing agreements. 
 
 <!-- 

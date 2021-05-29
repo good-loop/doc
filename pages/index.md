@@ -1,7 +1,7 @@
 
 # Welcome to the doc wiki!
 
-> Good-Loop is the world’s first ethical advertising network. Our philosophy is that by empowering people to control the adverts they see – you create more inherent value for advertisers. We harness this added value to fund charities. 
+> Good-Loop is the world's first ethical advertising network. Our philosophy is that by empowering people to control the adverts they see – you create more inherent value for advertisers. We harness this added value to fund charities. 
 
 * [Publishers: How to install Good-Loop directly on your site](/Publishers-How-to-install-Good-Loop-on-your-site.html)
 	* [Wordpress notes](/Wordpress-Ad-Plugins-Notes.html)

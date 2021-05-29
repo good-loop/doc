@@ -36,7 +36,7 @@ On the buy-last list are: Myanmar (genocide against the Rohinga people), and Chi
 
 This does not include Hong Kong (where the international trade may be providing some deterrent against repression). 
 
-Note: Work with Tik-tok may be excluded (more research & consideration wanted, but Wikipedia on the company isn’t encouraging: "The company has an internal committee of the Chinese Communist Party as well as strategic partnerships with the Ministry of Public Security and Chinese Communist Party-supported ventures in Beijing and Shanghai... It has garnered public attention over allegations that it worked with the Chinese Communist Party to censor and surveil content pertaining to Xinjiang re-education camps and other topics the Party deemed controversial").
+Note: Work with Tik-tok may be excluded (more research & consideration wanted, but Wikipedia on the company isn't encouraging: "The company has an internal committee of the Chinese Communist Party as well as strategic partnerships with the Ministry of Public Security and Chinese Communist Party-supported ventures in Beijing and Shanghai... It has garnered public attention over allegations that it worked with the Chinese Communist Party to censor and surveil content pertaining to Xinjiang re-education camps and other topics the Party deemed controversial").
 
 (policy agreed by the Leadership Team, Sept 2020)
 

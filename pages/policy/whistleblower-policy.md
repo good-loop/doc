@@ -16,7 +16,7 @@ remedial action.
 
 Any employee reporting concerns of this nature has a lawful right to raise these concerns
 without fear of harassment, discrimination or retaliation. The Company strictly prohibits discrimination,
-retaliation or harassment of any kind against any employee who, based on the employee’s reasonable
+retaliation or harassment of any kind against any employee who, based on the employee's reasonable
 belief that such conduct has occurred, reports that information pursuant to this Policy.
 
 ## Reporting Complaints

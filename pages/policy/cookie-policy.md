@@ -3,7 +3,7 @@
 
 Our website and advertisements use cookies to distinguish you from other users. This helps us to provide you with a good experience when you browse our website and also allows us to improve our service and advertisement offering.
 
-A cookie is a small file of letters and numbers that we store on your browser if you agree. Cookies contain information that is transferred to your computer’s hard drive.
+A cookie is a small file of letters and numbers that we store on your browser if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
 We use the following cookies:
 
@@ -11,7 +11,7 @@ We use the following cookies:
 
 1.  **Analytical or performance cookies.** These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 
-2.  We also use analytical cookies for our core business– advertising. Cookies allow us to see what works and what doesn’t.
+2.  We also use analytical cookies for our core business– advertising. Cookies allow us to see what works and what doesn't.
 
 1.  **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
@@ -202,7 +202,7 @@ Processes
 </td>
 <td>
 
-This is a Drift cookie designed for enabling user interactions with our site’s Chat widget (provided by Drift). The Chat widget requests the user’s name and email address for contact purposes. User consent for this is managed in the Chat widget itself.
+This is a Drift cookie designed for enabling user interactions with our site's Chat widget (provided by Drift). The Chat widget requests the user's name and email address for contact purposes. User consent for this is managed in the Chat widget itself.
 
 More information about Drift can be found [here](https://www.drift.com/privacy-policy/)
 
