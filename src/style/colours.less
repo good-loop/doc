@@ -1,0 +1,118 @@
+/* define GL colours */
+
+@grey: #666;
+
+// Extra specific colours in our palette, if you need them. No defined uses.
+@green: #586c28;
+@yellow: #f6cf55;
+
+// New colours from brand-book
+// See https://drive.google.com/drive/folders/0Bz6LfeTw60y3UXlIbVVPRmlpNnc
+@gl-red: #770f00;
+@gl-orange: #af2009;
+@gl-light-blue: #5ca5c0;
+@gl-dark-blue: #3e767f;
+@gl-dark-grey: #928b81; // Why is this NOT grey?
+@gl-light-grey: #dddad3; // Why is this NOT grey?
+
+.bg-gl-red {
+	background-color: @gl-red;
+}
+
+.bg-gl-dark-blue {
+	background-color: @gl-dark-blue;
+}
+
+.bg-light-blue {
+	background-color: @gl-light-blue;
+}
+
+.bg-gl-dark-grey {
+	background-color: @gl-dark-grey;
+}
+
+.bg-gl-light-grey {
+	background-color: @gl-light-grey;
+}
+
+.text-shadow-light-blue {
+	text-shadow: @gl-light-blue 2px 2px;
+}
+.color-gl-red {
+	color: @gl-red;
+}
+
+// For svgs
+.fill-gl-red {
+	fill: @gl-red;
+}
+
+/* @deprecated prefer text-dark/light-n over a hard-coded colour. */
+.black {
+	color: #000;
+}
+
+.white {
+	color: #fff;
+}
+
+
+
+// Foreground and background styles
+// BS defines dark and light (nearly black/white) - see https://getbootstrap.com/docs/4.0/utilities/colors/
+// Add some more colour pairs which can be used as foreground/background combos
+@dark0: #343a40; // BS
+@light0: #f8f9fa; // BS
+@dark1: @gl-dark-blue;
+@light1: @gl-light-grey;
+@dark2: @gl-red;
+@light2: @gl-light-blue;
+
+// NB: identical to BS text-light/dark and bg-light-dark -- but we add a "-0" for ease of use alongside dark/light pairs 1,2
+.text-dark-0 { color:@dark0; }
+.bg-dark-0 { background-color:@dark0; }
+.text-light-0 { color:@light0; }
+.bg-light-0 { background-color:@light0; }
+
+.text-dark-1 { color:@dark1; }
+.bg-dark-1 { background-color:@dark1; }
+.text-light-1 { color:@light1; }
+.bg-light-1 { background-color:@light1; }
+
+.text-dark-2 { color:@dark2; }
+.bg-dark-2 { background-color:@dark2; }
+.text-light-2 { color:@light2; }
+.bg-light-2 { background-color:@light2; }
+// NB: This gives 6 colour pairings - more than enough to colour any map :)
+
+
+/* GL button: red button on white background */
+.btn-gl {
+	// padding: 0.5em 1em;
+
+	&:hover {
+		text-decoration: underline;
+	}
+	background-color: #fff;
+	color: @gl-red;
+	border-color: @gl-red;
+	font-weight: bold;
+	// border-radius: 10px;
+}
+
+.color-facebook {color: #3b5998;}
+.color-twitter {color:#4099ff;}
+.color-instagram {color:#e95950;}
+.color-linkedin {color:#0077B5;}
+.color-good-loop {color: @gl-red; }
+.bg-facebook {background-color: #3b5998;}
+.bg-twitter {background-color:#4099ff;}
+.bg-instagram {background-color:#e95950;}
+.bg-linkedin {background-color:#0077B5;}
+.bg-good-loop {background-color: @gl-red;}
+
+// // hack to make grayed out values consistent across website
+// Why? Bootstrap should define this as muted grey. ^DW May 2019
+// .text-muted {
+// 	color: #9c9c9c;
+// }
