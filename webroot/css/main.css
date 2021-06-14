@@ -270,10 +270,10 @@ a:hover {
   transition: 0.3s;
 }
 .navbar .navbar-brand {
-  color: black;
+  color: #830000;
 }
 .navbar .navbar-brand:hover {
-  color: #830000;
+  color: black;
 }
 .navbar img {
   max-height: 2em;
