@@ -1,24 +1,24 @@
 limit_months: 18 months
 
-# (draft) Disciplinary Procedure 
-
-Status: This is a draft. IT is NOT active yet.
+# Disciplinary Procedure 
 
 This procedure is for managers disciplining a staff member or contractor.
-See alo the [[Grievance Procedure]] for staff who wish to raise a complaint.
+See also the [Grievance Procedure](grievance-procedure.html) for staff who wish to raise a complaint.
 
 ## 1. Purpose and scope
 
-This procedure is designed to help and encourage all employees to achieve and maintain standards of conduct, attendance and job performance. The company rules (a copy of which is displayed in the office) and this procedure apply to all employees, and to contractors whilst working for the Company. The aim is to ensure consistent and fair treatment for all in the organisation.
+This procedure is designed to help and encourage all employees to achieve and maintain standards of conduct, attendance and job performance. The company rules (a copy of which is shared online) and this procedure apply to all employees, and to contractors whilst working for the Company. The aim is to ensure consistent and fair treatment for all in the organisation.
 
 ## 2. Principles
 
+ - Our first priority is the well-being of the people involved. 
+ - If possible, disciplinary measures should be corrective rather than punitive. 
  - Informal action will be considered, where appropriate, to resolve problems.
  - No disciplinary action will be taken against an employee until the case has been fully investigated, except for reasonable actions to protect other employees.
  - For formal action the employee will be advised of the nature of the complaint against him or her and will be given the opportunity to state his or her case before any decision is made at a disciplinary meeting.
  - Employees will be provided, where appropriate, with written copies of evidence and relevant witness statements in advance of a disciplinary meeting. However this may be restricted to protect the identity of colleagues contributing to the process.
  - At all stages of the procedure the employee will have the right to be accompanied by a trade union representative, or work colleague.
- - No employee will be dismissed for a first breach of discipline except in the case of gross misconduct, when the penalty will be dismissal without notice or payment in lieu of notice.
+ - No employee will be dismissed for a first breach of discipline except in the case of gross misconduct, when the penalty can be dismissal without notice or payment in lieu of notice.
  - An employee will have the right to appeal against any disciplinary action.
  - The procedure may be implemented at any stage if the employee's alleged misconduct warrants this.
 
@@ -26,13 +26,15 @@ This procedure is designed to help and encourage all employees to achieve and ma
 
 ### First stage of formal procedure
 
-This will normally be either:
+A manager may start the displinary procedure, either as the result of a [grievance procedure](grievance-procedure.html) investigation, or because they decide the circumstances merit it. An investigation is not needed. If the person being discplined feels that the treatment is unfair, they can appeal (see below).
 
- - An improvement note for unsatisfactory performance if performance does not meet acceptable standards. This will set out the performance problem, the improvement that is required, the timescale, any help that may be given and the right of appeal. The individual will be advised that it constitutes the first stage of the formal procedure. A record of the improvement note will be kept for $limit_months, but will then be considered spent - subject to achieving and sustaining satisfactory performance
+The first stage will normally be either:
+
+ - An improvement note for unsatisfactory performance, if performance does not meet acceptable standards. This will set out the performance problem, the improvement that is required, the timescale, any help that may be given and the right of appeal. The individual will be advised that it constitutes the first stage of the formal procedure. A record of the improvement note will be kept for $limit_months, but will then be considered spent - subject to achieving and sustaining satisfactory performance
 
 or
 
- - A first warning for misconduct if conduct does not meet acceptable standards. This will be in writing and set out the nature of the misconduct and the change in behaviour required and the right of appeal. The warning will also inform the employee that a final written warning may be considered if there is no sustained satisfactory improvement or change. A record of the warning will be kept, but it will be disregarded for disciplinary purposes after a specified period ($limit_months).
+ - A first warning for misconduct, if conduct does not meet acceptable standards. This will be in writing and set out the nature of the misconduct and the change in behaviour required and the right of appeal. The warning will also inform the employee that a final written warning may be considered if there is no sustained satisfactory improvement or change. A record of the warning will be kept, but it will be disregarded for disciplinary purposes after a specified period ($limit_months).
 
 ### Final written warning
 
@@ -59,12 +61,15 @@ The following list provides some examples of offences which are normally regarde
  - serious incapability at work brought on by alcohol or illegal drugs
  - causing loss, damage or injury through serious negligence
  - a serious breach of health and safety rules
- - a serious breach of confidence.
+ - a serious breach of confidence
 
 If you are accused of an act of gross misconduct, you may be suspended from work on full pay, normally for no more than five working days, while the alleged offence is investigated. If, on completion of the investigation and the full disciplinary procedure, the organisation is satisfied that gross misconduct has occurred, the result will normally be summary dismissal without notice or payment in lieu of notice.
 
 ### Appeals
 
-An employee who wishes to appeal against a disciplinary decision must do so within five working days. The senior manager will hear all appeals and his/her decision is final. At the appeal any disciplinary penalty imposed will be reviewed.
+An employee can appeal against a disciplinary action. They must do so within five working days, in writing or email to their manager. A panel of two senior managers will be appointed to hear the appeal, and their decision is final. At the appeal any disciplinary penalty imposed will be reviewed (which could lead to it being reduced or increased).
 
-Note: Based on ACAS template "Sample basic disciplinary procedure"
+If the employee feels they are being bullied or otherwise mistreated by their manager, then they can raise a complaint. Please see the [Grievance Procedure](grievance-procedure.html) for details.
+
+----
+<small>Note: Based on ACAS template "Sample basic disciplinary procedure"</small>
