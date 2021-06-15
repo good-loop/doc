@@ -11,7 +11,7 @@ This procedure is designed to help and encourage all employees to achieve and ma
 
 ## 2. Principles
 
- - Our first priority is the well-being of the people involved. 
+ - Our first priority is the well-being of the people involved (which includes the staff member being disciplined, though not at the expense of any victims). 
  - If possible, disciplinary measures should be corrective rather than punitive. 
  - Informal action will be considered, where appropriate, to resolve problems.
  - No disciplinary action will be taken against an employee until the case has been fully investigated, except for reasonable actions to protect other employees.
@@ -23,6 +23,14 @@ This procedure is designed to help and encourage all employees to achieve and ma
  - The procedure may be implemented at any stage if the employee's alleged misconduct warrants this.
 
 ## 3. The procedure
+
+### Informal Discipline
+
+Often, a formal disciplinary process is not needed. A manager may simply speak to the person, and agree some changes. Such informal discipline may be noted down for audit trails and performance reviews, but will not lead to disciplinary action such as dismissal without first following the formal procedure below.
+
+If another staff member (or other stakeholder) was affected, then it is important that they do not feel the issue was ignored. 
+
+So for these cases, best practice is to give a brief communication to the affected people. This should be as non-judgemental as possible, whilst establishing expected good behaviour. For example, if someone was rude, then their manager might apologise to the recipient, or if someone was unhelpful, then their manager might send a more helpful reply.
 
 ### First stage of formal procedure
 
