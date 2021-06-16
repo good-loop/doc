@@ -6,8 +6,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="description" content="$title">
+	<meta name="author" content="Good-Loop">
 	<link rel="shortcut icon" href="/favicon-32.png" />
 	<meta name="generator" content="$generator">
 
@@ -16,59 +16,23 @@
 	<!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
 		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
-	<!-- TODO tidy up and reduce the css / less below -->
-		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
 		crossorigin="anonymous">
-	<link href="/css/good-loop-doc.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet"/>
 	
 </head>
 
 <body>
-	<div class='logo d-none d-print-block mt-n5' style='width:100%; height:2rem;'>
-		<img src='/img/GoodLoopLogos_Good-Loop_LogoMark_White_cropped.png' class="pull-right mr-2" style='height:100%;' />
-	</div>
-	<nav class="navbar navbar-expand-md navbar-dark fixed-top">
-		<a href="/"><img src='/img/GoodLoopLogos_Good-Loop_LogoMark_White_cropped.png' /></a>
-		<div class="container">
-			<span><a class="navbar-brand" href="/">Good-Loop: Documentation:</a> $title</span>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
-			aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-			<div class="google-custom-search-div" id="googleCustomSearch">
-				<script async src="https://cse.google.com/cse.js?cx=003944300413861250323:moxykst8tl4"></script>
-				<div class="gcse-search"></div>
-			</div>
-		</div>
-	</nav>
+
+	<section src='navbar.html'></section>
 
 	<a name='top'></a>
 	
-	<!-- NB not using class=container 'cos we want full width backgrounds -->
 	<div id='main' class='container'>
 		$contents
 	</div>
 
-	<footer class="navbar">
-		<div class="col-md-3">			
-			<a href="http://www.good-loop.com">Good-Loop</a>
-			<a class="s-social-icon s-social-icon-facebook" href="https://www.facebook.com/the.good.loop/" target="_blank">
-				<span class="fa fa-facebook"></span>
-			</a>
-			<a class="s-social-icon s-social-icon-twitter" href="https://twitter.com/goodloophq" target="_blank">
-				<span class="fa fa-twitter"></span>
-			</a>
-			<a class="s-social-icon s-social-icon-linkedin" href="https://www.linkedin.com/company/good.loop?trk=biz-companies-cym" target="_blank">
-				<span class="fa fa-linkedin"></span>
-			</a>
-			<a class="s-social-icon s-social-icon-instagram" href="https://www.instagram.com/goodloophq/" target="_blank">
-				<span class="fa fa-instagram"></span>
-			</a>				
-		</div>
-		<div class="trademark col-md-3">
-			&copy; Good-Loop Ltd, all rights reserved. Good-Loop&trade; is a registered UK company no. SC548356.
-		</div>
-	</footer>
+	<section src='footer.html'></section>
 
 	<!-- JavaScript
     ================================================== -->

@@ -1,0 +1,180 @@
+
+/* Headers */
+
+/* the #main is seemed to be needed */
+h1,h2,h3,h4, #main h1,h2,h3,h4, #main h1,h2,h3,h4 a, #main h1 a, #main h2 a, #main h3 a {
+	color: black;
+}
+
+h1 {
+	text-align: center;	
+	width:100%;
+ 	border-bottom: 1px solid #333;
+ 	margin-left: 20px;
+ 	margin-right: 20px;
+ }
+ h1 a, .h1 a {
+ 	border-bottom: 3px solid #fff;
+ 	position: relative;
+ 	bottom: -10px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	background: white;
+ }
+
+/* side lines for h1
+.sideline {
+ 	background: #333;
+ 	content: " ";
+ 	display: inline-block;
+ 	height: 1px;
+ 	width: 20%;
+ 	zoom: 1;
+ 	margin-left: 20px;
+ 	margin-right: 20px;
+}
+
+h1:not(.subtitle)::before {
+	 .sideline(); -- in less 
+	background: #333;
+	content: " ";
+	display: inline-block;
+	height: 1px;
+	width: 20%;
+	zoom: 1;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+h1:not(.subtitle)::after {
+	background: #333;
+	content: " ";
+	display: inline-block;
+	height: 1px;
+	width: 20%;
+	zoom: 1;
+	margin-left: 20px;
+	margin-right: 20px;
+} */
+
+h1.subtitle {
+	font-family: Helvetica, sans-serif !important;
+	text-transform: uppercase;
+	font-size: 20px; // from 36
+	margin-top: -5px; // from +20
+	font-weight: 300 !important;
+}
+
+.welcome-to-the-doc-wiki h1 {
+	margin: 10px 0; // looks a bit better when the homepage header has a bit of space around it
+}
+
+/*	end Headers */
+
+
+body {
+	 font-family: 'Roboto Condensed';
+	 color: #333;
+	 /* background-color: #EAECF0; */
+	 padding-top: 4.5rem;
+}
+
+/* GOOGLE CUSTOM SEARCH STYLING BLOCK */
+.google-custom-search-div {
+	width: 20vw;
+	height: 6vh;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+
+.gsc-control-cse, .gsc-control-cse-en {
+	background-color: transparent !important;
+	border: none !important;
+	padding: none !important;
+}
+
+.gsc-search-button, .gsc-search-button-v2 {
+	border-color: #830000 !important;
+	background-color: #830000 !important;
+}
+/* END OF GOOGLE CUSTOM SEARCH STYLING BLOCK */
+
+
+#main code {
+	color: #51808a;
+}
+
+#main blockquote {
+	margin: 1em;
+	border-left: 2px solid rgba(100,100,100,0.5);
+	padding-left: 1em;
+}
+
+/*			SECTIONS 			*/
+
+footer {
+	background: #333;
+	color:#fff;
+}
+
+footer a {
+	color:#fff;
+}
+footer a:hover {
+    text-decoration: none;
+}
+
+.width-contain {
+	width: 100%;
+	height: auto;
+}
+
+.onethird-height {
+	max-height: 33vh;
+}
+
+.twothirds-height {
+	max-height: 66vh;
+}
+
+.right-border {
+	border-right: 1px solid #b7b7b7;
+}
+
+
+.navbar, footer {
+	background-color: #a5252d;
+	font-family: "brandon grotesque", brandon, helvetica, sans-serif;
+	font-size: 19px;
+}
+.navbar img {
+	max-height: 2em;
+}
+footer {
+	padding: 1.5vh !important;
+}
+
+#main {
+	font-family: "brandon grotesque", brandon, helvetica, sans-serif;
+	font-size: 22px;
+	padding-bottom: 100px; /*the footer overlaps the bottom of the content otherwise*/
+	/* for short-text pages (e.g. https://doc.good-loop.com/instagram-install.html), put the footer at the bottom */
+	min-height: calc(100vh - 190px);
+}
+
+#main > p:nth-child(1) {
+	font-family: "bebas neue", bebas, helvetica, sans-serif;
+	text-align: center;
+	font-size: 36px;
+	margin: 2.5vh auto;
+}
+
+a {
+	color: #a5252d;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline dashed currentColor;
+}
+

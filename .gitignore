@@ -1,3 +1,7 @@
 bob.log
 *.html
 boblog
+!template.html
+!navbar.html
+!footer.html
+webroot/css/main.css
