@@ -355,7 +355,7 @@ function start_service {
 function custom_less_compiler {
     for server in ${TARGET_SERVERS[@]}; do
 	printf "\nCompiling LESS styling\n"
-	ssh winterwell@$server "cd $PROJECT_ROOT_ON_SERVER && lessc src/style/main.less webroot/css/main.css"
+	ssh winterwell@$server "cd $PROJECT_ROOT_ON_SERVER && /usr/bin/lessc src/style/main.less webroot/css/main.css"
     done
 }
 
