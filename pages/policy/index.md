@@ -23,6 +23,7 @@
  - [Safeguarding policy](safeguarding-policy.html)
  - [Security policy](security.html)
  - [Server update policy](server-update-policy.html) 
+ - [Shadow IT policy](shadow-it-policy.html) 
  - [Staff Perks](staff-perks.html) 
  - [Terms of Use](/terms/terms-of-use.html)
  - [Training policy](training.html)
