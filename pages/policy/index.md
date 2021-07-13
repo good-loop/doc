@@ -15,6 +15,7 @@
  - [Environmental policy](environmental-policy.html)
  - [Grievance Procedure](grievance-procedure.html)
  - [Health & Safety policy](health-and-safety.html)
+ - [Image policy](image-policy.html)
  - [Legal & Emergency Fund](legal-emergency-fund)
  - [Maternity & Paternity Leave](Maternity_Paternity_Leave.html)
  - [Pay Policy](https://wiki.good-loop.com/index.php?title=Pay_Policy)
