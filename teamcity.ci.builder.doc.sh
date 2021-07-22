@@ -24,7 +24,7 @@ PROJECT_USES_WWAPPBASE_SYMLINK='yes'
 BRANCH='master' # If changed -- you must also change the VCS settings for this project in teamcity
 
 # Where is the test server?
-TARGET_SERVERS=(robinson.soda.sh)
+TARGET_SERVERS=(dns-02.good-loop.com)
 
 
 #####  SPECIFIC SETTINGS
