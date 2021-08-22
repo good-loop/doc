@@ -26,7 +26,7 @@ See notes in TrafficReport.jsx on event types
 17. AdServer -> SQL: set Bid.due=true
 18. AdServer -> SQL: reduce Budget
 19. AdServer: if (Budget=0) then switch off Advert.
-20. AdServer -> DataLog: `spend`
+20. AdServer -> DataLog: `spend` with properties `price`,`curr` and audit-trail info (via Budget.java recordSpend())
 21. `pick` with charity-ID cid (NB: on iPhones running iOS < 10, pick happens before the video)
 22. `donation` (once `minview` and `pick` both sent) with charity-ID cid and price.
 23. `endvideo`
