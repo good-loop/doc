@@ -11,10 +11,11 @@ Please contact us if you have any issues.
 
 Put this snippet into your page wherever you want an advert:
 
-```
+~~~
 <div class='goodloopad' style="width: 100%;height: 100vh;"></div>
 <script src='//as.good-loop.com/unit.js?gl.size=landscape&gl.vert=XXXXXX' async></script>
-```
+~~~
+
 Replace the XXXXXX with the adID of the ad that you are attempting to see on your site.
 
 Once that is done, contact us to setup your financial arrangements. 
