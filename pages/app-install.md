@@ -25,16 +25,18 @@ Here are some ideas you can use for making buttons:
 
 When the user clicks the button, it must open a full-screen web view with the url:
 
-`https://as.good-loop.com/?gl.variant=app&site={Your Good-Loop App ID}&uxid={User ID}`
+~~~
+https://as.good-loop.com/?gl.variant=app&site={Your Good-Loop App ID}&uxid={User ID}
+~~~
 
-The User ID uses the following format: `id@service`.  
+The User ID uses the following format: <code>id@service</code>.  
 
-It is normally the ID your app uses followed by `@{Your Good-Loop App ID}`.
+It is normally the ID your app uses followed by <code>@{Your Good-Loop App ID}</code>.
 
 As an example, here are a few User IDs for us. 
 On our own Good-Loop app (coming soon), we'll be 
-`support@good-loop.com@goodloop.app`. The following are also valid User IDs for us: 
-`support@good-loop.com@email`, or `goodloophq@twitter`, or on Facebook we're both `109499602873542@facebook` and `the.good.loop@facebook`.
+<code>support@good-loop.com@goodloop.app</code>. The following are also valid User IDs for us: 
+<code>upport@good-loop.com@email</code>, or <code>goodloophq@twitter</code>, or on Facebook we're both <code>109499602873542@facebook</code> and <code>the.good.loop@facebook</code>.
 
 Remember to provide a way for the user to return to the main part of your app by pressing back.
 
@@ -49,6 +51,6 @@ First, you must get the user's consent. Explain what data will be shared (which 
 > Good-Loop would like to know some non-identifying information about you (gender, country and city, approximate age, and topics of interest), so they can pick more relevant adverts. This will really boost the money you raise for charity! This data will not be shared and you can delete it later. 
 > Do you agree to this? (yes) (no)
 
-Note: User's can revoke consent, and we will remove our copy of their data. We suggest your settings page provides them with a link to us so they can do that if they wish. The page for this is in development, but the url will be `https://my.good-loop.com/#unsub?site={Your Good-Loop App ID}&uxid={User ID}`.
+Note: User's can revoke consent, and we will remove our copy of their data. We suggest your settings page provides them with a link to us so they can do that if they wish. The page for this is in development, but the url will be <code>https://my.good-loop.com/#unsub?site={Your Good-Loop App ID}&uxid={User ID}</code>.
 
 Then, pass profile info by calling our profiler API (ask us for docs). Your app can call the profile API repeatedly. Best practice is to call it when the user enters data (e.g. at the end of sign-up), or edits their data (e.g. in settings).   

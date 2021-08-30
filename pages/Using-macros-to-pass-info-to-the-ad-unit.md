@@ -2,10 +2,10 @@
 
 Here is an example of our adunit tag with DfP macros:
 
-```
+~~~
 <div class='goodloopad'></div>
 <script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&onclick=%%CLICK_URL_ESC%%'></script>
-```
+~~~
 
 Below is a list of macros from DoubleClick for Publishers which we support. The more context information you can pass to the adunit, the better.
 
@@ -46,8 +46,8 @@ Syntax note: We use the format \*term\*, as this does not cause issues with url 
 
 | Macro | Description | Example
 | --- | --- | --- |
-| \*event_type\* | The event type | `minview` or `click` |
-| \*timestamp\* | The time (in epoch milliseconds) | `1527261777138` (which is 25th May 2018 if you're human) |
+| \*event_type\* | The event type | <code>minview</code> or <code>click</code> |
+| \*timestamp\* | The time (in epoch milliseconds) | <code>1527261777138</code> (which is 25th May 2018 if you're human) |
 | \*bid\* | Our bid/impression ID, which can be used in audit trails |  |
 | \*cachebuster\* | A random nonce, to avoid browser caching |  |
 | \*publisher\* | The publisher ID - usually their website domain |  |
@@ -60,5 +60,5 @@ Here is an example of an adunit with external tracking for all events (visible, 
 
 ## DfP References
 
-See https://support.google.com/dfp_premium/answer/2376981?hl=en
-https://support.google.com/adxbuyer/answer/3187721?hl=en
+See [https://support.google.com/dfp_premium/answer/2376981?hl=en](https://support.google.com/dfp_premium/answer/2376981?hl=en)
+[https://support.google.com/adxbuyer/answer/3187721?hl=en](https://support.google.com/adxbuyer/answer/3187721?hl=en)

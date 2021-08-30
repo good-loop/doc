@@ -1,7 +1,7 @@
 ## You can use Good-Loop to monetise your Instagram profile and raise funds for your chosen charitable causes! Here's how:
 
-1. Create your Good-Loop page URL:`https://as.good-loop.com/?site=<your instagram username>.instagram`
-Changing `<your instagram username>` to, well, your instagram username.
+1. Create your Good-Loop page URL:<code>https://as.good-loop.com/?site=<your instagram username>.instagram</code>
+Changing <code><your instagram username></code> to, well, your instagram username.
 
 2. Add your Good-Loop page link to your bio so that people can click on it to support you 
 

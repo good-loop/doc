@@ -6,11 +6,11 @@ This is the best version, which can track when people exit your website. For exa
 
 Insert the following snippet of html into your web-page:
 
-```
+~~~
 <script async src='//as.good-loop.com/pxl.js'></script>
 <img src='//lg.good-loop.com/pxl' 
 	style='position:absolute;bottom:0px;left:0px;width:1;height:1;'/>
-```
+~~~
 
 You can put this directly into the pages. Or if you use a tag manager (e.g. Google Tag Manager), then you can install the tracking pixel via this. Please contact us if you have any issues.
 
@@ -22,14 +22,14 @@ This version is really easy to install. It tracks page-views on your site, but i
 
 The *tracking pixel* is a tiny transparent image (you can't actually see it on the page). When people visit the page, we store that information with a cookie. Then, when they see a Good-Loop adunit, we know they're interested in your charity, so we can include it as one of the options.
 
-If you're using a template editor, just insert an image with the url: `//lg.good-loop.com/pxl`
+If you're using a template editor, just insert an image with the url: <code>//lg.good-loop.com/pxl</code>
 
 Or if you can edit the page html, just put the following in:
 
-```
+~~~
 <img src='//lg.good-loop.com/pxl' 
    style='z-index:-1;position:absolute;bottom:0px;left:0px;width:1;height:1;'/>
-```
+~~~
 
 ## How to test: Email us
 

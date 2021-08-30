@@ -14,13 +14,15 @@ Procedure:
     - Go to the FontSquirrel Web-Font Generator (https://www.fontsquirrel.com/tools/webfont-generator)
     - Upload your font and select "Expert" from the initial radio-buttons.
     - Scroll to the "Subsetting" section, and select "Custom Subsetting" to pop out more options.
-    - Select `Lowercase`, `Uppercase`, and `Numbers` from the "Character Types" section.
-    - Enter `£$©®™!?"'()*+/-=_,.…:;#%&@` in the "Single Characters" field
+    - Select <code>Lowercase</code>, <code>Uppercase</code>, and <code>Numbers</code> from the "Character Types" section.
+    - Enter <code>£$©®™!?"'()*+/-=_,.…:;#%&@</code> in the "Single Characters" field
     - **If the advert is for a non-English-language audience, make sure any accented characters required are also selected**
-    - Click "Download your kit" to get a zip file. You'll want the WOFF file from inside. It's best to rename it to something like `[font-name]-subset.woff` so it's clear it's the stripped-down version.
-3. (10 minutes) Upload the WOFF somewhere publicly accessible - ask Dan A. about this if you're unsure. Copy the URL. Make sure it starts with `https`, or it'll be blocked by browser security!
+    - Click "Download your kit" to get a zip file. You'll want the WOFF file from inside. It's best to rename it to something like <code>[font-name]-subset.woff</code> so it's clear it's the stripped-down version.
+3. (10 minutes) Upload the WOFF somewhere publicly accessible - ask Dan A. about this if you're unsure. Copy the URL. Make sure it starts with <code>https</code>, or it'll be blocked by browser security!
 4. (5 minutes) Go to the advert on https://portal.good-loop.com/, go to the "Advanced" section, and add a font block to the advert's custom CSS:
-```css
+
+~~~
+css
 @font-face {
 	font-family: "INSERT FONT NAME HERE";
 	src: url('https://INSERT-FONT-FILE-URL-HERE') format('woff');
@@ -37,7 +39,8 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'INSERT FONT NAME HERE', sans-serif !important;
 	font-weight: normal;
 }
-```
+~~~
+
 5. (30 minutes) Run through all the unit types the campaign is expected to display in -- e.g. banner/lightbox types, landscape/portrait, our landing page -- and make sure the new font doesn't break anything.
 
 In total, budget about 1 hour to 90 minutes for this - assuming that the font doesn't mess up our styling by, say, being too wide, and necessitate more in-depth CSS tweaking, and also assuming you don't need to go through multiple back-and-forth rounds of approval with the client.

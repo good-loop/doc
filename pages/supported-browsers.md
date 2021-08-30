@@ -10,7 +10,7 @@ For browser/device setups with less than 1% of traffic share - we would like to 
 
 Overall, we should serve a premium experience to at least 95% of requests.
 
-We measure traffic share from `visible` events in our logs (i.e. we're looking at the market we serve).
+We measure traffic share from <code>visible</code> events in our logs (i.e. we're looking at the market we serve).
 
 ### Browsers
 

@@ -53,19 +53,19 @@ Turn Off Your Ad-Blocker
 You Can't. The Preview does NOT render into a SafeFrame, so it's confusingly useless.
 ## Unfriendly host-page CSS
 It's easy to break a SafeFrame's ability to expand to full-page - in fact, it may be the default in Wordpress. A common rule goes something like:
-```
+~~~
 iframe, some other element types {
 	max-width: 100%;
 }
-```
+~~~
 ...which restricts the iframe's width to 100% of the parent element's - which is almost always very small, so our lightbox will be the height of the viewport, but only 300px (or similar) wide.
 
 If our publisher is cooperative, a CSS rule such as (Not Exactly this, but something like this):
-```
+~~~
 iframe[id^='google_ads_iframe_'] { // matches any iframe whose id begins with "google_ads_iframe_"
 	max-width: none;
 }
-```
+~~~
 
 
 

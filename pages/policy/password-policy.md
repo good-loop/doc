@@ -40,17 +40,17 @@ If you use a password manager, you must be extra careful with the master passwor
 
 A pass phrase is basically just a series of words, which can include spaces, that you employ instead of a single pass "word." Pass phrases should be at least 16 to 25 characters in length (spaces count as characters), but no less. Longer is better because, though pass phrases look simple, the increased length provides so many possible permutations that a standard password-cracking program will not be effective. It is always a good thing to disguise that simplicity by throwing in elements of weirdness, nonsense, or randomness. Here, for example, are a couple pass phrase candidates:
 
-```
+~~~
 pizza with crispy spaniels
 mangled persimmon therapy
-```
+~~~
 
 Toss in some punctuation, capitals, and some deliberately misspelled words, and you'll create an almost unguessable key to your account -- but which is still easy for you to remember:
 
-```
+~~~
 Pizza, w 6 krispy Spaniels!
 Mangled persimmon Th3rapy?
-```
+~~~
 
 Reference: Stanford University Password Policy, http://itservices.stanford.edu/service/accounts/passwords
 

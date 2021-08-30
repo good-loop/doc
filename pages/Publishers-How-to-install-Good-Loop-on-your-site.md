@@ -45,10 +45,8 @@ Should you wish to use a Good-Loop ad within your drop-in VAST player, simply co
 
 ## Blocking Ads on a Page
 
-How do you not show an ad? Easy: You decide where to place the `<div class='good-loop-ad'></div>` tags -- no tag, no ad.
+How do you not show an ad? Easy: You decide where to place the <code>&lt;div class='good-loop-ad'&gt;&lt;/div&gt;</code> tags -- no tag, no ad. 
 
 However that can be cumbersome if you want an ad on most pages, but with a few exclusions. For this case, we also have an "advert blacklist" tag. If you place this tag on a page, it will disable Good.Loop adverts on that page -- they won't show at all.
 
-```
-<div class='good-loop-adblock'></div>
-```
+<code>&lt;div class='good-loop-adblock'>&lt;/div&gt;</code>
