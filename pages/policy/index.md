@@ -9,7 +9,7 @@
  - [Buying policy](buying-policy.html)
  - [Complaints procedure](complaints-procedure.html)
  - [Cookie policy](cookie-policy.html)
- - [Data Protection and GDPR - Internal Policy](data-gdpr-policy)
+ - [Data Protection and GDPR - Internal Policy](internal-data-gdpr-policy)
  - [Disciplinary Procedure](disciplinary-procedure.html)
  - [Environmental policy](environmental-policy.html)
  - [Equal Opportunities policy](equal-opportunities.html)

@@ -309,13 +309,13 @@ When you register for an account it is important to ensure that the personal inf
 
 *   <u>Removal</u>
 
-If you want to stop receiving any information from us, such as news and updates, please let us know by updating your preferences through our website or contacting us using the details in paragraph 10\. It may take up to one month to unsubscribe you from marketing.
+If you want to stop receiving any information from us, such as news and updates, please let us know by updating your preferences through our website or contacting us using the details in paragraph 10. It may take up to one month to unsubscribe you from marketing.
 
 Your decision to stop receiving information from us or to delete your account may result in the deletion of some of the personal information that we hold about you, but we may still retain personal information required for other purposes, including where we are legally required to do so.
 
 *   <u>Erasure</u>
 
-In certain circumstances you may be entitled to request the erasure of personal information that we hold about you. To make a request of this nature, please contact us, providing full details of the personal information you want to be erased and the reason(s) for your request. We will consider all requests upon receipt and confirm to you whether We are able to agree to your request.
+You may request the erasure of personal information that we hold about you. To make a deletion request, please contact us, providing full details of the personal information you want to be erased. We will consider all requests upon receipt. We may ask for additional information, for example to verify your identity. You have the right to delete most data, though some data has to be kept for legal reasons.
 
 ## 6.  Cookies And Log Files
 
@@ -364,7 +364,18 @@ you can email our Data Protection Officer (DPO) via
 
 *   Our website or App may contain links to external third party websites and apps. If you follow a link to a third party website or app, please note that this privacy policy does not apply to that website or app. We are not responsible or liable for the privacy policies or practices of any third party websites or apps, so check their policies before you submit any personal data to those websites.
 
-## 12. Further Information
+## 12. GDPR Notes
+
+* The Company is both a Controller and a Processor of data.
+* The Company does not handle special category data.
+* The Company is not required to keep records of Processing Activities (see GDPR Article 30, clause 5).
+
+## 13. CCPA Notes
+
+* CCPA Not Applicable: The Company does not match any of the three thresholds for the CCPA, which are: (a) annual gross revenues below the $25 million threshold, (b) receive or disclose the personal information of 50,000 or more California residents, households, or devices each year, and (c) make 50 percent or greater annual revenue from selling California residents' personal information.
+* The Company voluntarily follows CCPA rules as if it were a Service Provider as a matter of good practice.
+
+## 14. Further Information
 
 *   We hope that the contents of this privacy policy address any queries that you may have about the personal information we may hold about you and what we may do with it. However, if you do have any further queries, comments or requests, please contact us as described in paragraph 10 above.
 
