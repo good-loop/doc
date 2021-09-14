@@ -9,7 +9,7 @@ This document is for internal training. It can also be shared with external bodi
 
 ## Hosting
 
-Good-Loop services are hosted within the EU, and comply with GDPR regulations. 
+Good-Loop services are hosted within the UK and the EU, and comply with GDPR regulations. 
 
 ## Process around Data Issues
 
@@ -42,6 +42,11 @@ Good-Loop has not had a data breach in its history.
 
 We maintain a register of data breaches and near misses [here](https://docs.google.com/spreadsheets/d/13HHz7489jiWO9a0eCZ1ldWjiNCqTfO4VKwbt2yPwzjc/).
 
+## Staff Handling of Data
+
+Good-Loop staff and sub-contractors who handle personal information or confidential client data must 
+take appropriate care to prevent unauthorised people from accessing the data.
+
 ## Rights of the Data Subject
 
 Individuals ("data subjects") can contact a Good-Loop client with various requests. 
@@ -72,9 +77,8 @@ Contact support by email, and we will arrange a data export.
 
 ### Automated Decision-Making
 
-We do not recommend using Good-Loop for automated decision-making about a person that has legal or similar significant effects for that person. 
+We do not recommend using Good-Loop services as part of automated decision-making about a person that has legal or similar significant effects for that person. 
 We are not aware of any clients who do so. If you should wish to do so, please check GDPR regulations.
-
 
 ## GDPR Article 28 Compliance Checklist
 
@@ -90,7 +94,7 @@ In order to comply with the requirements of Article 28 of the GDPR:
  the notification of personal data breaches (Article 33 GDPR), and data protection impact assessments (Article 35 GDPR). 
  - We will delete or return all personal data to the Data Controller as requested at the end of the contract.
  - We agree to reasonable audits and inspections, and to provide the Data Controller with whatever information it needs to ensure that we are both meeting Article 28 obligations.
- - We will tell the controller immediately if asked to do something infringing the GDPR or other data protection law of the EU or a member state.
+ - We will tell the controller immediately if asked to do something infringing the GDPR or other data protection law of the UK, the EU, or a member state.
 
 ## ePrivacy 
 
