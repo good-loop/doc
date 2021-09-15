@@ -156,7 +156,7 @@ These are the events logged by adserving, which you can access in the portal das
  - <code>tryexpand</code> | A SafeFrame wrapped adunit tries to expand to show the lightbox.
  - <code>sfexpanded</code> | A SafeFrame wrapped adunit successfully expanded :) Failures are logged under <code>error</code>.
  - <code>pick</code> | The user has picked a charity.		
- - **</code>minview</code>** | The user has watched long enough to count as a completed view - the advertiser is charged and a donation will be made to charity.
+ - **`minview`** | The user has watched long enough to count as a completed view - the advertiser is charged and a donation will be made to charity.
  - <code>donation</code> | A donation event. Called when the user has picked a charity provided the video view is complete (i.e. after 14 seconds), or the user clicks-through to the advertiser.
  - <code>click</code> | A click through to the advertiser. See logClick in the unit code.
  - <code>clickother</code> | A click through but not too the advertiser (e.g. to the find-out-more link).
@@ -170,5 +170,7 @@ These are the events logged by adserving, which you can access in the portal das
  - <code>average_view_seconds</code> | Use with caution!
  - <code>adok</code> | There is no adblocker present.
  - <code>adblock</code> | There is an adblocker present (or rather: an ad-like request failed; this can also be caused by a bad internet connection).
+ - `spendadjust` | Created by BatchAllocateOrphanSpendEvents to fill in donation info for ad views that reached a donation but didn't allocate it to a charity.
+ - `campaignend` | TODO The campaign has ended - what was the total donation?
 
 NB: the event names are designed to be good for grep and ES. Lower case, no spacing or punctuation.
