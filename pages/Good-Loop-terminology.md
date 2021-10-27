@@ -36,7 +36,6 @@ These are pretty clear when expanded - but we also use the acronyms.
 - <code>Response-to-Brief (RTB)</code> The proposal we send a client after they send us a brief. Note: elsewhere in adtech RTB means realtime bidding.
 - <code>Post Campaign Analysis (PCA)</code> The report we send a client after the campaign.
 
-
 ## Good-Loop Advert Taxonomy
 
 These are the dimensions and standard values for describing an adunit in-part or as a whole. 
