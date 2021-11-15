@@ -17,10 +17,10 @@ Taking leave after bereavement isn't compulsory, but taking at least 1 week is r
 
 ## Who counts as close family?
 
-By default: parents, partners (whether married or not), brothers, sisters, and children.
+By default: parents, partners (whether married or not), brothers, sisters, and children. A miscarriage is also the loss of a close family member.
 
 However the company aims to be understanding around other cases. What matters is the person's emotional relationship with the deceased. 
-The loss of a close friend can cause as much grief. Line managers should handle each case with consideration and empathy.
+The loss of a very close friend can cause as much grief. Line managers should handle each case with consideration and empathy.
 
 ## Loss of a relative or friend
 
@@ -30,6 +30,5 @@ If a staff member loses any relative (including an in-law) or a friend, they can
 
 For contractors, we aim to be understanding and considerate. This is handled on a case-by-case basis. It could include: 
 
- - Paying something towards a week of paid leave.
+ - Paying something towards a week of paid time-off.
  - Being understanding about shifting a deadline.
-
