@@ -16,6 +16,7 @@
  - [Ethical policy](ethical-policy.html)
  - [Grievance Procedure](grievance-procedure.html)
  - [Health & Safety policy](health-and-safety.html)
+ - [Holiday policy](https://docs.google.com/document/d/13mJhzs9npbIkdRhgtC3MxLmgpaTrjnEGGO6UJ1yrrUA)
  - [Image policy](image-policy.html)
  - [Legal & Emergency Fund](legal-emergency-fund)
  - [Maternity & Paternity Leave](Maternity_Paternity_Leave.html)
