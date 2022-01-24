@@ -8,7 +8,7 @@ If a staff member suffers the death of a close family member, then they receive:
 - 1 week (5 working days, pro-rata) paid leave by default. 
 - 2 weeks (10 working days, pro-rata) if a parent loses a child under 18.
 - A further week of paid leave, made available if asked for.
-- If after that, they're not comfortable or ready for returning, that's discussed case by case. 
+- If after that, they're not comfortable or ready for returning, that's discussed case by case. Further leave is available but would normally be unpaid.
 - There won't be a formal return to work policy in the case of bereavement - allowing people to do what works for them. 
 - If you return to work, and find that it's too soon and you're not ready - that's ok, and further leave can be discussed with your line manager. 
 
