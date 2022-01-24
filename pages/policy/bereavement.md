@@ -26,9 +26,20 @@ The loss of a very close friend can cause as much grief. Line managers should ha
 
 If a staff member loses any relative (including an in-law) or a friend, they can have a day off as paid leave to attend the funeral.
 
+## Serious illness of a close family member
+
+If someone close to you is taken seriously ill, then you should take some time off to be with them. 
+
+This time will be tracked and paid on the same basis as if you were sick yourself (see your contract for details).
+
 ## Contractors
 
 For contractors, we aim to be understanding and considerate. This is handled on a case-by-case basis. It could include: 
 
  - Paying something towards a week of paid time-off.
  - Being understanding about shifting a deadline.
+
+## See also
+
+- https://www.gov.uk/time-off-for-dependants
+- https://www.gov.uk/bereavement-support-payment
