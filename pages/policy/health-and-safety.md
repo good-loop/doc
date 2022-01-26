@@ -85,12 +85,12 @@ The management will:
  - Check escape routes every month
  - Check fire extinguishers every month
 
-## Harrassment and Bullying
+## Harassment and Bullying
 
-The workplace should be a safe space for staff and stakeholders. Harrassment or bullying are unacceptable. 
-This covers physical or sexual harrassment, which will be treated particularly seriously, but also includes verbal abuse.
+The workplace should be a safe space for staff and stakeholders. Harassment or bullying are unacceptable. 
+This covers physical or sexual harassment, which will be treated particularly seriously, but also includes verbal abuse.
 
-Any employee experiencing harrassment or bullying, or witnessing it within the company, 
+Any employee experiencing harassment or bullying, or witnessing it within the company, 
 should report it. Please see the Grievance Procedure for details. 
 
 The company will handle cases seriously and with sensitivity 

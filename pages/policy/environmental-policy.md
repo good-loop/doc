@@ -28,7 +28,7 @@ opportunities for further improvements.
 
 Good-Loop aims to be carbon neutral. 
 
-* We have completed the BIMA Carbon Negative course to accurately calculate our base footprint accross scope 1, 2 and 3.
+* We have completed the BIMA Carbon Negative course to accurately calculate our base footprint across scope 1, 2 and 3.
 	See [BIMA Carbon Negative](https://bima.co.uk/carbon-negative/) 
 * We continuously work towards offsetting and *reducing* this carbon footprint. 
 	See [our Cool-Earth offset profile](https://www.coolearth.org/profiles/GoodLoop/)

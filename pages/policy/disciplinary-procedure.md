@@ -34,7 +34,7 @@ So for these cases, best practice is to give a brief communication to the affect
 
 ### First stage of formal procedure
 
-A manager may start the displinary procedure, either as the result of a [grievance procedure](grievance-procedure.html) investigation, or because they decide the circumstances merit it. An investigation is not needed. If the person being discplined feels that the treatment is unfair, they can appeal (see below).
+A manager may start the disciplinary procedure, either as the result of a [grievance procedure](grievance-procedure.html) investigation, or because they decide the circumstances merit it. An investigation is not needed. If the person being disciplined feels that the treatment is unfair, they can appeal (see below).
 
 The first stage will normally be either:
 

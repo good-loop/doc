@@ -41,7 +41,7 @@ Notes
  - Either `click` or `minview` will trigger AdServer to mark the Bid as due. If both happen, it will only charge the advertiser's Budget once per Bid.
 
  - Why not merge donation / spend?
-Becuase we get minview => spend without a charity pick (so no donation event).
+Because we get minview => spend without a charity pick (so no donation event).
 And we get unlinked spend vs donation from e.g. Loop.Me
 
 

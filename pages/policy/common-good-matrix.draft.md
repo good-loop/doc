@@ -7,7 +7,7 @@ https://www.ecogood.org/what-is-ecg/ecg-in-a-nutshell/#iLightbox[07aba418a3c21ee
 
 <tr><th>A: Suppliers</th>
 	<td>A1. Human dignity in the supply chain: 
-	We operate a buing policy of buy-fairtrade-first, 
+	We operate a buying policy of buy-fairtrade-first, 
 	plus a buy-last list of suppliers and marketplaces to avoid.
 	</td>
 	<td>A2. 
