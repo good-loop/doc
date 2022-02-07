@@ -8,21 +8,24 @@ This policy does not affect how staff do their personal shopping. You can still 
 
 ## Fair Trade First 
 
-If a fair trade option is available, then buy that in preference to non-Fair-Trade. E.g. coffee and tea should be fair trade.
+If a fair trade option is available and reasonable, then buy that in preference to non-Fair-Trade. E.g. coffee and tea should be fair trade.
 
 ## Reduce, Reuse, Recycle (and buy 2nd Hand)
 
 Minimise our environmental impact by buying second-hand where possible and appropriate.
 
-## Buy Last: Amazon, Myanmar, and China
+## Buy Last: Amazon (delivery), Myanmar, and China
 
-### Amazon - Poor treatment of warehouse staff
+If other options are available and reasonable, then choose them in preference to goods from these suppliers.
 
-For delivered goods, check and buy from other sources in preference to Amazon.
+### Amazon (delivery) - Poor treatment of warehouse staff
 
-Why? Amazon treat their warehouse workers considerably worse than others, which has a significant bad health impact. e.g. ref http://digg.com/2018/amazon-workers-pee, or https://www.theguardian.com/business/2018/may/31/amazon-accused-of-treating-uk-warehouse-staff-like-robots, or https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo
+For delivered goods, check and buy from other sources in preference to Amazon. E-bay, Google shoppping, Hive.co.uk, or Blackwells are some options.
 
-This does not apply to Amazon's digital services (e.g. streaming video, Kindle), or where Amazon are a digital marketplace but not a delivery partner (e.g. 2nd hand books that they won't deliver on prime are probably OK). Still, try e.g. E-bay, Google shoppping, or Blackwells for preference.
+Why? Amazon treat their warehouse workers considerably worse than others, which has a significant bad health impact. 
+E.g. ref <http://digg.com/2018/amazon-workers-pee>, or <https://www.theguardian.com/business/2018/may/31/amazon-accused-of-treating-uk-warehouse-staff-like-robots>, or <https://www.theguardian.com/technology/2021/mar/25/amazon-delivery-workers-bathrooms-memo>.
+
+This does not apply to Amazon's digital services (e.g. streaming video, Kindle) -- there's no objection to those. Or where Amazon are a digital marketplace but not a delivery partner (e.g. 2nd hand books that they won't deliver on prime are OK). 
 
 ### China and Myanmar - Human rights abuses
 
