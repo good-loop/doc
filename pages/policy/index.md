@@ -14,6 +14,7 @@
  - [Environmental policy](environmental-policy.html)
  - [Equal Opportunities policy](equal-opportunities.html)
  - [Ethical policy](ethical-policy.html)
+ - [Expenses policy](expenses-policy.html)
  - [Grievance Procedure](grievance-procedure.html)
  - [Health & Safety policy](health-and-safety.html)
  - [Holiday policy](https://docs.google.com/document/d/13mJhzs9npbIkdRhgtC3MxLmgpaTrjnEGGO6UJ1yrrUA)
