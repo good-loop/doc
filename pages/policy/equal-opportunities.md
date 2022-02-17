@@ -1,3 +1,5 @@
+categories: 
+
 # Equal Opportunities & Diversity Policy
 
 ## 1. Introduction
@@ -6,12 +8,15 @@ Good-Loop recognises that it is essential to provide equal
 opportunities to all persons without discrimination. This policy sets out the
 company's position on equal opportunity in all aspects of employment,
 including recruitment and promotion, and provides guidance and encouragement to
-employees at all levels to act fairly and prevent discrimination or abuse on the grounds
-of sex, race, nationality, marital status, disability as defined by the Disability
-Discrimination Act 1995, part-time and fixed term contract status, age, sexual
-orientation or religion.
+employees at all levels to act fairly and prevent discrimination.
+
+By definition diversity comes in many shapes and sizes, including:  
+gender (sexism), race (racism), nationality (xenophobia), marital & family status, disability (as defined by the Disability
+Discrimination Act 1995 or otherwise), part-time and fixed term contract status, age, sexual
+orientation, trans-status, religion (for clarity, anti-semitism is defined according to [1]), class, or neuro-diversity. These are the Diversity Categories for this policy -- we will also be open-minded about other categories which may get added to this policy as appropriate.
 
 Good-Loop believes that diversity benefits the culture of the company.
+
 Demographic data will be collected (at each employee's discretion) to provide a
 picture of company diversity. Where it appears that a demographic group is
 being under-represented, circumstances will be investigated to identify any
@@ -27,20 +32,17 @@ management, employees, sub-contractors, and suppliers.
 (a) Discrimination can be direct or indirect. Both forms of discrimination must be avoided.
 
 (b) Direct discrimination occurs when one person is treated less favourably
-than another on grounds relating to sex (sexism), race (racism), nationality, marital status, age, disability,
-sexual orientation, or religion (for clarity, anti-semitism is defined according to [1]). "Positive discrimination" is also a form of discrimination.
+than another on grounds relating to the Diversity Categories. "Positive discrimination" is also a form of discrimination.
 
 (c) Indirect discrimination occurs where a requirement is imposed which can be
-complied with by a smaller proportion of persons of a particular sex, race, nationality, 
-marital status, disability, age, part-time or fixed term contract status,
-sexual orientation or religion, than persons in another group and which is not
+complied with by a smaller proportion of persons of a particular Diversity Category, than persons in another group and which is not
 objectively justifiable in the given situation. Examples include:
 
   - seeking job applications only from persons under 27 years of age and with five years' post-graduate experience;
   - demanding technical qualifications for a job which are not necessary;
   - sending only full time employees on training courses.
 
-(d) Abusive or offensive behaviour and comments are unacceptable, especially when linked to sexual, racial or gender groups, 
+(d) Abusive or offensive behaviour and comments are unacceptable, especially when linked to a Diversity Category, 
 and such behaviour is covered by this policy. 
 It is important that our culture encourages diversity and respect, and that the work environment is a safe place 
 for people of all types - whilst also being a place where people can express themselves. 
@@ -51,17 +53,13 @@ This includes whether or not such behaviour is explicitly directed at a person.
 ## 3. Statement of policy
 
 (a) It is the policy of Good-Loop Ltd to ensure that no job
-applicant, employee or supplier receives less favourable treatment on the grounds of sex,
-race, nationality, marital status, disability, age, part-time or fixed term contract status,
-sexual orientation or religion, or is disadvantaged by conditions or
+applicant, employee or supplier receives less favourable treatment on the grounds of the Diversity Categories, or is disadvantaged by conditions or
 requirements that cannot be shown to be justifiable. The organisation is
 committed not only to its legal obligations but also to the positive promotion
 of equality of opportunity in all aspects of employment.
 
 (b) It is the policy of Good-Loop Ltd to ensure that the workplace
-is a safe and respectful environment for all people, regardless of sex, race, nationality, marital
-status, disability, age, part-time or fixed term contract status, sexual orientation,
- or religion.
+is a safe and respectful environment for all people, regardless of Diversity Categories.
 
 (c) The organisation recognises that adhering to the Equal Opportunities
 Policy, combined with relevant employment policies and practices, maximises the
@@ -80,9 +78,8 @@ ability and merits.
 (a) Advertisements for posts will give sufficiently clear and accurate
 information to enable potential applicants to assess their own suitability for
 the post. Information about vacant posts will be provided in such a manner that
-does not restrict its audience in terms of sex, race, nationality, marital status,
-disability, age, part-time or fixed term contract status, sexual orientation or
-religion.
+does not restrict its audience in terms of any Diversity Category unless that is 
+objectively important for the job.
 
 (b) Recruitment literature will not imply a preference for one group of
 applicants unless there is a genuine occupational qualification which limits
@@ -105,9 +102,8 @@ purely to job requirements and asked to all candidates.
 
 ## 5. Employment
 
-(a) Good-Loop will not discriminate on the basis of sex, race, nationality, 
-marital status, disability, age, part-time or fixed term contract status,
-sexual orientation or religion in the allocation of duties between employees
+(a) Good-Loop will not discriminate on the basis of any Diversity Category 
+in the allocation of duties between employees
 employed at any level with comparable job descriptions.
 
 (b) Good-Loop will put in place any reasonable measures and/or
@@ -123,18 +119,15 @@ wages paid to others.
 
 ## 6. Suppliers and Sub-Contractors
 
-(a) Good-Loop will not discriminate on the basis of sex, race, nationality, 
-marital status, disability, age,
-sexual orientation or religion in the selection of suppliers or sub-contractors.
+(a) Good-Loop will not discriminate on the basis of any Diversity Category
+in the selection of suppliers or sub-contractors.
 
 (b) All tenders will be considered solely on their business merits with equal opportunities for all.
 
 
 ## 7. Training
 
-(a) Employees will be provided with appropriate training regardless of sex,
-race, nationality, marital status, disability, age, part-time or fixed term contract status,
-sexual orientation or religion.
+(a) Employees will be provided with appropriate training regardless of Diversity Categories.
 
 (b) All employees will be encouraged to discuss their career prospects and
 training needs with their Line Manager or the HR Department.
