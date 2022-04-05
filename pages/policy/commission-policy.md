@@ -14,7 +14,7 @@ Sales commission is paid quarterly, the month after the quarter ending.
 
 ## Revenue share
 
-All staff who do not receive sales commission (except for the founders, Amy and Dan) get a 2% share of campaign profits.
+All staff who do not receive sales commission get a 2% share of campaign profits.
 
 "Campaign profit" is defined as sales income, minus cost-of-sales: donations / media / brand studies / platform fees / sales commission.
 

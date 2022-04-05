@@ -357,7 +357,6 @@ you can email our Data Protection Officer (DPO) via
 
 * The International Advertising Bureau (IAB) operates a framework for managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Good-Loop supports the TCF and is on the Global Vendor List (GVL) as **vendor #749**.
 
-
 * Good-Loop Ltd is company **SC548356**, registered in the UK. Our registered address is 27 McDonald Road, Edinburgh, EH7 4LX.
 
 ## 11. Links To Other Websites
