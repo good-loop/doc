@@ -11,7 +11,7 @@ We use the following cookies:
 
 1.  **Analytical or performance cookies.** These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 
-2.  We also use analytical cookies for our core business– advertising. Cookies allow us to see what works and what doesn't.
+2.  We also use analytical cookies for our core business - advertising. Cookies allow us to see what works and what doesn't.
 
 1.  **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
