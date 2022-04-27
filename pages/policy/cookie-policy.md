@@ -98,49 +98,34 @@ Duration
 <tr>
 <td>
 DNT
-</td>
-<td>
+</td><td>
 1st Party
-</td>
-<td>Processes</td>
-<td>
+</td><td>Processes</td><td>
 This records if you opt into or out-of Cookie consent. 
 It is a simple on/off marker, and is not only completely anonymous but cannot carry any other information.
-</td>
-<td>
+</td><td>
 1 year
-</td>
-</tr>
+</td></tr>
 <tr>
 <td>
 trkid
-</td>
-<td>
+</td><td>
 1st Party
-</td>
-<td>Marketing</td>
-<td>
+</td><td>Marketing</td><td>
 This is only used with consent. It is for tracking advert interaction and donations.
-</td>
-<td>
+</td><td>
 1 year
-</td>
-</tr>
+</td></tr>
 <tr>
 <td>
 Segment markers
-</td>
-<td>
+</td><td>
 3rd Party
-</td>
-<td>Marketing</td>
-<td>
+</td><td>Marketing</td><td>
 These are only used with consent. They are for marking advertising segments and retargeting.
-</td>
-<td>
+</td><td>
 90 days
-</td>
-</tr>
+</td></tr>
 </tbody>
 </table>
 
@@ -167,92 +152,94 @@ Duration
 </th>
 </tr>
 <tr>
-<td colspan='5'>The Cookies described in A above may also be used in the Website or App in the same way as described above.</td>
-</tr>
+<td colspan='5'>The Cookies described in A above may also be used in the Website or App in the same way as described above.</td></tr>
 <tr>
 <td>
 analytics.js
-</td>
-<td>
+</td><td>
 3rd Party
-</td>
-<td>
+</td><td>
 Analytical
-</td>
-<td>
+</td><td>
 This is a Google Analytics cookie. It registers a unique ID that is used to generate statistical data on the use of our Site.
 
 More information about Google Analytics can be found [here](https://policies.google.com/privacy?hl=en-US#footnote-link-info)</u>
-</td>
-<td>
+</td><td>
 
 6 months
 
-</td>
-</tr>
+</td></tr>
 <tr>
 <td>
 metrics.api.drift.com
-</td>
-<td>
+</td><td>
 3rd Party
-</td>
-<td>
+</td><td>
 Processes
-</td>
-<td>
+</td><td>
 
 This is a Drift cookie designed for enabling user interactions with our site's Chat widget (provided by Drift). The Chat widget requests the user's name and email address for contact purposes. User consent for this is managed in the Chat widget itself.
 
 More information about Drift can be found [here](https://www.drift.com/privacy-policy/)
 
-</td>
-<td>
+</td><td>
 Session
-</td>
-</tr>
+</td></tr>
 <tr>
 <td>
 calendly.com
-</td>
-<td>
+</td><td>
 3rd Party
-</td>
-<td>
+</td><td>
 Processes
-</td>
-<td>
+</td><td>
 Calendly uses cookies to manage the book-a-call form on our website.
-</td>
-<td>
+</td><td>
 6 months
-</td>
-</tr>
+</td></tr>
+<tr>
+<td>??facebook</td><td>
+3rd Party
+</td><td>
+Analytical
+</td><td>
+This is a Facebook cookie. It logs when Facebook users visit our site.
+More information about Facebook cookies can be found [here](??)</u>
+</td><td>
+??duration
+</td></tr>
+<tr>
+<td>??hotjar</td><td>
+3rd Party
+</td><td>
+Analytical
+</td><td>
+This is a HotJar analytics cookie. It generates statistical data on the use of our site, such as which buttons get clicked.
+More information about HotJar can be found [here](??)</u>
+</td><td>
+??duration
+</td></tr>
 </tbody>
 </table>
 
 <!--
 Not used: (from an older version of the site maybe?) t1.llanalytics.com
 
-</td>
-<td>
+</td><td>
 
 3rd Party
 
-</td>
-<td>
+</td><td>
 
 Analytical
 
-</td>
-<td>
+</td><td>
 
 This is a third-party cookie intended for managing new leads resulting from the Web Form. The tracking technology is Lead Liaison.
 
 More information about Lead Liaison can be found here:<u>[](https://www.google.com/url?q=http://www.google.com/intl/en/analytics/privacyoverview.html&sa=D&ust=1586175737665000)</u> http://www.leadliaison.com/about/privacy-policy/
 
-</td>
--->
+</td>-->
 
 
 ## Consent To Use Cookies
