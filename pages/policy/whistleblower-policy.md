@@ -8,8 +8,8 @@ Our policies and practices have been developed to maintain the highest business,
 ethical standards.
 
 Therefore, it is policy for employees, when they reasonably believe that
-questionable accounting, data, or auditing practices have occurred or are occurring, 
-to report those concerns (on an anonymous basis, if the employees so desire). All good faith reports will be
+illegal activity or questionable accounting, data, or auditing practices have occurred or are occurring, 
+to report those concerns (on an anonymous basis, if the employee so desires). All good faith reports will be
 taken seriously and will be promptly investigated. All information disclosed during the course of the
 investigation will remain confidential, except as necessary to conduct the investigation and take any
 remedial action.
@@ -53,8 +53,7 @@ to make a report include (but are not limited to) the following:
 * Fraud or deliberate error in the preparation, evaluation, review or audit of any financial statements.
 * Fraud or deliberate error in the recording and maintaining financial records.
 * False statement, to or by a senior officer or accountant regarding financial matters.
-* The existence of side letters, side agreements or side arrangements with customers, distributors or resellers which could be an
-undisclosed conflict of interest.
+* The existence of side agreements with customers, distributors or resellers which could be an undisclosed conflict of interest.
 * Violation of laws against trading on inside information, or any non-compliance with any insider trading policy.
 * Deviations from full and fair reporting of finances.
 
