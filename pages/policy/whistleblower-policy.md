@@ -19,6 +19,28 @@ without fear of harassment, discrimination or retaliation. The Company strictly 
 retaliation or harassment of any kind against any employee who, based on the employee's reasonable
 belief that such conduct has occurred, reports that information pursuant to this Policy.
 
+## What Counts for Whistleblowing?
+
+From <https://www.gov.uk/whistleblowing>:
+
+> ### Complaints that count as whistleblowing
+> You're protected by law if you report any of the following:
+> 
+> - a criminal offence, for example fraud
+> - someone’s health and safety is in danger
+> - risk or actual damage to the environment
+> - a miscarriage of justice
+> - the company is breaking the law, for example does not have the right insurance
+> - you believe someone is covering up wrongdoing
+> 
+> ### Complaints that do not count as whistleblowing
+> 
+> - Personal grievances (for example bullying, harassment, discrimination) are not covered by whistleblowing law, unless your particular case is in the public interest.
+> 
+> Report these under your employer's grievance policy.
+> 
+> Contact the Advisory, Conciliation and Arbitration Service (Acas) for help and advice on resolving a workplace dispute.
+
 ## Reporting Complaints
 
 ### Duty to Report
