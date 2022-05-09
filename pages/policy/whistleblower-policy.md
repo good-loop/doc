@@ -62,8 +62,9 @@ to make a report include (but are not limited to) the following:
 Employees should submit concerns (confidentially and anonymously, if they wish) in
 any of the following ways:
 
-* By email to any member of the Board of Directors.
-* By post to the company's registered office.
+* By email to CEO, Amy Williams
+* Or by email to any member of the Board of Directors
+* Or by post to the company's registered office
 
 ## Treatment of Complaints
 
