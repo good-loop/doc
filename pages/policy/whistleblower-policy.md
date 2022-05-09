@@ -1,5 +1,5 @@
 
-# (draft) Whistleblower Policy
+# Whistleblower Policy
 
 Good-Loop is committed to maintaining the highest standards of 
 integrity, and takes very seriously all good
