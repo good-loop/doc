@@ -35,7 +35,7 @@ Country-wide sanctions are generally to be avoided. However in the most serious 
 
 Under no circumstances should any negative consideration be applied to individuals for links with such countries. E.g. not working with a Chinese person in the UK because they are Chinese, or expecting such a person to denounce China, would be considered racist.
 
-On the buy-last list are: Myanmar (genocide against the Rohinga people), and China (mass-scale internment of the Uighur people; e.g. ref: https://www.bbc.co.uk/news/world-asia-china-50511063, https://www.youtube.com/watch?v=17oCQakzIl8&ab_channel=LastWeekTonight, https://www.bbc.co.uk/news/world-asia-china-55794071.
+On the buy-last list are: Myanmar (genocide against the Rohinga people), and China (mass-scale internment of the Uighur people; e.g. ref: https://www.bbc.co.uk/news/world-asia-china-50511063, https://www.youtube.com/watch?v=17oCQakzIl8&ab_channel=LastWeekTonight, https://www.bbc.co.uk/news/world-asia-china-55794071, https://www.bbc.co.uk/news/extra/85qihtvw6e/the-faces-from-chinas-uyghur-detention-camps.
 
 This does not include Hong Kong (where the international trade may be providing some deterrent against repression). 
 
