@@ -13,6 +13,7 @@
 	* [Good-Loop Terminology](/Good-Loop-terminology.html)
 * [Browser compatibility](/supported-browsers.html)
 * [Privacy Policy](/policy/privacy-policy.html)
+* [Job Applicant Privacy Notice ](policy/job-applicant-privacy-notice.html)
 * [Policies](/policy)
 
 To edit a document -- please use GitHub: <https://github.com/good-loop/doc>, or email us.
