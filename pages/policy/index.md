@@ -8,6 +8,7 @@
  - [Bullying and Harassment policy](bullying-harassment-policy.html)
  - [Buying policy](buying-policy.html)
  - [Complaints procedure](complaints-procedure.html)
+ - [Communications and Shared Documents Etiquette](https://docs.google.com/document/d/1DTgAD6yZ2At-y1IcDYz_QcHlS85OWJuE4uo6gA81aoo)
  - [Cookie policy](cookie-policy.html)
  - [Data Protection and GDPR - Internal Policy](internal-data-gdpr-policy)
  - [Disciplinary Procedure](disciplinary-procedure.html)
