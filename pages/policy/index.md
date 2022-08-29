@@ -4,7 +4,7 @@
  - [Access Control policy](access-control-policy.html)
  - [Bereavement policy](bereavement.html)
  - [Brand Safety policy](brand-safety-policy.html)
- - [Business Continuity policy](bullying-harassment-policy.html)
+ - [Business Continuity policy](business-continuity.html)
  - [Bullying and Harassment policy](bullying-harassment-policy.html)
  - [Buying policy](buying-policy.html)
  - [Complaints procedure](complaints-procedure.html)
