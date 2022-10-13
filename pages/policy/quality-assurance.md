@@ -2,7 +2,7 @@
 
 ## Overview
 
-Good-Loop / Good-Loop aims to provide high quality services and products through continuous
+Good-Loop aims to provide high quality services and products through continuous
 improvement of its standards and performance. The Company is committed to meeting the needs of all
 its clients and stakeholders.
 
@@ -11,8 +11,7 @@ quality of provision.
 
 ## Policy Objectives
 
- - To support the Company mission statement: "To provide practical solutions to
-tough problems and services that deliver real value to clients."
+ - To support the Company in delivering reliable high-quality services.
  - To provide the operational guidelines for a high standard of service to all
 our clients.
  - To ensure a comprehensive, sound and integrated approach to Company activity
@@ -30,10 +29,12 @@ This is implemented in a transparent and rigorous way using a version-control sy
  - <i>Consistency:</i> The Company will ensure consistency of standards through the implementation of appropriate quality assurance
 systems and procedures.
 
-## Software Testing & Release
+## Software Development, Testing & Release
 
-We use a combination of quality assurance techniques to provide a high  quality of service.
+We use a combination of quality assurance techniques to provide a high quality of software.
 
  - Development is done in clearly defined sprints following best practice processes.
- - We have a dedicated testing phase for each release. This includes testing by staff from outside the development team. 
+ - Version control (using git) is used to manage feature development and release versions. See our [Git Workflow Process](policy/git-policy.html) for details.
+ - Fresh code is peer-reviewed using git pull requests. Peer review can be relaxed in urgent situations.
+ - We have a dedicated testing phase for each release. This includes testing by non-developers. 
  - Quality monitoring is built into the software itself, with automatic alerts if there is an issue.
