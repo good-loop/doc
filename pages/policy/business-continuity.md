@@ -9,15 +9,29 @@ To ensure that projects can continue even if the lead person suffers
 serious illness or injury, secondary people are kept briefed on the
 engagement.
 
-## Documents and systems
+## Documents, data, and systems
 
-All digital assets are stored in a secure off-site repository. This repository is
-replicated to two further locations nightly. Databases are also backed
-up on a nightly basis and replicated off-site.
-
-Together these measures ensure that we have a scalable infrastructure
+We implement measures to ensure that we have a scalable infrastructure
 with multiple redundancies. This infrastructure can be rapidly repaired
 in the event of disaster or catastrophic hardware failure. 
+
+All digital assets are either:
+
+a. Stored in Google Drive, which provides a secure robust cloud storage platform.
+
+or
+
+b. Stored in a secure off-site repository. This repository is
+replicated to two further locations nightly. 
+
+Databases critical for production use a distributed server setup. 
+Databases are backed up on a nightly basis and replicated off-site.
+
+### Testing
+
+Failover testing of server clusters is done on a monthly basis as part of our release QA.
+
+Integrity testing of database backups is done on a quarterly basis.
 
 ## Workplace
 
