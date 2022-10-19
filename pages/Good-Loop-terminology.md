@@ -8,6 +8,12 @@ _See also the [AdTech Jargon Glossary](AdTech-Jargon-Glossary.html)_
 We mostly deliver standard advert formats, like pre-roll vpaid. However we also have a couple of
 Good-Loop specific products.
 
+ * `Watch-to-Donate (WTD)` Our main video-ads product.
+
+ * `Green Media` aka `Green Ad Tag`
+
+ * `Tabs-for-Good (T4G)` A browser plugin for the general public.
+
  * Video Player Page (the <code>player</code>). A destination page that shows a video ad. https://demo.good-loop.com
 
  * <code>Impact Hub</code>: a micro-site that shows the impact from an advert(s), and the number of people who saw it. This was previously known as _Campaign Page_ but renamed as it can go beyond single campaigns.
@@ -33,8 +39,8 @@ We make this (adding the charity logo overlay) - but the core of it is a short v
 
 These are pretty clear when expanded - but we also use the acronyms.
 
-- <code>Response-to-Brief (RTB)</code> The proposal we send a client after they send us a brief. Note: elsewhere in adtech RTB means realtime bidding.
-- <code>Post Campaign Analysis (PCA)</code> The report we send a client after the campaign.
+- `Response-to-Brief (RTB)` The proposal we send a client after they send us a brief. Note: elsewhere in adtech RTB means realtime bidding.
+- `Post Campaign Analysis (PCA)` The report we send a client after the campaign.
 
 ## Good-Loop Advert Taxonomy
 
