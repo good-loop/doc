@@ -34,7 +34,7 @@
  - [Shadow IT policy](shadow-it-policy.html) 
  - [Staff Perks](https://good-loop.com/jobs/#benefits-and-perks) 
  - [Terms of Use](/terms/terms-of-use.html)
- - [Training policy](https://doc.good-loop.com/policy/training.html)
+ - [Training policy](training.html)
  - [Volunteering](Volunteering.html)
  - [Whistleblowing](whistleblower-policy.html)
  - [Policies in the internal wiki](https://wiki.good-loop.com/index.php?title=Special%3ASearch&search=policy)
