@@ -41,7 +41,19 @@ The policy applies to visitors of the Good-Loop website and viewers (end users o
 
 When you use our website or App, or view our adverts, you may provide us with the following personal data, which we process accordance with this Privacy Policy and for the following purposes:
 
-### 2.a. Adverts
+### 2.a. Legitimate Interests
+
+We collect and process some data on the legal basis of legitimate interests.
+
+We have designed our data collection and handling to minimise the use of individual data.
+
+We have assessed the potential impact on a data subjects' interests and fundamental rights, and concluded that it is very low, and does not
+override the legitimate interests.
+
+The details are described below.
+
+
+### 2.b. Adverts
 
 <table class='table'>
 <tbody>
@@ -59,7 +71,11 @@ What is our lawful basis for processing?
 <tr>
 <td>
 
-**Approximate Location Data:** this is collected via the web connection you use (IP address). This is only accurate to the level of country and city/region.
+**Approximate Location Data:** this is collected via the web connection you use (IP address). 
+This is only accurate to the level of country and city/region.
+
+We may temporarily store your IP address during this processing.
+This is never shared even in aggregate and is not retained beyond a maximum of one month.
 
 </td>
 <td>
@@ -67,6 +83,8 @@ What is our lawful basis for processing?
 *   To comply with country specific laws and to select adverts by country.
 
 *   To identify trends in service usage and address any location-specific issues.
+
+* To calculate the carbon footprint of an advertiser.
 
 </td>
 <td>
@@ -79,7 +97,10 @@ To comply with a legal obligation or our legitimate interest to analyse user dat
 <td>
 
 **Usage Data:** We may process data regarding viewing adverts, including average time spent in the advert, 
-any problems reported, clicks, your IP address, device type, and number and frequency of views.
+any problems reported, clicks, device type, and number and frequency of views.
+
+We may temporarily store the browser user-agent string during processing for device type. 
+This is never shared even in aggregate and is not retained beyond a maximum of one month.
 
 </td>
 <td>
@@ -141,7 +162,7 @@ We may also track your interaction with our services through the use of cookies 
 </table>
 
 
-### 2.b. Website and App
+### 2.c. Website and App
 
 The following data uses do not apply to adverts, but may apply when you use our website or App.
 
@@ -355,7 +376,7 @@ you can email our Data Protection Officer (DPO) via
 
 * We are registered with the UK Information Commissioner's Office (ICO). Our registration number is: **ZA275147**
 
-* The International Advertising Bureau (IAB) operates a framework for managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Good-Loop supports the TCF and is on the Global Vendor List (GVL) as **vendor #749**.
+* The International Advertising Bureau (IAB) operates a framework for managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Good-Loop complies with the policies of the TCF, and is on the Global Vendor List (GVL) as **vendor #749**.
 
 * Good-Loop Ltd is company **SC548356**, registered in the UK. Our registered address is 27 McDonald Road, Edinburgh, EH7 4LX.
 
