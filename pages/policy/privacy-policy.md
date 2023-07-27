@@ -374,11 +374,13 @@ You may request the erasure of personal information that we hold about you. To m
 you can email our Data Protection Officer (DPO) via 
 <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.
 
-* We are registered with the UK Information Commissioner's Office (ICO). Our registration number is: **ZA275147**
+* Good-Loop Ltd is company `SC548356`, registered in the UK. Our registered address is 27 McDonald Road, Edinburgh, EH7 4LX.
 
-* The International Advertising Bureau (IAB) operates a framework for managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Good-Loop complies with the policies of the TCF, and is on the Global Vendor List (GVL) as **vendor #749**.
+* We are registered with the UK Information Commissioner's Office (ICO). Our registration number is: `ZA275147`
 
-* Good-Loop Ltd is company **SC548356**, registered in the UK. Our registered address is 27 McDonald Road, Edinburgh, EH7 4LX.
+* The International Advertising Bureau (IAB) operates a framework for managing consent, called the [Transparency Consent Framework (TCF)](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Good-Loop complies with the policies of the TCF, and is on the Global Vendor List (GVL) as `vendor #749`.
+
+* We are applying to join the Trustworthy Accountability Group (TAG). Our TAG ID is `aa835747e2deb43f`
 
 ## 11. Links To Other Websites
 
