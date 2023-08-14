@@ -3,7 +3,7 @@
 Status: Official   
 Version: 1.0   
 
-Sys-Admin: Daniel Appel   
+Sys-Admin: Aidan Thomson, email: <span class='email' data-name='sysadmin' data-domain='good-loop.com'>sysadmin at good-loop.com</span>
 
 Fixes don't normally get pushed out straight away. Instead, they go into the next release (where they can have thorough testing & be rolled out without extra work).
 

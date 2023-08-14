@@ -46,7 +46,7 @@ We have a policy of routinely locking doors when out of office.
 
 ## Handling Personal Data
 
-Information Officer: Daniel Appel
+Information / Data Protection Officer: Norman Thompson. Email: <span class="email" data-name="dpo" data-domain="good-loop.com">dpo at good-loop.com</span>
 
 Good-Loop is registered under the Data Protection Act with the UK Information Commisioner's Office.
 
