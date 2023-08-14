@@ -17,7 +17,7 @@ Clients can contact Support with data and GDPR issues. We will provide support a
 This is also the process for subject-access requests.
 
 The contact for our data protection officer (DPO) is: 
-<span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>
+<span class='email' data-name='dpo' data-domain='good-loop.com'>dpo at good-loop.com</span>
 
 ## Consent
 

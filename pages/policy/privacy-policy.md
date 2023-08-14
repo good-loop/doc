@@ -372,7 +372,7 @@ You may request the erasure of personal information that we hold about you. To m
 
 * If you need to contact us about this notice or any matters relating to the personal information we hold on you, 
 you can email our Data Protection Officer (DPO) via 
-<span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.
+<span class='email' data-name='dpo' data-domain='good-loop.com'>dpo at good-loop.com</span>.
 
 * Good-Loop Ltd is company `SC548356`, registered in the UK. Our registered address is 27 McDonald Road, Edinburgh, EH7 4LX.
 
