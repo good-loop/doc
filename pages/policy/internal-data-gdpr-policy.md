@@ -6,6 +6,7 @@ The GDPR law grants the public increased rights and imposes rules on how data mu
 Good-Loop supports the GDPR. This policy document covers how Good-Loop handles the GDPR.
 
 This document is for internal training. It can also be shared with external bodies on request.
+All staff must also complete the iHasco training course on GDPR.
 
 ## Hosting
 

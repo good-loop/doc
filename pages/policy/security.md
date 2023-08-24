@@ -52,10 +52,12 @@ Good-Loop is registered under the Data Protection Act with the UK Information Co
 
 Personal data is stored securely at all times, and only accessed when necessary.
 Staff are trained to take care over access to computers, memory-sticks, etc. with personal data on them.
+Training includes the iHasco Cyber Security course.
 
 Personal data is disposed of securely -- for example, paper documents with personal data are shredded, and hard-drives 
 are securely wiped.
 Server hard drives are wiped using one of three methods in the following order of availability:
+
 1. Full Zeroing Pass
 2. Random Zeroing Pass
 3. DoD 3-Full Zeroing Passes
