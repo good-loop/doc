@@ -1,4 +1,3 @@
-
 # Flow for a Typical Successful Our-Page Advert
 
 All activity is by the AdUnit (aka unit.js), unless otherwise stated.
@@ -12,7 +11,7 @@ See notes in TrafficReport.jsx on event types
 5. `adok` or `adfail` depending on success of loading ads.js
 6. UnitJS -> AdServer: requests unit.json
 7. `req` (from AdServer) ... `reqfail` if there is an error.
-    * If we've come from a click on our own ad-unit, this will be `req2`, as it'll be using a pre-existing bid
+   - If we've come from a click on our own ad-unit, this will be `req2`, as it'll be using a pre-existing bid
 8. (If not coming from click on a Good-Loop unit) AdServer -> SQL: new Bid
 9. AdServer -> UnitJS (client): **unit.json sent**
 10. `render`

@@ -1,4 +1,3 @@
-
 # Bug Bounty Scheme
 
 If you find a bug or a vulnerability in our systems -- Please report it to support@good-loop.com, and thank you for doing so.
@@ -10,9 +9,8 @@ As well as a payment to the bug bounty hunter, they can also name a charity, and
 
 This bug bounty scheme is subject to you agreeing to HackerOne's guidelines on bug bounties:
 
- - You be the first reporter of the vulnerability.
- - You follow https://hackerone.com/disclosure-guidelines
- - You do not access data of other users and solely use your created accounts.
- - You may not publicly disclose the vulnerability prior to our resolution.
- - You provide a working proof of concept that exploits the security issue.
-
+- You be the first reporter of the vulnerability.
+- You follow https://hackerone.com/disclosure-guidelines
+- You do not access data of other users and solely use your created accounts.
+- You may not publicly disclose the vulnerability prior to our resolution.
+- You provide a working proof of concept that exploits the security issue.

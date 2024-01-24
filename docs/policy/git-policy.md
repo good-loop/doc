@@ -1,41 +1,43 @@
-
 # Git Workflow Policy / Process
 
 ### Keep your repos and github up to date
 
 Daily synchronisation habit for all developers:
 
-* **pull, commit, and push at the end of each day.** So that you're working on up-to-date code, and the team has shared code.
-* Remember that we have quite a few repos, and the `wwappbase.js` repo is sym-linked into several projects. 
-It's best to pull all the repos using the `code/script/gsync` script.
+- **pull, commit, and push at the end of each day.** So that you're working on up-to-date code, and the team has shared code.
+- Remember that we have quite a few repos, and the `wwappbase.js` repo is sym-linked into several projects.
+  It's best to pull all the repos using the `code/script/gsync` script.
 
 #### Enabling gsync
 
 In terminal:
+
 ```
 cd ~
 nano .bashrc
 ```
+
 Add the following scripts to the end of `.bashrc`:
+
 ```
 export WINTERWELL_HOME="~/winterwell"
 export PATH=$WINTERWELL_HOME/code/script:$PATH
 ```
-You should be able to use `gsync` in new terminal window afterwards. 
+
+You should be able to use `gsync` in new terminal window afterwards.
 
 #### Using gsync
 
- - `gsync` to pull all the repos.
- - `gsync message` to **push** all the repos with the attribute as message. 
+- `gsync` to pull all the repos.
+- `gsync message` to **push** all the repos with the attribute as message.
 
 ### Shared web-app js/css code: wwappbase.js
 
- - The way we share js code between different projects is using the `wwappbase.js` repo. In each web-app repo, `src/js/base/` is actually linked to `../../../wwappbase.js/base`. 
- - When you edit the code inside of `src/js/base/`, be aware that you are also changing the codes of other repos. 
- - When you need to edit the shared codes, remember to also commit and push in `/wwappbase.js`.
+- The way we share js code between different projects is using the `wwappbase.js` repo. In each web-app repo, `src/js/base/` is actually linked to `../../../wwappbase.js/base`.
+- When you edit the code inside of `src/js/base/`, be aware that you are also changing the codes of other repos.
+- When you need to edit the shared codes, remember to also commit and push in `/wwappbase.js`.
 
 Note: we have tried other approaches like git modules and npm packages. They were a bit painful.
-
 
 ### Feature Branches and Pull Requests
 
@@ -61,22 +63,22 @@ Branches are great for safe development and code review. However having multiple
 - Branch-mismatch bugs and version conflicts.
 - Lots of branches reduce transparency, making joint work harder.
 
-So avoid letting feature branches stay open for a long time (e.g. over a month is too long). 
-A branch should be opened, worked on, then merged into master via a PR. 
+So avoid letting feature branches stay open for a long time (e.g. over a month is too long).
+A branch should be opened, worked on, then merged into master via a PR.
 
 It is OK for the master branch to hold unfinished code, provided it isn't going to block other people. You can merge partly-done work into master.
 
 When you create a branch:
 
- - Always push the new branch to github.
- - Always mention that on chat with the branch name.
+- Always push the new branch to github.
+- Always mention that on chat with the branch name.
 
 When you finish a task:
 
- - run `git merge master` to make sure your branch is up to date with the latest code.
- - Make a pull-request (PR) on github.
- - Assign a colleague to review your code. That person should do the merge (or ask for some edits).
- - However you can also merge code yourself, e.g. if a fix is needed promptly.
+- run `git merge master` to make sure your branch is up to date with the latest code.
+- Make a pull-request (PR) on github.
+- Assign a colleague to review your code. That person should do the merge (or ask for some edits).
+- However you can also merge code yourself, e.g. if a fix is needed promptly.
 
 ### Branch names: `feature or bugfix/year-month/keywords`
 

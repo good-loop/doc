@@ -7,16 +7,18 @@ The intended audience is Good-Loop tech and account staff.
 
 When you are on support, your job is to handle incoming requests, deal with stale support requests, and check communications have gone out where needed.
 
-1) Pester developers who have "Stale Support". 
+1. Pester developers who have "Stale Support".
+
 - If you can handle it quickly yourself, finish the work and get back in touch with the person who sent the support request.
 - Otherwise sternly inform the person whose task it is that this is overdue. The degree of sternness should be based upon how old the issue is.
 
-2) Handle normal support. The task here is to ensure that everything on this list is either assigned to someone, or is closed.
+2. Handle normal support. The task here is to ensure that everything on this list is either assigned to someone, or is closed.
+
 - If you can handle this issue now, handle it, reply to the issue sender and close it.
 - If you can handle this issue, but don't have time now, assign it to yourself.
 - If you can't handle this issue, assign it to someone who can.
 
-3) Check <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>. 
+3. Check <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.
 
 ## Backporting
 

@@ -24,20 +24,25 @@ Procedure:
 
 ```css
 @font-face {
-	font-family: "INSERT FONT NAME HERE";
-	src: url('https://INSERT-FONT-FILE-URL-HERE') format('woff');
-	font-weight: normal;
-	font-style: normal;
+  font-family: "INSERT FONT NAME HERE";
+  src: url("https://INSERT-FONT-FILE-URL-HERE") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
 /* If the custom font is for normal text */
 body {
-  font-family: 'INSERT FONT NAME HERE', sans-serif !important;
-	font-weight: normal;
+  font-family: "INSERT FONT NAME HERE", sans-serif !important;
+  font-weight: normal;
 }
 /* If the custom font is for header text */
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'INSERT FONT NAME HERE', sans-serif !important;
-	font-weight: normal;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "INSERT FONT NAME HERE", sans-serif !important;
+  font-weight: normal;
 }
 ```
 

@@ -1,4 +1,3 @@
-
 # Image Policy
 
 This policy is for using images in our website or other publications.
@@ -7,11 +6,11 @@ This policy is for using images in our website or other publications.
 
 Images should either:
 
- - (a) Belong to Good-Loop, 
- - or (b) be logos -- it's OK to use another company's logo when referring to them (there's a disclaimer in the website footer to say that the 3rd party owns their logo),
- - or (c) come from a site like <unsplash.com> that allows reuse. 
-   - If you use creative-commons (e.g. Flickr has a creative-commons search), then please name the file `{image name}_cc_{author}_{site eg flickr}.jpg` so we can include an attribution comment.
- - or (d) have approval from the owner (e.g. with case-study docs, we ask the brand for approval).
+- (a) Belong to Good-Loop,
+- or (b) be logos -- it's OK to use another company's logo when referring to them (there's a disclaimer in the website footer to say that the 3rd party owns their logo),
+- or (c) come from a site like <unsplash.com> that allows reuse.
+  - If you use creative-commons (e.g. Flickr has a creative-commons search), then please name the file `{image name}_cc_{author}_{site eg flickr}.jpg` so we can include an attribution comment.
+- or (d) have approval from the owner (e.g. with case-study docs, we ask the brand for approval).
 
 ## File Format: .svg, .png, or .jpg
 

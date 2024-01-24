@@ -1,4 +1,3 @@
-
 # Security Policy
 
 Good-Loop takes security very seriously, and we follow best-practice methods to protect our systems.
@@ -23,26 +22,25 @@ unfamiliar tasks.
 
 ## Reporting Security Issues
 
-To report a security issue: *email <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>*
+To report a security issue: _email <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>_
 
 Any of the following should be reported:
 
-* Unauthorised access to systems or office premises.
-* Evidence of a system being compromised.
-* Confidential data being handled without care.
-* Possible breaches of data-protection.
-* Suspected issues and causes for concern.
+- Unauthorised access to systems or office premises.
+- Evidence of a system being compromised.
+- Confidential data being handled without care.
+- Possible breaches of data-protection.
+- Suspected issues and causes for concern.
 
 The support team treat security issues as high priority.
 
 ## Office Security
 
 Physical access to our offices and servers is strictly controlled.
-Our offices are not accessible from the street. A key is required to access any office. 
+Our offices are not accessible from the street. A key is required to access any office.
 We have a policy of routinely locking doors when out of office.
 
 <!-- Our office computers and laptops use screen-savers with automatic screen locking. -->
-
 
 ## Handling Personal Data
 
@@ -54,7 +52,7 @@ Personal data is stored securely at all times, and only accessed when necessary.
 Staff are trained to take care over access to computers, memory-sticks, etc. with personal data on them.
 Training includes the iHasco Cyber Security course.
 
-Personal data is disposed of securely -- for example, paper documents with personal data are shredded, and hard-drives 
+Personal data is disposed of securely -- for example, paper documents with personal data are shredded, and hard-drives
 are securely wiped.
 Server hard drives are wiped using one of three methods in the following order of availability:
 
@@ -72,10 +70,10 @@ The breach will be investigated, and the results of the investigation documented
 
 If a breach was found to have occurred, then the company will take appropriate measures to:
 
- - Notify affected individuals.
- - Notify the authorities.
- - Limit any damage.
- - Prevent further breaches.
+- Notify affected individuals.
+- Notify the authorities.
+- Limit any damage.
+- Prevent further breaches.
 
 #### Logging Data Breaches and Near Misses
 
@@ -84,8 +82,8 @@ If a data breach or a near miss is reported, then this must be logged in the [Da
 ### Individual Subject Access Rights
 
 Individuals have the right to request a copy of the data we hold about them.
-Enquiries should be made to the Information Officer, who will coordinate authenticating the 
-individual's online identity, and collating the data for them. 
+Enquiries should be made to the Information Officer, who will coordinate authenticating the
+individual's online identity, and collating the data for them.
 
 Please see the GDPR Policy for more information.
 
@@ -95,7 +93,7 @@ We follow best practices to keep our systems secure.
 
 ### Server Hosting
 
-Our servers are hosted in a dedicated and secure data centre. 
+Our servers are hosted in a dedicated and secure data centre.
 
 ### Data backup and encryption
 
@@ -105,11 +103,11 @@ Data is backed up on a nightly basis and replicated off-site. All backups are en
 
 ### Access to Servers
 
-Access to servers is strictly controlled. Our servers are hosted at reputable data-centres who comply with international hosting standards. 
+Access to servers is strictly controlled. Our servers are hosted at reputable data-centres who comply with international hosting standards.
 
 Remote access is via secure multi-stage login. Low level server login is strictly controlled, requiring both an
 authorised ssh key and a password, both of which are only held by
-senior Good-Loop technical staff. 
+senior Good-Loop technical staff.
 
 ### Browser/server communication
 
@@ -117,7 +115,7 @@ Good-Loop should be accessed via the secure https protocol, providing
 security for data in transit. When Good-Loop connects with 3rd party
 services such as Twitter, it does so over encrypted https.
 
-Good-Loop uses an SSL certificate, and provides secure HTTPS connections. https is the standard secure method 
+Good-Loop uses an SSL certificate, and provides secure HTTPS connections. https is the standard secure method
 for secure internet connections, providing high-grade encryption.
 
 ### Software
@@ -129,14 +127,14 @@ Software is only installed after clearance by a senior technical officer. Non au
 
 ### Access to Development Computers
 
-Physical access to office computers is controlled by security-managed keys, and secure logins. 
+Physical access to office computers is controlled by security-managed keys, and secure logins.
 
 ### Access to Client Data
 
 Access to the Good-Loop system is via personal logins. Each user must have their own login, allowing for fine-grained security
-control and audit trails. Every single web page request is logged for a minimum of two weeks. A 2 week audit trail is kept for all user actions. 
+control and audit trails. Every single web page request is logged for a minimum of two weeks. A 2 week audit trail is kept for all user actions.
 
-As with any system, clients are responsible for keeping their login details secure. 
+As with any system, clients are responsible for keeping their login details secure.
 If a login should become compromised, we will revoke that login which immediately stops all access.
 
 Following best practice guidelines, we store
@@ -149,10 +147,9 @@ See also the [Access Control Policy](./access-control-policy.md).
 
 Users can export data, in which case they take responsibility for access to it. Of course, a user can only export the data they are entitled to view and use.
 
-
 ### Storage of Client Data
 
-Personally identifying details such as name and email addresses can be stored in Good-Loop databases, e.g. if someone signs up to a mailing-list. No payment and credit/debit card information will be stored at all in the Good-Loop databases. 
+Personally identifying details such as name and email addresses can be stored in Good-Loop databases, e.g. if someone signs up to a mailing-list. No payment and credit/debit card information will be stored at all in the Good-Loop databases.
 
 Customer passwords are not directly stored. Instead, a one-way hash is stored (using a secure hash function). This allows for the password to be checked, but it cannot be recovered.
 

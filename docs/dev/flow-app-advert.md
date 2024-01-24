@@ -1,4 +1,3 @@
-
 # Flow for a Typical Successful In-App Advert
 
 TODO @Roscoe add flow for ourpage, safeframe/iframe

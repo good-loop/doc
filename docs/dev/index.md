@@ -1,4 +1,3 @@
-
 # Index of Dev
 
 Actually Dev docs are best viewed via github:

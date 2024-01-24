@@ -1,4 +1,3 @@
-
 # Architecture Overview
 
 See also the flow-X files, which describe how particular interactions like serving-an-ad are handled.
@@ -6,7 +5,7 @@ See also the flow-X files, which describe how particular interactions like servi
 ## Micro Services
 
 Good-Loop is split up into several modular pieces following a
-microservices architecture. 
+microservices architecture.
 
 A doc for external people: https://docs.google.com/document/d/11ZZnTonhKPyK1Tqvae1fYqDY-GvERSYOygCsnhwWF1M/edit#heading=h.xpwnope5859v
 
@@ -46,13 +45,11 @@ The backend is provided by the other micro-services here.
 For ad-hoc services: calstat (calendar counter), and tasks (used by portal)
 Maybe we should rename it to labs?
 
-
 ### Batch Processes (in adserver repo)
 
 These are for doing data clean-up operations.
 
 com.goodloop.process.BatchAllocateOrphanSpendEvents
-
 
 ## Software Stack
 
@@ -80,5 +77,3 @@ Service Stack - Used by the AdServer, Logger, and Profiler
 [i:java Java]
 [ElasticSearch][i:postgres PostgreSQL][http: micro-services]
 [OS:Linux i:linux i:ubuntu :2]
-
-

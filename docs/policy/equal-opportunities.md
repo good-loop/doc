@@ -18,7 +18,7 @@ being under-represented, circumstances will be investigated to identify any
 policies or criteria which exclude or discourage certain groups and, if so,
 whether these are justifiable.
 
-Diversity is not restricted to one area of operations. 
+Diversity is not restricted to one area of operations.
 This policy applies to all areas of Good-Loop's operations, including
 management, employees, sub-contractors, and suppliers.
 
@@ -31,21 +31,21 @@ than another on grounds relating to sex (sexism), race (racism), nationality, ma
 sexual orientation, or religion (for clarity, anti-semitism is defined according to [1]). "Positive discrimination" is also a form of discrimination.
 
 (c) Indirect discrimination occurs where a requirement is imposed which can be
-complied with by a smaller proportion of persons of a particular sex, race, nationality, 
+complied with by a smaller proportion of persons of a particular sex, race, nationality,
 marital status, disability, age, part-time or fixed term contract status,
 sexual orientation or religion, than persons in another group and which is not
 objectively justifiable in the given situation. Examples include:
 
-  - seeking job applications only from persons under 27 years of age and with five years' post-graduate experience;
-  - demanding technical qualifications for a job which are not necessary;
-  - sending only full time employees on training courses.
+- seeking job applications only from persons under 27 years of age and with five years' post-graduate experience;
+- demanding technical qualifications for a job which are not necessary;
+- sending only full time employees on training courses.
 
-(d) Abusive or offensive behaviour and comments are unacceptable, especially when linked to sexual, racial or gender groups, 
-and such behaviour is covered by this policy. 
-It is important that our culture encourages diversity and respect, and that the work environment is a safe place 
-for people of all types - whilst also being a place where people can express themselves. 
+(d) Abusive or offensive behaviour and comments are unacceptable, especially when linked to sexual, racial or gender groups,
+and such behaviour is covered by this policy.
+It is important that our culture encourages diversity and respect, and that the work environment is a safe place
+for people of all types - whilst also being a place where people can express themselves.
 Behaviour is unacceptable when it would reasonably be expected
-to cause offence, except where it is a reasonably justified difference of opinions. 
+to cause offence, except where it is a reasonably justified difference of opinions.
 This includes whether or not such behaviour is explicitly directed at a person.
 
 ## 3. Statement of policy
@@ -61,7 +61,7 @@ of equality of opportunity in all aspects of employment.
 (b) It is the policy of Good-Loop Ltd to ensure that the workplace
 is a safe and respectful environment for all people, regardless of sex, race, nationality, marital
 status, disability, age, part-time or fixed term contract status, sexual orientation,
- or religion.
+or religion.
 
 (c) The organisation recognises that adhering to the Equal Opportunities
 Policy, combined with relevant employment policies and practices, maximises the
@@ -88,10 +88,10 @@ religion.
 applicants unless there is a genuine occupational qualification which limits
 the post to this particular group, in which case this must be clearly stated.
 
-(c) All vacancies will be circulated internally. 
+(c) All vacancies will be circulated internally.
 
-(d) To encourage diversity, whenever feasible, vacancies will be circulated via 
-channels that encourage under-represented groups to apply, 
+(d) To encourage diversity, whenever feasible, vacancies will be circulated via
+channels that encourage under-represented groups to apply,
 in addition to normal channels.
 
 (d) All descriptions and specifications for posts will include only
@@ -105,7 +105,7 @@ purely to job requirements and asked to all candidates.
 
 ## 5. Employment
 
-(a) Good-Loop will not discriminate on the basis of sex, race, nationality, 
+(a) Good-Loop will not discriminate on the basis of sex, race, nationality,
 marital status, disability, age, part-time or fixed term contract status,
 sexual orientation or religion in the allocation of duties between employees
 employed at any level with comparable job descriptions.
@@ -117,18 +117,17 @@ employment or for disabled appointees.
 (c) All employees will be considered solely on their merits for career
 development and promotion with equal opportunities for all.
 
-(d) For transparency and to guard against any unfair pay differences, 
-the company has an open pay policy, where employees are entitled to see the 
+(d) For transparency and to guard against any unfair pay differences,
+the company has an open pay policy, where employees are entitled to see the
 wages paid to others.
 
 ## 6. Suppliers and Sub-Contractors
 
-(a) Good-Loop will not discriminate on the basis of sex, race, nationality, 
+(a) Good-Loop will not discriminate on the basis of sex, race, nationality,
 marital status, disability, age,
 sexual orientation or religion in the selection of suppliers or sub-contractors.
 
 (b) All tenders will be considered solely on their business merits with equal opportunities for all.
-
 
 ## 7. Training
 

@@ -1,7 +1,7 @@
 # Server Update / HotFix Policy
 
-Status: Official   
-Version: 1.0   
+Status: Official  
+Version: 1.0
 
 Sys-Admin: Aidan Thomson, email: <span class='email' data-name='sysadmin' data-domain='good-loop.com'>sysadmin at good-loop.com</span>
 
@@ -14,12 +14,12 @@ If the dev-team think a fix needs to be pushed out, they will let support (AMs +
 
 Hotfixes get backported into the stable code (and hence every subsequent server update).
 
-But we will normally only update the server for the client affected.   
+But we will normally only update the server for the client affected.  
 There's always some risk of a patch introducing new bugs, and limiting the servers that get upgraded reduces the possible impact.
 
 ## Semi-Regular scheduled updates
 
-Every so often, we will do a cluster-wide update -- either for a more serious or widespread issue, or just to bring everyone up to date after a series of minor fixes. 
+Every so often, we will do a cluster-wide update -- either for a more serious or widespread issue, or just to bring everyone up to date after a series of minor fixes.
 The sys-admin will let AMs know when they happen.
 
 By default, server updates will happen outside business and peak hours. This minimises disruption. Sunday 3am is the preferred time, so that any issues can be picked up first thing on Monday.
