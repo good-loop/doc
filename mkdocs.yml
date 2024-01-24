@@ -5,6 +5,10 @@ theme:
   favicon: assets/favicon.ico
 extra_css:
   - css/gl_theme.css
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
 nav:
   - Home: "index.md"
   - AdTech Jargon Glossary: "AdTech-Jargon-Glossary.md"
@@ -39,7 +43,7 @@ nav:
       - Job Review 360 Form: "internal/job-review-360-form.md"
       - Job Review Form: "internal/job-review-form.md"
   - Notes:
-      - Usa Charity Donations and Tax Notes: "notes/usa-charity-donations-and-tax-notes.md"
+      - USA Charity Donations and Tax Notes: "notes/usa-charity-donations-and-tax-notes.md"
   - Policy:
       - Index: "policy/index.md"
       - GDPR FAQ: "policy/GDPR-FAQ.md"
