@@ -12,10 +12,10 @@ We recommend naming Creatives according to a pattern, such as "GoodLoop-year-mon
 
 Then in the Code Snippet field, paste in the following code:
 
-~~~
+```html
 <div class='goodloopad'></div>
 <script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%'></script>
-~~~
+```
 
 Make sure the "serve using SafeFrame" box *is* ticked. We use SafeFrame to create a lightbox for showing the video.
 
@@ -35,20 +35,20 @@ The **DfP Preview** feature does not work. This is due to a bug in DfP: the prev
 
 CSS issues: It's easy to break a SafeFrame's ability to expand to full-page, if the host page has a css rule that limits iframe width. For example, a css rule like this would block the advert from expanding when clicked:
 
-~~~
+```html
 iframe {
 	max-width: 100%;
 }
-~~~
+```
 
 The effect of this is, when the user clicks to play the video, they only see a small video.
 The solution is to modify the CSS. This can be done safely by using a very specific rule like this:
 
-~~~
+```html
 iframe[id^='google_ads_iframe_'] { /* matches any iframe whose id begins with "google_ads_iframe_" */
 	max-width: none;
 }
-~~~
+```
 
 Any issues? Please contact us.
 

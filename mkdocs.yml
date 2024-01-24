@@ -38,10 +38,10 @@ nav:
       - Data Briefing Notes: "internal/data-briefing-notes.md"
       - Job Review 360 Form: "internal/job-review-360-form.md"
       - Job Review Form: "internal/job-review-form.md"
-  - Jobs:
-      - Hybrid Coder Data Scientist: "jobs/hybrid-coder-data-scientist.md"
-      - Product Ux Lead: "jobs/product-ux-lead.md"
-      - Product Ux: "jobs/product-ux.md"
+  # - Jobs:
+  #     - Hybrid Coder Data Scientist: "jobs/hybrid-coder-data-scientist.md"
+  #     - Product UX Lead: "jobs/product-ux-lead.md"
+  #     - Product UX: "jobs/product-ux.md"
   - Notes:
       - Usa Charity Donations and Tax Notes: "notes/usa-charity-donations-and-tax-notes.md"
   - Policy:
@@ -75,7 +75,7 @@ nav:
       - Safeguarding Policy: "policy/safeguarding-policy.md"
       - Security: "policy/security.md"
       - Server Update Policy: "policy/server-update-policy.md"
-      - Shadow It Policy: "policy/shadow-it-policy.md"
+      - Shadow IT Policy: "policy/shadow-it-policy.md"
       - Social Media Policy: "policy/social-media-policy.md"
       - Tech Process: "policy/tech-process.md"
       - Training: "policy/training.md"

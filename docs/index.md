@@ -3,11 +3,6 @@
 
 > Good-Loop is the world's first ethical advertising network. Our philosophy is that by empowering people to control the adverts they see – you create more inherent value for advertisers. We harness this added value to fund charities. 
 
-<div class="google-custom-search-div2" id="googleCustomSearch2">
-	<h3>Search</h3>
-	<div class="gcse-search"></div>
-</div>
-
 * Terminology / Jargon
 	* [General AdTech Jargon Glossary](./AdTech-Jargon-Glossary.md)
 	* [Good-Loop Terminology](./Good-Loop-terminology.md)
