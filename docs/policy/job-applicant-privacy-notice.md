@@ -1,6 +1,5 @@
 # JOB APPLICANT PRIVACY NOTICE 
 
-<br/>
 Data Controller: Good-Loop Ltd, 27 Mcdonald Road Mcdonald Road, Edinburgh, Scotland, EH7 4LX. 
 
 Data Protection Officer: Daniel Winterstein, CTO, [daniel@good-loop.com](mailto:daniel@good-loop.com)

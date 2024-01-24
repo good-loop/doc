@@ -38,10 +38,6 @@ nav:
       - Data Briefing Notes: "internal/data-briefing-notes.md"
       - Job Review 360 Form: "internal/job-review-360-form.md"
       - Job Review Form: "internal/job-review-form.md"
-  # - Jobs:
-  #     - Hybrid Coder Data Scientist: "jobs/hybrid-coder-data-scientist.md"
-  #     - Product UX Lead: "jobs/product-ux-lead.md"
-  #     - Product UX: "jobs/product-ux.md"
   - Notes:
       - Usa Charity Donations and Tax Notes: "notes/usa-charity-donations-and-tax-notes.md"
   - Policy:
@@ -54,7 +50,6 @@ nav:
       - Business Continuity: "policy/business-continuity.md"
       - Buying Policy: "policy/buying-policy.md"
       - Commission Policy: "policy/commission-policy.md"
-      - Common Good Matrix Draft: "policy/common-good-matrix.draft.md"
       - Complaints Procedure: "policy/complaints-procedure.md"
       - Cookie Policy: "policy/cookie-policy.md"
       - Data Policy Cookie List: "policy/data-policy-cookie-list.md"

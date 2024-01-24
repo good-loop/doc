@@ -1,3 +1,3 @@
-#Good-Loop DNS#
-<br>
+# Good-Loop DNS
+
 DNS is managed at strikingly.com
