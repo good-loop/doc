@@ -31,7 +31,7 @@ When setting up your new Ad Unit, select a VAST video size of 400x300v
 
 ---
 
-Go ahead and generate a Tag for your new Ad Unit.  Start by clicking on "Generate Tag" on the right-hand side of the screen.
+Go ahead and generate a Tag for your new Ad Unit. Start by clicking on "Generate Tag" on the right-hand side of the screen.
 
 Generating the correct tag will involve 4 steps:
 
@@ -79,7 +79,7 @@ Now that you've saved your new Line item, you must approve it.
 
 ## Create a new "Creative Set"
 
-Click on Delivery->Creatives, and click on the header tab "Creative sets".  Now click on "New Creative Set".
+Click on Delivery->Creatives, and click on the header tab "Creative sets". Now click on "New Creative Set".
 
 ![Google GAM Creative Sets 00](img/14-google-gam-creative-sets-00-edited.png)
 
@@ -99,7 +99,7 @@ This will expand the rest of the options that are available for this type of cre
 
 ---
 
-Go ahead and click on the "TEST" button next to the input field.  This will open a separate browser window that is full of XML (you can close that new window) and Google Ad Manager will also read and discern as much of the VAST URL that you've just given it.
+Go ahead and click on the "TEST" button next to the input field. This will open a separate browser window that is full of XML (you can close that new window) and Google Ad Manager will also read and discern as much of the VAST URL that you've just given it.
 
 ![Google GAM Creative Sets 03](img/17-google-gam-creative-sets-03-edited.png)
 
@@ -123,16 +123,16 @@ Add your new "line item" to your new "creative".
 
 ## Wait for it ...
 
-Yes, you read that header correctly.  You must wait for Google Ad Manager to actually make your new VAST Tag live. Give it 20-30 minutes before you move on to the next section.
+Yes, you read that header correctly. You must wait for Google Ad Manager to actually make your new VAST Tag live. Give it 20-30 minutes before you move on to the next section.
 
 ## Test it
 
 Open a new browser tab to [Google's Video Suite Inspector](https://developers.google.com/interactive-media-ads/docs/sdks/html5/vastinspector) and get your generated tag [that you made and saved in the first section of this tutorial] ready for use (copy it).
 
-Past your generated tag into the Google Video Suite Inspector and click "Test Ad".  You should see your ad appear in the video player.
+Past your generated tag into the Google Video Suite Inspector and click "Test Ad". You should see your ad appear in the video player.
 
 ![Google VAST Inspector Final Step](img/22-google-vast-inspector-final-step-edited.png)
 
 ---
 
-That's it.  You have now successfully told Google's Ad Manager Suite to serve a VAST video which is redirected from the Good-Loop platform.
+That's it. You have now successfully told Google's Ad Manager Suite to serve a VAST video which is redirected from the Good-Loop platform.

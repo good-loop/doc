@@ -1,4 +1,3 @@
-
 # Cookie Policy
 
 Our website and advertisements use cookies to distinguish you from other users. This helps us to provide you with a good experience when you browse our website and also allows us to improve our service and advertisement offering.
@@ -11,7 +10,7 @@ We use the following cookies:
 
 1.  **Analytical or performance cookies.** These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 
-2.  We also use analytical cookies for our core business - advertising. Cookies allow us to see what works and what doesn't.
+1.  We also use analytical cookies for our core business - advertising. Cookies allow us to see what works and what doesn't.
 
 1.  **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
@@ -19,13 +18,11 @@ We use the following cookies:
 
 ## Pixels (also called beacons or tags)
 
-Pixels are small invisible image files that are embedded in certain website pages or our advertisements.  They can be used to collect information about your visit to that website page or to record the fact you opened an email.  Your interest in the website, App or advertisement can then be logged and used for analytics or future advertising purposes.  
+Pixels are small invisible image files that are embedded in certain website pages or our advertisements.  They can be used to collect information about your visit to that website page or to record the fact you opened an email.  Your interest in the website, App or advertisement can then be logged and used for analytics or future advertising purposes.
 
 ## Local Storage
 
 Local storage files are created by our App to store information locally on your device. Local storage can be used to store more information and can be stored in a different location on your device to cookies.  Local storage is normally used to speed up site functionality and remember your preferences.
-
-
 
 ## Cookie Details
 
@@ -39,7 +36,7 @@ You can find more information about the individual cookies we use and the purpos
 If you don't confirm, we won't set cookies - but we'll keep asking you in adverts when we get the chance. If you say no, we'll stop asking.
 -->
 
-Let us track your donations and ad-watching with cookies? 
+Let us track your donations and ad-watching with cookies?
 This raises more money for charity by picking more relevant adverts. You can opt-out at any time by clicking "no" on this page.
 
 <div>
@@ -76,171 +73,16 @@ else if (c=='0') setDNT(0);
 
 #### Details of Cookies used in Good-Loop Adverts
 
-<table class='table'>
-<tbody>
-<tr>
-<th>
-Cookie Name
-</th>
-<th>
-1st Party or 3rd Party cookie
-</th>
-<th>
-Cookie Type
-</th>
-<th>
-Purpose
-</th>
-<th>
-Duration
-</th>
-</tr>
-<tr>
-<td>
-DNT
-</td><td>
-1st Party
-</td><td>Processes</td><td>
-This records if you opt into or out-of Cookie consent. 
-It is a simple on/off marker, and is not only completely anonymous but cannot carry any other information.
-</td><td>
-1 year
-</td></tr>
-<tr>
-<td>
-trkid
-</td><td>
-1st Party
-</td><td>Marketing</td><td>
-This is only used with consent. It is for tracking advert interaction and donations.
-</td><td>
-1 year
-</td></tr>
-<tr>
-<td>
-Segment markers
-</td><td>
-3rd Party
-</td><td>Marketing</td><td>
-These are only used with consent. They are for marking advertising segments and retargeting.
-</td><td>
-90 days
-</td></tr>
-</tbody>
-</table>
-
-
-### B. Cookies in Our Website or App
-
-<table class='table'>
-<tbody>
-<tr>
-<th>
-Cookie Name
-</th>
-<th>
-1st Party or 3rd Party cookie
-</th>
-<th>
-Cookie Type
-</th>
-<th>
-Purpose
-</th>
-<th>
-Duration
-</th>
-</tr>
-<tr>
-<td colspan='5'>The Cookies described in A above may also be used in the Website or App in the same way as described above.</td></tr>
-<tr>
-<td>
-analytics.js
-</td><td>
-3rd Party
-</td><td>
-Analytical
-</td><td>
-This is a Google Analytics cookie. It registers a unique ID that is used to generate statistical data on the use of our Site.
-
-More information about Google Analytics can be found [here](https://policies.google.com/privacy?hl=en-US#footnote-link-info)</u>
-</td><td>
-
-6 months
-
-</td></tr>
-<tr>
-<td>
-metrics.api.drift.com
-</td><td>
-3rd Party
-</td><td>
-Processes
-</td><td>
-
-This is a Drift cookie designed for enabling user interactions with our site's Chat widget (provided by Drift). The Chat widget requests the user's name and email address for contact purposes. User consent for this is managed in the Chat widget itself.
-
-More information about Drift can be found [here](https://www.drift.com/privacy-policy/)
-
-</td><td>
-Session
-</td></tr>
-<tr>
-<td>
-calendly.com
-</td><td>
-3rd Party
-</td><td>
-Processes
-</td><td>
-Calendly uses cookies to manage the book-a-call form on our website.
-</td><td>
-6 months
-</td></tr>
-<tr>
-<td>??facebook</td><td>
-3rd Party
-</td><td>
-Analytical
-</td><td>
-This is a Facebook cookie. It logs when Facebook users visit our site.
-More information about Facebook cookies can be found [here](??)</u>
-</td><td>
-??duration
-</td></tr>
-<tr>
-<td>??hotjar</td><td>
-3rd Party
-</td><td>
-Analytical
-</td><td>
-This is a HotJar analytics cookie. It generates statistical data on the use of our site, such as which buttons get clicked.
-More information about HotJar can be found [here](??)</u>
-</td><td>
-??duration
-</td></tr>
-</tbody>
-</table>
-
-<!--
-Not used: (from an older version of the site maybe?) t1.llanalytics.com
-
-</td><td>
-
-3rd Party
-
-</td><td>
-
-Analytical
-
-</td><td>
-
-This is a third-party cookie intended for managing new leads resulting from the Web Form. The tracking technology is Lead Liaison.
-
-More information about Lead Liaison can be found here:<u>[](https://www.google.com/url?q=http://www.google.com/intl/en/analytics/privacyoverview.md&sa=D&ust=1586175737665000)</u> http://www.leadliaison.com/about/privacy-policy/
-
-</td>-->
-
+| Cookie Name           | 1st Party or 3rd Party cookie | Cookie Type | Purpose                                                                                                                                                           | Duration   |
+| --------------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| DNT                   | 1st Party                     | Processes   | This records if you opt into or out-of Cookie consent. It is a simple on/off marker, and is not only completely anonymous but cannot carry any other information. | 1 year     |
+| trkid                 | 1st Party                     | Marketing   | This is only used with consent. It is for tracking advert interaction and donations.                                                                              | 1 year     |
+| Segment markers       | 3rd Party                     | Marketing   | These are only used with consent. They are for marking advertising segments and retargeting.                                                                      | 90 days    |
+| analytics.js          | 3rd Party                     | Analytical  | This is a Google Analytics cookie. It registers a unique ID that is used to generate statistical data on the use of our Site.                                     | 6 months   |
+| metrics.api.drift.com | 3rd Party                     | Processes   | This is a Drift cookie designed for enabling user interactions with our site's Chat widget (provided by Drift).                                                   | Session    |
+| calendly.com          | 3rd Party                     | Processes   | Calendly uses cookies to manage the book-a-call form on our website.                                                                                              | 6 months   |
+| ??facebook            | 3rd Party                     | Analytical  | This is a Facebook cookie. It logs when Facebook users visit our site.                                                                                            | ?? duration |
+| ??hotjar              | 3rd Party                     | Analytical  | This is a HotJar analytics cookie. It generates statistical data on the use of our site, such as which buttons get clicked.                                       | ?? duration |
 
 ## Consent To Use Cookies
 
@@ -252,29 +94,29 @@ Non-essential cookies – We may only store and access non-essential cookies on
 
 Please note that the following third parties may also use cookies, over which we have no control. These third-party cookies are likely to be analytical cookies or performance cookies or targeting cookies. Third-party advertising cookies cannot be used without your consent.
 
- - Providers of external services like web traffic analysis services:
-	- Calendly
- 	- Drift
-	- Google Analytics
- - Advertising networks
+- Providers of external services like web traffic analysis services:
+  - Calendly
+  - Drift
+  - Google Analytics
+- Advertising networks
 
 ## Refusing, Blocking And Deleting Cookies
 
 You can block the use of cookies altogether by activating the relevant settings in your browser. For more information on how to manage the most popular browsers, please see below:
 
-*   Google Chrome: <u>[https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)</u>
+- Google Chrome: <u>[https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)</u>
 
-*   Safari: <u>[https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)</u>
+- Safari: <u>[https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)</u>
 
-*   Internet Explorer: <u>[https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)</u>
+- Internet Explorer: <u>[https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)</u>
 
-*   Edge: <u>[https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)</u>
+- Edge: <u>[https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)</u>
 
-*   Firefox: <u>[https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)</u>
+- Firefox: <u>[https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)</u>
 
 Please be aware that in order to use some parts of our site you will need to allow certain essential or functional cookies. If you subsequently block or delete those cookies, some aspects of our site may not work properly and you may not be able to access all or part of our site.
 
 For more information on cookie management and blocking or deleting cookies for a wide variety of browsers, visit <u>[All About Cookies](https://www.allaboutcookies.org)</u>.
 
-Should you have any questions about the cookies we use or regarding anything else in the policy then please contact our Data Protection Officer 
+Should you have any questions about the cookies we use or regarding anything else in the policy then please contact our Data Protection Officer
 by email at <span class='email' data-name='support' data-domain='good-loop.com'>support at good-loop.com</span>.

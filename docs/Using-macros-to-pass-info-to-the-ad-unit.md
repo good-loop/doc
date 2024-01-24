@@ -3,23 +3,23 @@
 Here is an example of our adunit tag with DfP macros:
 
 ```html
-<div class='goodloopad'></div>
-<script src='//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&onclick=%%CLICK_URL_ESC%%'></script>
+<div class="goodloopad"></div>
+<script src="//as.good-loop.com/unit.js?site=%%SITE%%&gl_url=%%PATTERN:url%%&width=%%WIDTH%%&height=%%HEIGHT%%&adunit=%%ADUNIT%%&cb=%%CACHEBUSTER%%&onclick=%%CLICK_URL_ESC%%"></script>
 ```
 
 Below is a list of macros from DoubleClick for Publishers which we support. The more context information you can pass to the adunit, the better.
 
 ### Core Macros
 
-| Good-Loop parameter | DfP Macro | Description |
-| --- | --- | --- |
-| site | %%SITE%% | The website |
-| gl_url | %%PATTERN:url%% | The full url of the page |
-| width | %%WIDTH%% | Width of the ad slot (in pixels) |
-| height | %%HEIGHT%% | Height of the ad slot (in pixels) |
-| adsize |   | width x height of the ad slot (in pixels) |
-| adunit | %%ADUNIT%% | An identifier for the ad slot |
-| cb | %%CACHEBUSTER%% | A random number to stop caching causing repreated ads |
+| Good-Loop parameter | DfP Macro       | Description                                           |
+| ------------------- | --------------- | ----------------------------------------------------- |
+| site                | %%SITE%%        | The website                                           |
+| gl_url              | %%PATTERN:url%% | The full url of the page                              |
+| width               | %%WIDTH%%       | Width of the ad slot (in pixels)                      |
+| height              | %%HEIGHT%%      | Height of the ad slot (in pixels)                     |
+| adsize              |                 | width x height of the ad slot (in pixels)             |
+| adunit              | %%ADUNIT%%      | An identifier for the ad slot                         |
+| cb                  | %%CACHEBUSTER%% | A random number to stop caching causing repreated ads |
 
 ### Advanced Macros
 
@@ -28,12 +28,12 @@ Event tracking macros may be needed when routing ads via a DSP or exchange.
 For a specific Publisher event tracking can also be setup in the Good-Loop Portal, and this is the recommended
 way to do it, as it is easier to manage.
 
-| Good-Loop parameter | DfP Macro | Description |
-| --- | --- | --- |
-| onclick | %%CLICK_URL_ESC%% | A tracking url to record if a viewer clicks through to visit the advertiser. This is for the Publisher's stats. Good-Loop also provides other analytics tie-ins for advertisers to collect event based stats |
-| minview_url |    | A tracking url to record when a viewer watches the minimum amount for the view to count (also known as a completed-video-view or completed-view elsewhere). |
-| xbid |    | Auction ID or other reference for the specific impression |
-| onEvent |    | A tracking url for all events. This can use our tracking macros. Remember to url-encode the url so it can be passed as a parameter. |
+| Good-Loop parameter | DfP Macro         | Description                                                                                                                                                                                                  |
+| ------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| onclick             | %%CLICK_URL_ESC%% | A tracking url to record if a viewer clicks through to visit the advertiser. This is for the Publisher's stats. Good-Loop also provides other analytics tie-ins for advertisers to collect event based stats |
+| minview_url         |                   | A tracking url to record when a viewer watches the minimum amount for the view to count (also known as a completed-video-view or completed-view elsewhere).                                                  |
+| xbid                |                   | Auction ID or other reference for the specific impression                                                                                                                                                    |
+| onEvent             |                   | A tracking url for all events. This can use our tracking macros. Remember to url-encode the url so it can be passed as a parameter.                                                                          |
 
 ## Our Macros (for use in tracker urls and vast tags)
 
@@ -44,20 +44,19 @@ You can also use our macros in vast/vpaid urls.
 
 Syntax note: We use the format \*term\*, as this does not cause issues with url encoding, nor does it conflict with DoubleClick's use of %%.
 
-| Macro | Description | Example
-| --- | --- | --- |
-| \*event_type\* | The event type | <code>minview</code> or <code>click</code> |
-| \*timestamp\* | The time (in epoch milliseconds) | <code>1527261777138</code> (which is 25th May 2018 if you're human) |
-| \*bid\* | Our bid/impression ID, which can be used in audit trails |  |
-| \*cachebuster\* | A random nonce, to avoid browser caching |  |
-| \*publisher\* | The publisher ID - usually their website domain |  |
+| Macro           | Description                                              | Example                                                             |
+| --------------- | -------------------------------------------------------- | ------------------------------------------------------------------- |
+| \*event_type\*  | The event type                                           | <code>minview</code> or <code>click</code>                          |
+| \*timestamp\*   | The time (in epoch milliseconds)                         | <code>1527261777138</code> (which is 25th May 2018 if you're human) |
+| \*bid\*         | Our bid/impression ID, which can be used in audit trails |                                                                     |
+| \*cachebuster\* | A random nonce, to avoid browser caching                 |                                                                     |
+| \*publisher\*   | The publisher ID - usually their website domain          |                                                                     |
 
 Here is an example of an adunit with external tracking for all events (visible, mouseover, click, etc):
 
 ```html
-<div class='goodloopad'></div>
-<script src='//testas.good-loop.com/unit.js?onEvent=http%3A//myserver.com/click-counter%3Fevent%3D*event_type*'
-></script>
+<div class="goodloopad"></div>
+<script src="//testas.good-loop.com/unit.js?onEvent=http%3A//myserver.com/click-counter%3Fevent%3D*event_type*"></script>
 ```
 
 ## DfP References

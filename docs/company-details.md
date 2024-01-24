@@ -1,4 +1,3 @@
-
 # Good-Loop Company Details
 
 Registration number: SC548356

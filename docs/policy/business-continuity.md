@@ -13,7 +13,7 @@ engagement.
 
 We implement measures to ensure that we have a scalable infrastructure
 with multiple redundancies. This infrastructure can be rapidly repaired
-in the event of disaster or catastrophic hardware failure. 
+in the event of disaster or catastrophic hardware failure.
 
 All digital assets are either:
 
@@ -22,9 +22,9 @@ a. Stored in Google Drive, which provides a secure robust cloud storage platform
 or
 
 b. Stored in a secure off-site repository. This repository is
-replicated to two further locations nightly. 
+replicated to two further locations nightly.
 
-Databases critical for production use a distributed server setup. 
+Databases critical for production use a distributed server setup.
 Databases are backed up on a nightly basis and replicated off-site.
 
 ### Testing
@@ -38,7 +38,7 @@ Integrity testing of database backups is done on a quarterly basis.
 Good-Loop's work does not rely upon our office. All our researchers
 have the capacity to work both when on location and from home. All
 documents and software code are stored using multiple off-site
-repositories (see *documents and systems* above). We can therefore
+repositories (see _documents and systems_ above). We can therefore
 recover even from a serious office disaster such as fire or flood with
 only minor disruption.
 
@@ -46,4 +46,3 @@ only minor disruption.
 
 Good-Loop operates a careful financial policy. A percentage of profit
 is retained to provide a solid buffer against financial changes.
-

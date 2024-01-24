@@ -23,19 +23,19 @@ Our statement of general policy is:
 2. Overall responsibility for health and safety is that of Dr. Daniel Winterstein
 
 3. All employees have to:
-	- co-operate with supervisors and managers on health and safety matters;
-	- not interfere with anything provided to safeguard their health and safety;
-	- take reasonable care of their own health and safety; and
-	- report all health and safety concerns to an appropriate person (as detailed in this policy statement).
+   - co-operate with supervisors and managers on health and safety matters;
+   - not interfere with anything provided to safeguard their health and safety;
+   - take reasonable care of their own health and safety; and
+   - report all health and safety concerns to an appropriate person (as detailed in this policy statement).
 
 ## Health and safety risks arising from our work activities
 
 The management will:
 
- - Perform risk assessments
- - Decide on actions to remove/control risks
- - Implement these actions
- - Confirm that the implemented actions have remove/reduced the risks.
+- Perform risk assessments
+- Decide on actions to remove/control risks
+- Implement these actions
+- Confirm that the implemented actions have remove/reduced the risks.
 
 Assessments will be reviewed every 12 months or when the work activity changes, whichever is soonest.
 
@@ -51,49 +51,49 @@ Good-Loop does not handle or use any dangerous substances. Policy in this area w
 
 The management will:
 
- - Ensure that the Health and Safety Law poster is displayed
- - Provide health and safety advice to employees
- - Supervise young workers/trainees
- - Ensure that employees working at locations under the control of other employers are given relevant health and safety information
+- Ensure that the Health and Safety Law poster is displayed
+- Provide health and safety advice to employees
+- Supervise young workers/trainees
+- Ensure that employees working at locations under the control of other employers are given relevant health and safety information
 
 ## Competency for tasks and training
 
 The management will:
 
- - Provide induction training for all employees
- - Keep training records
- - Arrange and monitor training
+- Provide induction training for all employees
+- Keep training records
+- Arrange and monitor training
 
 ## Accidents first aid and work-related ill health
 
 The management will:
 
- - Maintain records of all accidents and cases of work-related ill health
- - Promptly report any accidents, diseases and dangerous occurences to the enforcing authority as necessary
+- Maintain records of all accidents and cases of work-related ill health
+- Promptly report any accidents, diseases and dangerous occurences to the enforcing authority as necessary
 
 ## Monitoring
 
 To check our working conditions and ensure our safe working practices are being followed, we will:
 
- - Review our policy, records and arrangements every six months
+- Review our policy, records and arrangements every six months
 
 ## Emergency procedures - fire and evacuation
 
 The management will:
 
- - Ensure fire risk assessment is undertaken and implemented
- - Check escape routes every month
- - Check fire extinguishers every month
+- Ensure fire risk assessment is undertaken and implemented
+- Check escape routes every month
+- Check fire extinguishers every month
 
 ## Harassment and Bullying
 
-The workplace should be a safe space for staff and stakeholders. Harassment or bullying are unacceptable. 
+The workplace should be a safe space for staff and stakeholders. Harassment or bullying are unacceptable.
 This covers physical or sexual harassment, which will be treated particularly seriously, but also includes verbal abuse.
 
-Any employee experiencing harassment or bullying, or witnessing it within the company, 
-should report it. Please see the Grievance Procedure for details. 
+Any employee experiencing harassment or bullying, or witnessing it within the company,
+should report it. Please see the Grievance Procedure for details.
 
-The company will handle cases seriously and with sensitivity 
+The company will handle cases seriously and with sensitivity
 to deliver a fair result that respects the rights of all involved.
 
-See also our [Equal Opportunities policy](equal-opportunities.md), which says: Abusive or offensive behaviour and comments are unacceptable, especially when linked to sexual, racial or gender groups. 
+See also our [Equal Opportunities policy](equal-opportunities.md), which says: Abusive or offensive behaviour and comments are unacceptable, especially when linked to sexual, racial or gender groups.

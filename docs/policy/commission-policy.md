@@ -1,4 +1,3 @@
-
 # Commission and Bonus Policy
 
 Legal note: Commission and bonuses are at the Company's discretion, and the Company can always change the policy. They do not form part
@@ -6,11 +5,11 @@ of staff contracts, and there is no entitlement or accrued liability from them.
 
 ## Sales Commission
 
-In Q1 of the year, we set annual targets. On target commission is 40% of base salary. This is based on revenue secured versus revenue targets, with a mixed weighting for individual and team results. 
+In Q1 of the year, we set annual targets. On target commission is 40% of base salary. This is based on revenue secured versus revenue targets, with a mixed weighting for individual and team results.
 
 A sales person can earn more (or less) than their On Target Earnings (OTE) depending on performance. We track OTE vs actual earnings to check that our targets are about right.
 
-Sales commission is paid quarterly, the month after the quarter ending. 
+Sales commission is paid quarterly, the month after the quarter ending.
 
 ## Revenue share
 
