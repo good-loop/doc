@@ -1,0 +1,83 @@
+site_name: Good-Loop Documentation
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/favicon.ico
+extra_css:
+  - css/gl_theme.css
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+nav:
+  - Home: "index.md"
+  - AdTech Jargon Glossary: "AdTech-Jargon-Glossary.md"
+  - Beginners DfP Tutorial: "Beginners-DfP-Tutorial.md"
+  - Common Questions & Pitfalls: "Common-Questions-&-Pitfalls.md"
+  - Custom Fonts: "Custom-Fonts.md"
+  - GL Advert Taxonomy: "GL-advert-taxonomy.md"
+  - Good Loop DNS: "Good-Loop-DNS.md"
+  - Good Loop and VAST VPAID: "Good-Loop-and-VAST-VPAID.md"
+  - Good Loop Terminology: "Good-Loop-terminology.md"
+  - How to install the Good.Loop Tracking Pixel on your site: "How-to-install-the-Good.Loop-Tracking-Pixel-on-your-site.md"
+  - Publishers How to install Good Loop on your site: "Publishers-How-to-install-Good-Loop-on-your-site.md"
+  - Use with DoubleClick for Publishers (DfP): "Use-with-DoubleClick-for-Publishers-(DfP).md"
+  - Using macros to pass info to the ad unit: "Using-macros-to-pass-info-to-the-ad-unit.md"
+  - Wordpress Ad Plugins Notes: "Wordpress-Ad-Plugins-Notes.md"
+  - App Install: "app-install.md"
+  - Company Details: "company-details.md"
+  - Instagram Install: "instagram-install.md"
+  - Supported Browsers: "supported-browsers.md"
+  - Dev:
+      - Index: "dev/index.md"
+      - Adunit Events: "dev/adunit-events.md"
+      - Architecture: "dev/architecture.md"
+      - Bug Bounty: "dev/bug-bounty.md"
+      - Flow App Advert: "dev/flow-app-advert.md"
+      - Flow Direct Tag or Safeframe Advert: "dev/flow-direct-tag-or-safeframe-advert.md"
+      - Flow Myloop Login: "dev/flow-myloop-login.md"
+      - Flow Ourpage Advert: "dev/flow-ourpage-advert.md"
+      - Flow Vast Vpaid Advert: "dev/flow-vast-vpaid-advert.md"
+  - Internal:
+      - Data Briefing Notes: "internal/data-briefing-notes.md"
+      - Job Review 360 Form: "internal/job-review-360-form.md"
+      - Job Review Form: "internal/job-review-form.md"
+  - Notes:
+      - USA Charity Donations and Tax Notes: "notes/usa-charity-donations-and-tax-notes.md"
+  - Policy:
+      - Index: "policy/index.md"
+      - GDPR FAQ: "policy/GDPR-FAQ.md"
+      - Volunteering: "policy/Volunteering.md"
+      - Access Control Policy: "policy/access-control-policy.md"
+      - Anti-modern Slavery Policy: "policy/anti-modern-slavery-policy.md"
+      - Brand Safety Policy: "policy/brand-safety-policy.md"
+      - Business Continuity: "policy/business-continuity.md"
+      - Buying Policy: "policy/buying-policy.md"
+      - Commission Policy: "policy/commission-policy.md"
+      - Complaints Procedure: "policy/complaints-procedure.md"
+      - Cookie Policy: "policy/cookie-policy.md"
+      - Data Policy Cookie List: "policy/data-policy-cookie-list.md"
+      - Design Process Policy: "policy/design-process-policy.md"
+      - Environmental Policy: "policy/environmental-policy.md"
+      - Equal Opportunities: "policy/equal-opportunities.md"
+      - Ethical Policy: "policy/ethical-policy.md"
+      - Fundraising Policy: "policy/fundraising-policy.md"
+      - Git Policy: "policy/git-policy.md"
+      - Health and Safety: "policy/health-and-safety.md"
+      - Image Policy: "policy/image-policy.md"
+      - Internal Data Gdpr Policy: "policy/internal-data-gdpr-policy.md"
+      - Job Applicant Privacy Notice: "policy/job-applicant-privacy-notice.md"
+      - Legal Emergency Fund: "policy/legal-emergency-fund.md"
+      - Password Policy: "policy/password-policy.md"
+      - Privacy Policy: "policy/privacy-policy.md"
+      - Quality Assurance: "policy/quality-assurance.md"
+      - Safeguarding Policy: "policy/safeguarding-policy.md"
+      - Security: "policy/security.md"
+      - Server Update Policy: "policy/server-update-policy.md"
+      - Shadow IT Policy: "policy/shadow-it-policy.md"
+      - Social Media Policy: "policy/social-media-policy.md"
+      - Tech Process: "policy/tech-process.md"
+      - Training: "policy/training.md"
+      - Whistleblower Policy: "policy/whistleblower-policy.md"
+  - Terms:
+      - Terms of Use: "terms/terms-of-use.md"

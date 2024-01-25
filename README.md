@@ -1,32 +1,22 @@
+# Good-Loop Documentation
 
-# Good-Loop Documentation Repo
+Refactor of the Good-Loop documentation. Website builder changed from [jerbil](https://github.com/good-loop/jerbil) to [MkDocs](https://www.mkdocs.org/).
 
-Welcome to the Good-Loop documentation repo. 
-This area is for editors. 
-The docs are best viewed here: <https://doc.good-loop.com>
+## Build 
 
-You can also contact our support team: support@sodash.com.
+```bash
+pip install -r requirements.txt
+mkdocs build
+```
 
-## Other Documentation Places
+A static site will be generated in the `site` directory.
 
-### Research: impact repo and bibliography g-drive
+## Archive
 
-https://github.com/good-loop/impact (some of which is sym-linked in here)
+This repository is archived due to it's outdated contents. 
 
-https://drive.google.com/drive/u/0/folders/1jGdADmR49oDkqzURYy84DjlDFg64yzuP
+_TODO_ : Review contents
 
-### Code: per-project
+## Deploy
 
-See README.md files for project level docs.
-
-See javadoc and jsdoc for more more granular docs.
-
-### SysAdmin
-
-See wiki.good-loop.com
-
-Also G Drive -- See the Dungeon Map for g-drive files
-
-See README.md files for project level docs
-
-config repo
+After reviewing the contents, the site can be deployed to the `gh-pages` branch of this repository. See details from [api-doc](https://github.com/good-loop/api-doc).

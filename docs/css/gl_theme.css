@@ -1,0 +1,14 @@
+/* Define colors */
+:root {
+  --gl-red: #ff194e;
+  --gl-black: #000000;
+  --gl-white: #fafaf5;
+  --pine-green: #0a8a75;
+  --cobalt-blue: #0061ba;
+  --light-magenta: #ffa1e0;
+  --sun-yellow: #ffe566;
+}
+
+.md-header {
+  background-color: var(--cobalt-blue);
+}
